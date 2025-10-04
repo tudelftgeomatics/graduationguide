@@ -6,16 +6,16 @@ Your A4 takes place two weeks after your A3 (Green light). This is a public sess
 
 Since you're presenting to a different kind of audience, you need to adapt your A3 presentation accordingly. However, your thesis remains unchanged, as your grades were already determined at A3.
 
-The A4 may be organised for multiple students simultaneously, followed by a collective diploma ceremony (see Appendix II for the schedule).
+The A4 may be organised for multiple students simultaneously, followed by a collective diploma ceremony (see @app:assessments[Appendix] for the schedule).
 
 == Quality of the lay presentation
 
 The ability to communicate with non-specialists is explicitly listed in
-the final attainment levels (see @app:final-attainment). 
+the final attainment levels (see @app:final-attainment[Appendix]). 
 Since this competence isn't evaluated elsewhere during graduation, the A4 provides an ideal
 opportunity to demonstrate this skill.
 
-Following the A4, the assessment committee will evaluate whether your lay presentation demonstrates "exceptional quality" or falls "below the expected quality" using the specific A4 rubric (see Appendix IV). 
+Following the A4, the assessment committee will evaluate whether your lay presentation demonstrates "exceptional quality" or falls "below the expected quality" using the specific A4 rubric (see @app:rubrics[Appendix]). 
 Based on this assessment, your provisional final grade may be adjusted up or down by half a point. 
 Note that this adjustment doesn't count toward the cum laude distinction (see below), and if your provisional final grade is 6.0, it cannot be lowered.
 

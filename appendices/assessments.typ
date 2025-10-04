@@ -4,7 +4,7 @@
 <a0-registration>
 
 #table(
-  columns: 2,
+  columns: (25%, 75%),
   align: (left,left),
   [Period], [Every quarter this can be done, ask the
     coordinator of GEO2021],
@@ -25,8 +25,8 @@
     table.hline(),
     [Period], [In fixed weeks, once per quarter],
     //--
-    table.cell([*Preparation*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*Preparation*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Planning], [Done by main supervisor in SuperSaaS],
     [Location], [Room booked by scheduling department],
     [Deliverables], [Project proposal],
@@ -38,8 +38,8 @@
     [Actions supervisors], [Read Graduation Report before start A1],
     [Actions delegate], [Read Graduation Report before start A1],
     //--
-    table.cell([*At the session*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*At the session*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Schedule], [
       - 15 min: preparation by student (make sure projector working),
       - 15 min: presentation by student,
@@ -51,8 +51,8 @@
     [Actions supervisors], [Fill in the feedback form, upload it in MyCase and give feedback],
     [Actions delegate], [Chair the assessment and the deliberation],
     //--
-    table.cell([*Upon completion*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*Upon completion*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Go_: the student proceeds towards the A2
       - _No-go_: the student agrees a new A1 date for the next A1 period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration programme.
@@ -70,8 +70,8 @@
     [Admission requirements], [The student succesfully passed A1],
     [Period], [Anything between A1 and A3, it is up to the student and the first supervisor to agree on a date],
     //--
-    table.cell([*Preparation*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*Preparation*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Planning], [Done by main supervisor],
     [Location], [Room booked by the first supervisor],
     [Deliverables], [A document must be uploaded before the meeting to
@@ -82,8 +82,8 @@
     [Actions supervisors], [First supervisor books the room and invite
     the second supervisor],
     //--
-    table.cell([*At the session*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*At the session*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Schedule], [Meeting has free form, it is decided by the
     supervisors],
     [Assessors], [(this is not a formal assessment)],
@@ -91,8 +91,8 @@
     [Actions student], [(none)],
     [Actions supervisors], [(none)],
     //--
-    table.cell([*Upon completion*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*Upon completion*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Assessment result], [(an advice is given to the student, based on
     their progress)],
     [Assessment registration], [The feedback/advice is registered in
@@ -110,8 +110,8 @@
       graduation, and must have held assessment A2 of the graduation.],
     [Period], [In fixed weeks, once per quarter.],
     //--
-    table.cell([*Preparation*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*Preparation*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Planning], [Day and timeslot reservation made by first supervisor
     after the A1],
     [Location], [Room booked by scheduling department],
@@ -125,8 +125,8 @@
     [Actions supervisors], [Read Graduation Report before A3 start],
     [Actions delegate], [Skim (or read) the Graduation Report before A3 start],
     //--
-    table.cell([*At the session*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*At the session*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Schedule], [
     - 15 min: preparation by student (make sure projector working)
     - 20 min: presentation by student
@@ -139,8 +139,8 @@
     [Actions supervisors], [Fill in the feedback form, upload it in MyCase and give feedback],
     [Actions delegate], [Chair the assessment and the deliberation ],
     //--
-    table.cell([*Upon completion*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*Upon completion*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Green-light_: the student proceeds towards the A4
       - _Red-light_: the student agrees a new A3 date for the next A3 period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration program.
@@ -158,8 +158,8 @@
     [Period], [In fixed weeks, once per quarter. Must be done 2 weeks
     after the A3, a student cannot postpone A4 after a successful A3.],
     //--
-    table.cell([*Preparation*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*Preparation*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Planning], [Day and timeslot reservation made by first supervisor
     after the A1],
     [Location], [Room booked by scheduling department],
@@ -172,8 +172,8 @@
     [Actions supervisors], [(none)],
     [Actions delegate], [(none)],
     //--
-    table.cell([*At the session*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*At the session*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Schedule], [
       - 15 min: preparation by student (make sure projector is working)
       - 15 min: presentation by student
@@ -194,8 +194,8 @@
         envelope), and give the laudation 
     ],
     //--
-    table.cell([*Upon completion*], fill: blue.lighten(80%)),
-    table.cell([], fill: blue.lighten(80%)),
+    table.cell([*Upon completion*], fill: green.lighten(80%)),
+    table.cell([], fill: green.lighten(80%)),
     [Assessment registration], [The final grade is registered in MyCase by the first supervisor],
     [Actions student], [ Unsubscribe as TU Delft student via Studielink enrolment, so your enrolment will be terminated as from the 1st of the next month (if you do not terminate your enrolment in time you are required to pay tuition fees for another month; retroactive termination of your enrolment is not possible; under certain circumstances the tuition fee can be partly refunded,
   see the website Termination of Enrolment)],

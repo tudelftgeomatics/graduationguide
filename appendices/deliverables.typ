@@ -1,4 +1,4 @@
-= Deliverables <chap:deliverables>
+= Deliverables <app:deliverables>
 
 == A1 (project proposal) template
 <a1-project-proposal-template>

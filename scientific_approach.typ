@@ -11,7 +11,7 @@ the foundations for their research, which includes conducting a study of
 the most important relevant literature, refining their topic into a
 specific problem statement, establishing of clear research questions or
 objectives, and selecting an appropriate methodology. This culminates
-into the creation of a graduation plan (see Appendix III), which is
+into the creation of a graduation plan (see @app:deliverables[Appendix]), which is
 presented, discussed assessed at the A1 (Kick-off) meeting.
 
 Upon approval of the graduation plan, the student conducts their
@@ -23,7 +23,7 @@ developing new methods, tools or datasets, software development and
 testing, …
 
 The main deliverable of the graduation project is a written graduation
-report (see Appendix III), which documents the research that was
+report (see @app:deliverables[Appendix]), which documents the research that was
 conducted. It includes a reflection that is integrated into the report,
 mostly in the introduction and conclusions. The contents of the report
 will differ depending on the nature of the research, but they should be
@@ -68,7 +68,7 @@ following elements:
 
 Supervisors expect a document of 10-15 pages.
 
-A LaTeX template is available in Appendix III.
+A LaTeX template is available in @app:deliverables[Appendix].
 
 == Graduation report (A3) structure
 <graduation-report-a3-structure>

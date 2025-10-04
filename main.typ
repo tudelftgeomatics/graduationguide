@@ -3,32 +3,46 @@
 #import "@preview/gentle-clues:1.2.0": *
 
 #show: bubble.with(
-  title: "Graduation guide MSc Geomatics",
-  subtitle: "Academic year 2025--2026",
+  title: [Graduation Guide \ MSc Geomatics],
+  subtitle: [`v2025.2026`],
   // author: "hzkonor",
   affiliation: "Delft University of Technology",
-  // date: datetime.today().display(),
+  main-color: "#1a5518",
+  date: none,
+  logo: image("figs/tudlogo.svg"),
   // year: "Year",
   // class: "Class",
   // other: ("Made with Typst", "https://typst.com"),
-  // logo: image("logo.png"),
   // color-words: ("important",)
 ) 
 
+
 //-- front-matter
+#set page(numbering: none)
 // #show outline.entry: it => text(size: 12pt, weight: "regular",it)
 #include "preface.typ" 
 #pagebreak()
 
 #set heading(numbering: "1.")
-#outline(depth: 1)
+#[
+  #show outline.entry.where(
+    level: 1
+  ): it => {
+    v(12pt, weak: true)
+    strong(it)
+  }
+  #outline(depth: 2, indent: auto)
+]
+// #outline(depth: 2)
 // #pagebreak()
 
 
 
-#counter(heading).update(0)
-
 //-- main-matter
+#counter(heading).update(0)
+#counter(page).update(0)
+#set page(numbering: "1")
+
 #pagebreak()
 #include "graduation_structure.typ"
 #pagebreak()
@@ -42,8 +56,10 @@
 #pagebreak()
 
 //-- back-matter / appendices
-#set heading(numbering: "I.")
+#set heading(numbering: "A.1.")
 #counter(heading).update(0)
+
+
 
 #include "appendices/mycase_registration.typ"
 #pagebreak()
