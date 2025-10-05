@@ -1,17 +1,16 @@
 #import "@preview/gentle-clues:1.2.0": *
 
-= MyCase registration <app:mycase-registration>
+= MyCase registration <app:mycase>
 
-As explained in Chapter 1, MyCase is used as a system to track the
-graduation progress of each student. All information about graduation
-(general information and planning, stakeholders, documentation and
-assessment) is collected in this system. The table below serves as a
-chronological overview of all tasks and responsibilities.
+As explained in @chap:graduation-structure, _MyCase_ is used as a system to track the graduation progress of each student. 
+All information about graduation (general information and planning, stakeholders, documentation and assessment) is collected in this system. 
+The table below serves as a chronological overview of all tasks and responsibilities.
 
 
   #table(
     columns: 4,
     align: (left, left, left, left),
+    fill: (_, y) => if y == 0 { green.lighten(80%) },
     table.header([*Phase*], [*When*], [*What*], [*Who*],),
     table.hline(),
     [*A0 Registration*], [1.3], [Submit thesis topic form (on GEO2021 website)], [Student],
@@ -34,18 +33,18 @@ chronological overview of all tasks and responsibilities.
     [], [3.9--4.0], [Midterm assessment], [Student and supervisors],
     [], [], [Submit result and feedback in MyCase], [Responsible
     supervisor],
-    [*A3 Green light*], [4.6-4.7], [Check study progress, upload
+    [*A3 Green light*], [4.6--4.7], [Check study progress, upload
     graduation report, submit diploma application (with final title!)
     and submit 'Ready for green light' task in MyCase, and upload
     graduation report in plagiarism scan in Brightspace], [Student],
     [], [], [Check graduation requirements], [Student programme
     administration],
-    [], [4.7-4.8], [Check for plagiarism], [Responsible supervisor],
+    [], [4.7--4.8], [Check for plagiarism], [Responsible supervisor],
     [], [], [Green light assessment], [Student, supervisors, co-reader
     and delegate],
     [], [], [Submit result and feedback in MyCase], [Responsible
     supervisor],
-    [*A4 Finalisation*], [4.9-4.10], [Upload lay presentation
+    [*A4 Finalisation*], [4.9--4.10], [Upload lay presentation
     and submit 'Ready for finalisation' task in MyCase, upload
     graduation report and lay presentation in repository], [Student],
     [], [], [Upload final grade], [First supervisor],

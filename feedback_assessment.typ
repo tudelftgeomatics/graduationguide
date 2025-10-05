@@ -1,4 +1,4 @@
-= Feedback and assessment <chap:feedback-assessment>
+= Feedback and assessment <chap:feedback>
 
 Throughout the graduation phase, the student should receive regular
 feedback from the supervisory team. More extensive feedback is provided
@@ -19,7 +19,7 @@ presentation, demo or extended discussion session.
 
 At the A1 and A3, the result is formally expressed in a 'go' or a 'no
 go'. In case of a 'no go', a retake of the assessment can take place in
-the next education period (see Chapter 1 and Appendix II). At the A3,
+the next education period (see @chap:graduation-structure and @app:assessments[Appendix]). At the A3,
 the 'go' or 'no go' determines both whether the student continues to the
 A4 and the grades, which will not yet be disclosed (see below).
 
@@ -28,7 +28,7 @@ For the A1 and A2, it is being assessed whether the work is quantitatively and q
 
 == Deliberation and feedback <deliberation-and-feedback>
 After the A1 and A3 presentations and subsequent discussion, the supervisory team will retreat for deliberation. 
-At the A1 and A3, the independent delegate chairs the deliberation (see Chapter 2 and Appendix II), without influencing the result.
+At the A1 and A3, the independent delegate chairs the deliberation (see @chap:supervision and @app:assessments[Appendix]), without influencing the result.
 
 During the deliberation, the supervisory team assesses the deliverables, including the presentation and the answers to the supervisory team's questions. 
 This assessment is formally expressed in a 'go' or a 'no go', representing a 'sufficient to good' or 'insufficient' level respectively.

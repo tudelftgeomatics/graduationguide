@@ -3,8 +3,8 @@
 #import "@preview/gentle-clues:1.2.0": *
 
 #show: bubble.with(
-  title: [Graduation Guide \ MSc Geomatics],
-  subtitle: [`v2025.2026`],
+  title: [Graduation Guide `v2025.2026`],
+  subtitle: [MSc Geomatics],
   // author: "hzkonor",
   affiliation: "Delft University of Technology",
   main-color: "#1a5518",
@@ -36,7 +36,8 @@
 // #outline(depth: 2)
 // #pagebreak()
 
-
+// #show table.cell.where(y: 0): smallcaps
+// #show table.cell.where(y: 0): set text(color: blue)
 
 //-- main-matter
 #counter(heading).update(0)
@@ -56,10 +57,8 @@
 #pagebreak()
 
 //-- back-matter / appendices
-#set heading(numbering: "A.1.")
+#set heading(numbering: "I.i")
 #counter(heading).update(0)
-
-
 
 #include "appendices/mycase_registration.typ"
 #pagebreak()

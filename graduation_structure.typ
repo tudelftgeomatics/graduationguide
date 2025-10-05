@@ -1,25 +1,16 @@
 
 = Graduation structure <chap:graduation-structure>
 
-== Duration
-<duration>
-The #emph[Geomatics Graduation Studio] (the graduation phase where the
-MSc thesis is written; GEO2021) is 40ECTS and lasts in general three
-quarters.
+== Duration <duration>
+The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesis is written; GEO2021) is 40ECTS and lasts in general three quarters.
 
-It normally takes place during the last three quarters of the second
-Master's year (quarters Q6+Q7+Q8), but it can be started in any calendar
-quarter.
+It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started in any calendar quarter.
 
-== Structure
-<structure>
+== Structure <structure>
 #figure(image("figs/gm_structure.png"))
 
-== Admission and assessments
-<admission-and-assessments>
-To enter the graduation phase, the student should have obtained at least
-45ECTS from the 1st year of the MSc Geomatics, and have attended the Q5
-courses (see image structure above).
+== Admission and assessments <admission-and-assessments>
+To enter the graduation phase, the student should have obtained at least 45ECTS from the 1st year of the MSc Geomatics, and have attended the Q5 courses (see image structure above).
 
 The graduation phase is divided into the following assessments:
 
@@ -27,8 +18,13 @@ The graduation phase is divided into the following assessments:
   placement: auto,
   table(
     columns: 3,
+    // stroke: 0.5pt,
     align: (left, left, left),
-    table.header([*Assessment*], [*Name*], [*Details*],),
+    fill: (_, y) => if y == 0 { green.lighten(80%) },
+    table.header([*Assessment*], [*Name*], [*Details*]),
+    // table.cell([*Assessment*], fill: green.lighten(80%)),
+    // table.cell([*Name*], fill: green.lighten(80%)),
+    // table.cell([*Details*], fill: green.lighten(80%)),  
     table.hline(),
     [A0], [Registration], [Selection of the first supervisor and of a
     thesis topic, either by picking from a topic from
@@ -60,37 +56,24 @@ calendars:
 == Retakes <retakes>
 All formal #emph[As] are offered in every quarter.
 
-At the A1 (Kick-off), the supervisors with the delegate determine
-whether the student's plan and presentation meet the requirements,
-resulting in a 'go' to the A2 (Midterm) phase. If a 'no-go' is given,
-the A1 can be done again in the next quarter.
+At the A1 (Kick-off), the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the A2 (Midterm) phase. 
+If a 'no-go' is given, the A1 can be done again in the next quarter.
 
-The same applies to the A3 (Green light), where the supervisors,
-co-reader, and the delegate give a 'go' to proceed to the public A4
-(Finalisation) two weeks later (the grades are also determined but not
-yet communicated); if the requirements are not met, the consequent 'no
-go' results in a retake of the A3 in the next quarter.
+The same applies to the A3 (Green light), where the supervisors, co-reader, and the delegate give a 'go' to proceed to the public A4 (Finalisation) two weeks later (the grades are also determined but not yet communicated); if the requirements are not met, the consequent 'no go' results in a retake of the A3 in the next quarter.
 
 == Registration <registration>
 For planning purposes, the faculty is using the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. 
 It is the responsibility of the responsible supervisor to register the student's A1, A3 and A4 applications before the deadlines in the BK academic graduation calendars. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
-If dates need to be changed, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl];).
+If dates need to be changed, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]).
 
-For registering the graduation process, the faculty is using the #emph[MyCase] registration tool (see Appendix I). 
+For registering the graduation process, the faculty is using the #emph[MyCase] registration tool (see @app:mycase[Appendix]). 
 It is the student's task to start their own 'graduation case'. 
 MyCase is used for the registration of assessment dates, submission of the deliverables before an assessment, registration of the assessments, and feedback. 
-Moreover, the names of the supervisors, co-reader and delegate, and the progress and assessment results are registered in this application. After each assessment, the responsible supervisor fills in the assessment (see @chap:feedback-assessment and @app:rubrics).
+Moreover, the names of the supervisors, co-reader and delegate, and the progress and assessment results are registered in this application. After each assessment, the responsible supervisor fills in the assessment (see @chap:feedback and @app:rubrics[Appendix]).
 
-== Ethics
-<ethics>
-In projects involving humans, certain types of data processing increase
-the risks to the human participants: planning such projects requires
-additional evaluations and advice from university staff before ethical
-approval can be received and the project can begin. In the case of a
-graduation project, obtaining additional advice or permits may delay the
-project with an extra semester. Therefore, all students have to check
-their risk, by completing the Ethics Checklist (Appendix VI) before the
-A1. Only if the graduation project involves working with data from human
-participants, should the rest of the checklist be completed and contact
-be made with the Human Research Ethics Committee (HREC).
+== Ethics <ethics>
+In projects involving humans, certain types of data processing increase the risks to the human participants: planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. 
+In the case of a graduation project, obtaining additional advice or permits may delay the project with an extra semester. 
+Therefore, all students have to check their risk, by completing the Ethics Checklist (@app:ethics[Appendix]) before the A1. 
+Only if the graduation project involves working with data from human participants, should the rest of the checklist be completed and contact be made with the Human Research Ethics Committee (HREC).

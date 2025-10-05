@@ -1,1 +1,1 @@
-= Data management checklist <app:ethics-checklist>
+= Data management checklist <app:ethics>
