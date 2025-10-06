@@ -1,3 +1,5 @@
+
+
 = Deliverables <app:deliverables>
 
 == A1 (project proposal) template
@@ -95,15 +97,20 @@ Since specific data and tools have to be used, it's good to present these concre
 ```
 
 (notice that this text is available at
-#link("https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657");)
+#link("https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657")
 
 == A3/A4 report (final thesis)
-<a3a4-report-final-thesis>
+
 We offer two templates (one in LaTeX and one in Typst), those are
 available on the website of GEO2021:
-https:\/\/geomatics.bk.tudelft.nl/geo2021/templates/\#thesis-template
+#link("https://geomatics.bk.tudelft.nl/geo2021/templates/#thesis-template")
 
 == A3 presentation
 <a3-presentation>
+
+//-- TODO
+
 == A4 presentation
 <a4-presentation>
+
+//-- TODO
