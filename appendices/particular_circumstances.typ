@@ -8,6 +8,9 @@ A quorum is required for each assessment to be valid.
   Board of Examiners.
 - For A3: responsible supervisor, second supervisor, co-reader and
   delegate of the Board of Examiners.
+- For A4: responsible supervisor and second supervisor.
+
+//-- TODO: A4
 
 In case of absence, action will be taken as follows:
 
