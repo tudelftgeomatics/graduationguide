@@ -13,7 +13,7 @@ The form of this session depends on the supervisors, but it might include a pres
 
 At the A1 and A3, the result is formally expressed in a 'go' or a 'no-go'. 
 In case of a 'no-go', a retake of the assessment can take place in the next education period (see @chap:graduation-structure and @app:assessments[Appendix]).  
-At the A3, the 'go' or 'no-go' determines both whether the student continues to the A4 and the grades, which will not yet be disclosed (see below).
+At the A3, the 'go' or 'no-go' determines both whether the student continues to the A4 and the preliminary grades, which will not yet be disclosed (see below).
 
 == Components of assessments <components-of-assessments>
 For the A1 and A2, it is being assessed whether the work is quantitatively and qualitatively on schedule with respect to the A3.

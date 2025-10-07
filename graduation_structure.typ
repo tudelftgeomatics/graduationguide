@@ -47,11 +47,9 @@ All assessments (except A2) should be held in the weeks indicated below.
 Please be aware that there are deadlines for the registration for each
 assessment. For the academic year 2025-2026, this implies the following
 weeks and deadlines, as registered in the BK academic graduation
-calendars:
+calendar:
 
-#figure(image("figs/calendar1.png"))
-
-#figure(image("figs/calendar2.png"))
+#figure(image("figs/calendar.png"))
 
 == Retakes <retakes>
 All formal #emph[As] are offered in every quarter.
@@ -63,9 +61,9 @@ The same applies to the A3 (Green light), where the supervisors, co-reader, and 
 
 == Registration <registration>
 For planning purposes, the faculty is using the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. 
-It is the responsibility of the responsible supervisor to register the student's A1, A3 and A4 applications before the deadlines in the BK academic graduation calendars. 
+It is the responsibility of the responsible supervisor to register the student's A1, A3 and A4 applications before the deadlines in the BK academic graduation calendar. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
-If dates need to be changed, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]).
+If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]).
 
 For registering the graduation process, the faculty is using the #emph[MyCase] registration tool (see @app:mycase[Appendix]). 
 It is the student's task to start their own 'graduation case'. 

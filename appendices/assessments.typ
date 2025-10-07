@@ -27,7 +27,7 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Done by main supervisor in SuperSaaS],
+    [Planning], [Done by the responsible supervisor in SuperSaaS. If not available, by email to `graduation-bk@tudelft.nl`.],
     [Location], [Room booked by scheduling department],
     [Deliverables], [Project proposal],
     [Assessment method], [Rubric],
@@ -55,11 +55,11 @@
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Go_: the student proceeds towards the A2
-      - _No-go_: the student agrees a new A1 date for the next A1 period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration programme.
+      - _No-go_: the student agrees a new A1 date for the next A1 period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to `graduation-bk@tudelft.nl`.
       - _Withdrawal_: same as for no go. 
     ],
     [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the first supervisor], 
-    [Planning A3 and A4], [In case of a positive result, the responsible supervisor agrees the A3 and A4 date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration program.]
+    [Planning A3 and A4], [In case of a positive result, the responsible supervisor agrees the A3 and A4 date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration program. If not available, by email to `graduation-bk@tudelft.nl`.]
   )
 
 == A2 (Midterm) <a2-midterm>
@@ -143,7 +143,7 @@
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Green-light_: the student proceeds towards the A4
-      - _Red-light_: the student agrees a new A3 date for the next A3 period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration program.
+      - _Red-light_: the student agrees a new A3 date for the next A3 period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to `graduation-bk@tudelft.nl`.
       - _Withdrawal_: same as for no go.  
     ],
     [Assessment registration], [The feedback and assessment ('go' or 'no go') is registered in MyCase by the first supervisor],

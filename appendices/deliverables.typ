@@ -108,9 +108,17 @@ available on the website of GEO2021:
 == A3 presentation
 <a3-presentation>
 
-//-- TODO
+The A3 "Green Light" presentation is a formal assessment where the student presents the complete findings of their MSc thesis to their supervisory team. The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
+
+The presentation lasts 20 minutes and is followed by a 20-minute question session from the assessment committee. The audience consists of the first and second supervisors, the independent co-reader, and a delegate from the Board of Examiners.
+
+The goal of this presentation is to demonstrate that the thesis work is complete and of sufficient quality to proceed to the final public defense (A4).
 
 == A4 presentation
 <a4-presentation>
 
-//-- TODO
+The A4 "Finalisation" presentation is the public defense of the MSc thesis for a lay audience. This includes family, friends, and fellow students.
+
+The content must be an adapted version of the A3 presentation, translated to be understandable for non-specialists. The presentation lasts 15 minutes and is followed by a 15-minute question session.
+
+The goal is to demonstrate the ability to communicate complex research effectively to a general public. The thesis itself remains unchanged, as the grades were already determined at the A3. However, the quality of this lay presentation can still influence the final grade, potentially adjusting it up or down by half a point.

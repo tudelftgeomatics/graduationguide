@@ -17,10 +17,10 @@ presented, discussed assessed at the A1 (Kick-off) meeting.
 Upon approval of the graduation plan, the student conducts their
 research according to the methodology and time planning in it. The
 specific contents of this phase of the graduation will vary depending on
-the chosen methodology, but might include: an extended survey of
+the chosen methodology, but might include among others: an extended survey of
 scientific literature and other sources, data collection and analysis,
-developing new methods, tools or datasets, software development and
-testing, …
+developing new methods, tools or datasets, and software development and
+testing.
 
 The main deliverable of the graduation project is a written graduation
 report (see @app:deliverables[Appendix]), which documents the research that was
@@ -54,15 +54,15 @@ following elements:
   clearly-defined problem statement;
 + A #strong[related work] section in which the relevant literature is
   presented and linked to the project;
-+ The #strong[research questions] are clearly defined, along with the
-  scope (ie what you will not be doing);
++ #strong[Research questions] that are clearly defined, along with the
+  scope (ie what the student will and will not be doing);
 + Overview of the proposed #strong[methodology] to be used;
 + Overview of #strong[preliminary results] (if application, discuss with
   your supervisors);
 + #strong[Time planning];—having a Gantt chart is probably a better idea
   than just a list;
 + Since specific #strong[data and tools] have to be used, it's good to
-  present these concretely, so that the mentors know that you have a
+  present these concretely, so that the supervisors know that you have a
   grasp of all aspects of the project;
 + The #strong[references];.
 

@@ -3,8 +3,8 @@
 = MyCase registration <app:mycase>
 
 As explained in @chap:graduation-structure, _MyCase_ is used as a system to track the graduation progress of each student. 
-All information about graduation (general information and planning, stakeholders, documentation and assessment) is collected in this system. 
-The table below serves as a chronological overview of all tasks and responsibilities.
+All information about the graduation (general information and planning, stakeholders, documentation and assessment) is collected in this system. 
+The table below serves as a chronological overview of all tasks and responsibilities for students who start their thesis in Q1.
 
 
   #table(

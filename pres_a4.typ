@@ -2,9 +2,9 @@
 
 == Lay audience
 
-Your A4 takes place two weeks after your A3 (Green light). This is a public session for a lay audience where you can invite family, friends, and fellow students.
+The student's A4 takes place two weeks after the A3 (Green light). This is a public session for a lay audience where family, friends, and fellow students can be invited.
 
-Since you're presenting to a different kind of audience, you need to adapt your A3 presentation accordingly. However, your thesis remains unchanged, as your grades were already determined at A3.
+Since the student is presenting to a different kind of audience, they need to adapt their A3 presentation accordingly. However, the thesis remains unchanged, as the preliminary grades were already determined at A3.
 
 The A4 may be organised for multiple students simultaneously, followed by a collective diploma ceremony (see @app:assessments[Appendix] for the schedule).
 
@@ -12,12 +12,11 @@ The A4 may be organised for multiple students simultaneously, followed by a coll
 
 The ability to communicate with non-specialists is explicitly listed in
 the final attainment levels (see @app:final-attainment[Appendix]). 
-Since this competence isn't evaluated elsewhere during graduation, the A4 provides an ideal
-opportunity to demonstrate this skill.
+Since this competence isn't evaluated elsewhere during graduation, the A4 provides an ideal opportunity to demonstrate this skill.
 
-Following the A4, the assessment committee will evaluate whether your lay presentation demonstrates "exceptional quality" or falls "below the expected quality" using the specific A4 rubric (see @app:rubrics[Appendix]). 
-Based on this assessment, your provisional final grade may be adjusted up or down by half a point. 
-Note that this adjustment doesn't count toward the cum laude distinction (see below), and if your provisional final grade is 6.0, it cannot be lowered.
+Following the A4, the assessment committee will evaluate whether the lay presentation demonstrates "exceptional quality" or falls "below the expected quality" using the specific A4 rubric (see @app:rubrics[Appendix]). 
+Based on this assessment, the provisional final grade may be adjusted up or down by half a point. 
+Note that this adjustment doesn't count toward the cum laude distinction (see below), and if the provisional final grade is 6.0, it cannot be lowered.
 
 == Cum laude <cum-laude>
 Based on the results gained for the courses in the Master's Programme and the final thesis, the student can be awarded a cum laude distinction. 
