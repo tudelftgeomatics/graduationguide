@@ -10,7 +10,7 @@
   main-color: "#1a5518",
   date: none,
   logo: image("figs/tudlogo.svg"),
-  // year: "Year",
+  year: box(fill: red, inset: 4pt)[v2025-10-07],
   // class: "Class",
   // other: ("Made with Typst", "https://typst.com"),
   // color-words: ("important",)
