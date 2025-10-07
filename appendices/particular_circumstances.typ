@@ -10,8 +10,6 @@ A quorum is required for each assessment to be valid.
   delegate of the Board of Examiners.
 - For A4: responsible supervisor and second supervisor.
 
-//-- TODO: A4
-
 In case of absence, action will be taken as follows:
 
 - Absence of the delegate of the Board of Examiners: The Board of
