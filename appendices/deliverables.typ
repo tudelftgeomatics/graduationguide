@@ -108,7 +108,7 @@ available on the website of GEO2021:
 == A3 presentation
 <a3-presentation>
 
-The A3 "Green Light" presentation is a formal assessment where the student presents the complete findings of their MSc thesis to their supervisory team. The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
+The A3 (Green light) presentation is a formal assessment where the student presents the complete findings of their MSc thesis to their supervisory team. The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 
 The presentation lasts 20 minutes and is followed by a 20-minute question session from the assessment committee. The audience consists of the first and second supervisors, the independent co-reader, and a delegate from the Board of Examiners.
 
