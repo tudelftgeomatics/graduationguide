@@ -8,15 +8,9 @@ A student graduating with a Master's in Geomatics:
     columns: 2,
     align: (left,left),
     [*G1*], [*Is skilled in one or more academic disciplines.* \ A university graduate is familiar with existing academic knowledge and is capable of expanding this through study.],
-    [*G2*], [*Is able to perform research.* \ A university graduate is capable of acquiring new academic
-    knowledge through research. In this connection, 'research' means
-    developing and dis-covering new knowledge and insights in a
-    purposeful and methodical manner.],
+    [*G2*], [*Is able to perform research.* \ A university graduate is capable of acquiring new academic knowledge through research. In this connection, 'research' means developing and discovering new knowledge and insights in a purposeful and methodical manner.],
     [*G3*], [*Is able to design.* \ Many university graduates will formulate designs in addition to
-    per-forming research. Designing is a synthetic activity geared
-    towards bringing about new or modified artefacts or systems, for the
-    purpose of creating values in accordance with the requirements and
-    wishes stated beforehand (for example, mobility or health).], 
+    performing research. Designing is a synthetic activity geared towards bringing about new or modified artefacts or systems, for the purpose of creating values in accordance with the requirements and wishes stated beforehand (for example, mobility or health).], 
     [*G4*], [*Has an academic approach.* \ A university graduate follows a systematic approach, characterised by developing and using theories, models and coherent interpretations, has
     a critical attitude and has an understanding of the unique nature of science and technology.],
     [*G5*], [*Possesses basic intellectual skills.* \ A university graduate is able to reason, reflect and form judgments. These are skills which are learned or sharpened in the courses of a discipline, and are generically applicable afterwards.],
