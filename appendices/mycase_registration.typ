@@ -50,7 +50,8 @@ The table below serves as a chronological overview of all tasks and responsibili
     [], [], [Upload final grade], [First supervisor],
   )
   
-#info[ 
-  If students do not follow the calendar start at some quarters (for example start in Q2,Q4) or students are delayed SuperSaaS (the scheduling tool used by the administration) might not be available. 
-  In such cases, dates should be set through email to #link("graduation-bk@tudelft.nl").
+
+#clue(title: "Information", header-color: green.lighten(20%))[
+  If a student does not start the graduation at Q2 or Q4, or if they are delayed, SuperSaaS (the scheduling tool used by the administration) might not be available. 
+  In such cases, A1/A3/A4 should be planned by sending an email to #link("graduation-bk@tudelft.nl").
 ]
