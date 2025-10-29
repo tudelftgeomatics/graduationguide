@@ -5,6 +5,7 @@
 The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesis is written; GEO2021) is 40ECTS and lasts in general three quarters.
 
 It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started in any calendar quarter.
+//-- TODO: no start every quarter?
 
 == Structure <structure>
 #figure(image("figs/gm_structure.png"))
