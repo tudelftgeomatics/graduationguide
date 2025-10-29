@@ -51,7 +51,7 @@ The table below serves as a chronological overview of all tasks and responsibili
   )
   
 
-#clue(title: "Information", header-color: green.lighten(20%))[
+#clue(title: "Information", header-color: yellow.lighten(80%))[
   If a student does not start the graduation at Q2 or Q4, or if they are delayed, SuperSaaS (the scheduling tool used by the administration) might not be available. 
   In such cases, A1/A3/A4 should be planned by sending an email to #link("graduation-bk@tudelft.nl").
 ]
