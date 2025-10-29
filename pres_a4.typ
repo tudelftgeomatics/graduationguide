@@ -6,8 +6,6 @@ The student's A4 takes place two weeks after the A3 (Green light). This is a pub
 
 Since the student is presenting to a different kind of audience, they need to adapt their A3 presentation accordingly. However, the thesis remains unchanged, as the preliminary grades were already determined at A3.
 
-The A4 may be organised for multiple students simultaneously, followed by a collective diploma ceremony (see @app:assessments[Appendix] for the schedule).
-
 == Quality of the lay presentation
 
 The ability to communicate with non-specialists is explicitly listed in
