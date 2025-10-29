@@ -26,4 +26,4 @@ A student will receive this if all of the following requirements are met:
 + The study duration cannot exceed the nominal study duration plus one semester.
 
 For students who do not meet all criteria above, especially the fourth, for instance because they were enrolled as a student in a specific semester but did not participate in any course or examination in that semester, an exemption may apply. 
-This should be arranged before the A3 application date.
+This should be arranged before the A3 application date (by sending a request by email to the Board of Examiners: #link("mailto:BoardofExaminers-BK@tudelft.nl")[BoardofExaminers-BK\@tudelft.nl]).

@@ -115,14 +115,17 @@
     [Planning], [Day and timeslot reservation made by first supervisor
     after the A1],
     [Location], [Room booked by scheduling department],
-    [Deliverables], [Project proposal],
+    [Deliverables], [A full thesis and a presentation],
     [Assessment method], [Rubric],
     [Actions student], [
       - Upload final draft thesis to MyCase (1-week before),
       - Perform the plagiarism scan in Brightspace
       - Prepare presentation 
     ],
-    [Actions supervisors], [Read Graduation Report before A3 start],
+    [Actions supervisors], [
+      - Read Graduation Report before A3 start,
+      - Check if and how student implemented advice/feedback from A1 and A2.
+    ],
     [Actions delegate], [Skim (or read) the Graduation Report before A3 start],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
@@ -163,7 +166,7 @@
     [Planning], [Day and timeslot reservation made by first supervisor
     after the A1],
     [Location], [Room booked by scheduling department],
-    [Deliverables], [Project proposal],
+    [Deliverables], [Presentation],
     [Assessment method], [Rubric],
     [Actions student], [
       - Upload final thesis to the TU Delft repository (1 day before A4),
@@ -197,6 +200,8 @@
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Assessment registration], [The final grade is registered in MyCase by the first supervisor],
-    [Actions student], [ Unsubscribe as TU Delft student via Studielink enrolment, so your enrolment will be terminated as from the 1st of the next month (if you do not terminate your enrolment in time you are required to pay tuition fees for another month; retroactive termination of your enrolment is not possible; under certain circumstances the tuition fee can be partly refunded,
-  see the website Termination of Enrolment)],
+    [Actions student], [ 
+      - Unsubscribe as TU Delft student via Studielink enrolment, so your enrolment will be terminated as from the 1st of the next month (if you do not terminate your enrolment in time you are required to pay tuition fees for another month; retroactive termination of your enrolment is not possible; under certain circumstances the tuition fee can be partly refunded, see the website Termination of Enrolment)
+      - Fill in exit evaluation (you will receive an email).
+    ],
 )
