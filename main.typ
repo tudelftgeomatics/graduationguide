@@ -4,14 +4,18 @@
 
 #show: bubble.with(
   title: [Graduation Guide `v2025.2026`],
-  subtitle: [MSc Geomatics],
-  // author: "hzkonor",
-  affiliation: "Delft University of Technology",
-  main-color: "#1a5518",
-  date: none,
+  // subtitle: [MSc Geomatics],
   logo: image("figs/tudlogo.svg"),
-  year: box(fill: red, inset: 4pt)[v#datetime.today().display()],
+  main-color: "#1a5518",
+  // date: none,
+  date: [(#datetime.today().display())],
+  // date: box(fill: red, inset: 4pt)[v#datetime.today().display()],
+  author: "MSc Geomatics",
+  affiliation: "Faculty of Architecture and the Built Environment",
+  class: "Delft University of Technology",
   // class: "Class",
+  // affiliation: "Delft University of Technology",
+  // year: box(fill: red, inset: 4pt)[v#datetime.today().display()],
   // other: ("Made with Typst", "https://typst.com"),
   // color-words: ("important",)
 ) 
