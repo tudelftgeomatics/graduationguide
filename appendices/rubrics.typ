@@ -2,9 +2,9 @@
 = Rubrics <app:rubrics>
 
 == Rubric for A1 <a1-rubric>
-The rubric at A1 is based on the same criteria as the A3 rubric, see
-below. The supervisors judge whether a student is on track to obtain a
-#emph[Green-light] at A3.
+
+The rubric at A1 is based on the same criteria as the A3 rubric, see below. 
+The supervisors judge whether a student is on track to obtain a #emph[Green-light] at A3.
 
 == Rubric for A3 <a3-rubric>
 
