@@ -6,5 +6,6 @@ If you spot a typo, error, or something is not accurate, please open an issue so
 
 ## How to compile the PDF
 
+1. install fonts "Source Sans Pro" + "Barlow"
 1. [install Typst](https://github.com/typst/typst?tab=readme-ov-file#installation)
-2. `typst compile main.typ`
+1. `typst compile main.typ`
