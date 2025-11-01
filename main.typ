@@ -12,7 +12,7 @@
   // date: box(fill: red, inset: 4pt)[v#datetime.today().display()],
   author: "MSc Geomatics",
   affiliation: "Faculty of Architecture and the Built Environment",
-  class: "Delft University of Technology",
+  year: "Delft University of Technology",
   // class: "Class",
   // affiliation: "Delft University of Technology",
   // year: box(fill: red, inset: 4pt)[v#datetime.today().display()],
