@@ -7,8 +7,8 @@
   // subtitle: [MSc Geomatics],
   logo: image("figs/tudlogo.svg"),
   main-color: "#1a5518",
-  // date: none,
-  date: [(#datetime.today().display())],
+  date: none,
+  // date: [(#datetime.today().display())],
   // date: box(fill: red, inset: 4pt)[v#datetime.today().display()],
   author: "MSc Geomatics",
   affiliation: "Faculty of Architecture and the Built Environment",
@@ -46,7 +46,7 @@
 //-- main-matter
 #counter(heading).update(0)
 #counter(page).update(0)
-#set page(numbering: "1")
+#set page(numbering: "1 / 1")
 
 #pagebreak()
 #include "graduation_structure.typ"
