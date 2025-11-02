@@ -31,5 +31,5 @@ Afterwards, the responsible supervisor should register this result and feedback 
 
 == Grades <grades>
 The grades that are determined at the A3 are provisional will not yet be announced during the A3. 
-Two weeks later, at the public A4, the final grade list will be presented, but not publicly disclosed, to the student together with the diploma. 
-In exceptional cases, based on the quality of the lay presentation, the preliminary final grade can be increased or lowered by half a point by the supervisory team (see Chapter 5).
+Two weeks later, at the public A4, the final grade list will be presented---but not publicly disclosed---to the student together with the diploma. 
+In exceptional cases, based on the quality of the lay presentation, the preliminary final grade can be increased or lowered by half a point by the supervisory team (see @chap:pres-a4).
