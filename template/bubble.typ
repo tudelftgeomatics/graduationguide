@@ -1,0 +1,115 @@
+// main project
+#let bubble(
+  title: "",
+  subtitle: none,
+  year: none,
+  logo: none,
+  faculty: [Faculty of Architecture and the Built Environment],
+  university: "Delft University of Technology",
+  main-color: "E94845",
+  alpha: 60%,
+  color-words: (),
+  body,
+) = {
+  set document(title: title)
+
+  // Save heading and body font families in variables.
+  let body-font = "Source Sans Pro"
+  let title-font = "Barlow"
+
+  // Set colors
+  let primary-color = rgb(main-color) // alpha = 100%
+  // change alpha of primary color
+  let secondary-color = color.mix(color.rgb(100%, 100%, 100%, alpha), primary-color, space:rgb)
+
+  // highlight important words
+  show regex(if color-words.len() == 0 { "$ " } else { color-words.join("|") }): text.with(fill: primary-color)
+
+  //customize look of figure
+  set figure.caption(separator: [ --- ], position: top)
+
+  //customize inline raw code
+  show raw.where(block: false) : it => h(0.5em) + box(fill: primary-color.lighten(90%), outset: 0.2em, it) + h(0.5em)
+
+  // Set body font family.
+  set text(font: body-font, 12pt)
+  show heading: set text(font: title-font, fill: primary-color)
+
+  //heading numbering
+set heading(numbering: (..nums) => {
+  let level = nums.pos().len()
+  // only level 1 and 2 are numbered
+  let pattern = if level == 1 {
+    "I."
+  } else if level == 2 {
+    "I.1."
+  }
+  if pattern != none {
+    numbering(pattern, ..nums)
+  }
+})
+
+  // add space for heading
+  show heading.where(level:1): it => it + v(0.5em)
+ 
+  // Set link style
+  show link: it => underline(text(fill: primary-color, it))
+
+  //numbered list colored
+  set enum(indent: 1em, numbering: n => [#text(fill: primary-color, numbering("1.", n))])
+
+  //unordered list colored
+  set list(indent: 1em, marker: n => [#text(fill: primary-color, "•")])
+
+
+  // display of outline entries
+  show outline.entry: it => text(size: 12pt, weight: "regular",it)
+
+  // Title page.
+  // Logo at top right if given
+  if logo != none {
+    set image(width: 6cm)
+    place(top + right, logo)
+  }
+  // decorations at top left
+  place(top + left, dx: -35%, dy: -28%, circle(radius: 150pt, fill: primary-color))
+  place(top + left, dx: -10%, circle(radius: 75pt, fill: secondary-color))
+  
+  // decorations at bottom right
+  place(bottom + right, dx: 40%, dy: 30%, circle(radius: 140pt, fill: secondary-color))
+
+  align(center + horizon)[
+    #text(font: title-font, 3em, weight: 700, title) 
+    #v(1.5em, weak: true)
+    #if subtitle != none {
+     text(font: title-font, 2.4em, weight: 700, subtitle)
+    }
+    #v(1.5em, weak: true)
+    #text(font: body-font, 1.5em, year)     
+  ]
+  
+  // Author and other information.
+  align(bottom + center)[
+    #if faculty != "" {faculty; linebreak();}
+    #if university != none {university; linebreak();}
+  ]
+
+  pagebreak()
+
+  // Main body.
+  set page(
+    header: [#emph()[#title #subtitle #h(1fr) #year]]
+  )
+  set par(justify: true)
+
+  body
+  
+}
+
+//useful functions
+//set block-quote
+#let blockquote = rect.with(stroke: (left: 2.5pt + luma(170)), inset: (left: 1em))
+
+// use primary-color and secondary-color in main
+#let primary-color = rgb("E94845")
+#let secondary-color = rgb(255, 80, 69, 60%)

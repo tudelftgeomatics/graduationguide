@@ -1,29 +1,20 @@
 
-#import "@preview/bubble:0.2.2": *
+#import "template/bubble.typ": *
 #import "@preview/gentle-clues:1.2.0": *
 
 #show: bubble.with(
-  title: [Graduation Guide `v2025.2026`],
-  // subtitle: [MSc Geomatics],
+  title: "Graduation Guide",
+  subtitle: "MSc Geomatics",
+  year: [v2025--2026],
   logo: image("figs/tudlogo.svg"),
   main-color: "#1a5518",
-  date: none,
-  // date: [(#datetime.today().display())],
-  // date: box(fill: red, inset: 4pt)[v#datetime.today().display()],
-  author: "MSc Geomatics",
-  affiliation: "Faculty of Architecture and the Built Environment",
-  year: "Delft University of Technology",
-  // class: "Class",
-  // affiliation: "Delft University of Technology",
-  // year: box(fill: red, inset: 4pt)[v#datetime.today().display()],
-  // other: ("Made with Typst", "https://typst.com"),
-  // color-words: ("important",)
+  faculty: "Faculty of Architecture and the Built Environment",
+  university: "Delft University of Technology",
 ) 
 
 
 //-- front-matter
 #set page(numbering: none)
-// #show outline.entry: it => text(size: 12pt, weight: "regular",it)
 #include "preface.typ" 
 #pagebreak()
 
