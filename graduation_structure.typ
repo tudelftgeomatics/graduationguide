@@ -44,11 +44,9 @@ The graduation phase is divided into the following assessments:
 )
 
 == Calendar <calendar>
-All assessments (except A2) should be held in the weeks indicated below.
-Please be aware that there are deadlines for the registration for each
-assessment. For the academic year 2025-2026, this implies the following
-weeks and deadlines, as registered in the BK academic graduation
-calendar:
+All assessments (except A2) should be held in the weeks indicated below. 
+Please be aware that there are deadlines for the registration for each assessment. 
+For the academic year 2025-2026, this implies the following weeks and deadlines, as registered in the BK academic graduation calendar:
 
 #figure(image("figs/calendar.png"))
 
