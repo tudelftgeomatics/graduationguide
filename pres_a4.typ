@@ -9,10 +9,10 @@ Since the student is presenting to a different kind of audience, they need to ad
 == Quality of the lay presentation
 
 The ability to communicate with non-specialists is explicitly listed in
-the final attainment levels (see @app:final-attainment[Appendix]). 
+the final attainment levels (see @app:final-attainment). 
 Since this competence isn't evaluated elsewhere during graduation, the A4 provides an ideal opportunity to demonstrate this skill.
 
-Following the A4, the assessment committee will evaluate whether the lay presentation demonstrates "exceptional quality" or falls "below the expected quality" using the specific A4 rubric (see @app:rubrics[Appendix]). 
+Following the A4, the assessment committee will evaluate whether the lay presentation demonstrates "exceptional quality" or falls "below the expected quality" using the specific A4 rubric (see @app:rubrics). 
 Based on this assessment, the provisional final grade may be adjusted up or down by half a point. 
 Note that this adjustment doesn't count toward the cum laude distinction (see below), and if the provisional final grade is 6.0, it cannot be lowered.
 

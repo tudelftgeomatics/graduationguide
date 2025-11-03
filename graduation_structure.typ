@@ -66,13 +66,13 @@ It is the responsibility of the responsible supervisor to register the student's
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
 If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]).
 
-For registering the graduation process, the faculty is using the #emph[MyCase] registration tool (see @app:mycase[Appendix]). 
+For registering the graduation process, the faculty is using the #emph[MyCase] registration tool (see @app:mycase). 
 It is the student's task to start their own 'graduation case'. 
 MyCase is used for the registration of assessment dates, submission of the deliverables before an assessment, registration of the assessments, and feedback. 
-Moreover, the names of the supervisors, co-reader and delegate, and the progress and assessment results are registered in this application. After each assessment, the responsible supervisor fills in the assessment (see @chap:feedback and @app:rubrics[Appendix]).
+Moreover, the names of the supervisors, co-reader and delegate, and the progress and assessment results are registered in this application. After each assessment, the responsible supervisor fills in the assessment (see @chap:feedback and @app:rubrics).
 
 == Ethics <ethics>
 In projects involving humans, certain types of data processing increase the risks to the human participants: planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. 
 In the case of a graduation project, obtaining additional advice or permits may delay the project with an extra semester. 
-Therefore, all students have to check their risk, by completing the Ethics Checklist (@app:ethics[Appendix]) before the A1. 
+Therefore, all students have to check their risk, by completing the Ethics Checklist (@app:ethics) before the A1. 
 Only if the graduation project involves working with data from human participants, should the rest of the checklist be completed and contact be made with the Human Research Ethics Committee (HREC).
