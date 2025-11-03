@@ -21,7 +21,7 @@
 #table(
     columns: 2,
     align: (left,left),
-    [Admission requirements], [The student must have obtained 55 ECTS from the first Master's year programme, and have followed the Q5 electives of 15 ECTS.],
+    [Admission requirements], [The student must have obtained 55 ECTS from the first year of the programme, and have followed the Q5 electives (15 ECTS).],
     table.hline(),
     [Period], [In fixed weeks, once per quarter],
     //--

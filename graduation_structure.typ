@@ -11,7 +11,7 @@ It normally takes place during the last three quarters of the second Master's ye
 #figure(image("figs/gm_structure.png"))
 
 == Admission and assessments <admission-and-assessments>
-To enter the graduation phase (at A1), the student must have obtained 55 ECTS from the first Master's year programme, and have followed the Q5 electives of 15 ECTS (see image structure above).
+To enter the graduation phase (at A1), the student must have obtained 55 ECTS from the first year of the programme, and have followed the Q5 electives (15 ECTS); see image structure above.
 
 The graduation phase is divided into the following assessments:
 
