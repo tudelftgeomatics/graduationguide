@@ -18,17 +18,20 @@
 #include "preface.typ" 
 #pagebreak()
 
-#set heading(numbering: "1.")
-#[
-  #show outline.entry.where(
-    level: 1
-  ): it => {
-    v(12pt, weak: true)
-    strong(it)
-  }
-  #outline(depth: 2, indent: auto)
-]
-// #outline(depth: 2)
+#set heading(numbering: "1.", supplement: [Chapter])
+
+//-- outline
+// #[
+//   #show outline.entry.where(
+//     level: 1
+//   ): it => {
+//     v(12pt, weak: true)
+//     strong(it)
+//   }
+//   #outline(depth: 2, indent: auto)
+// ]
+#outline(depth: 2, target: heading.where(supplement: [Chapter]), title: [Contents])
+#outline(depth: 1, target: heading.where(supplement: [Appendix]), title: [Appendices])
 // #pagebreak()
 
 // #show table.cell.where(y: 0): smallcaps
