@@ -26,7 +26,8 @@ can submit the application to the HREC, but the supervisor is responsible for ma
       Is the graduation project conducted as part of an internship (at a company), or as part of a research project at TU Delft? 
       \ \
       If a student's graduation project is conducted at a company or as part of a research project at the university, questions of data ownership and intellectual property rights need to be addressed in a written #link("https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms")[graduation or internship agreement] before the project begins. Students and their supervisor should consult the #link("https://www.tudelft.nl/en/student/my-study-me/rules-guidelines-and-participation/intellectual-property")[Intellectual Property Rights of Students webpage].
-      Additional information can also be found in the #link("https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/TU%20Delph%20PRDW__v1.1_19.02.25.pdf#TU%20Delph%20PRDW+%20ipdf%20version%201.1%20AKT14982.indd%3ABookmark%2037%3A130")[Extended Personal Research Data Workflow]
+      Additional information can also be found in the #link("https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/TU%20Delph%20PRDW__v1.1_19.02.25.pdf#TU%20Delph%20PRDW+%20ipdf%20version%201.1%20AKT14982.indd%3ABookmark%2037%3A130")[Extended Personal Research Data Workflow].
+      If applicable, complete the [Confidentiality Agreement](https://www.tudelft.nl/en/student/a-be-student-portal/practical-affairs/forms) (this must be discussed with both supervisors first).
     ], [], [],
     [2], [
       Does the project involve conducting (part of) the research outside the Netherlands?
