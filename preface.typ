@@ -9,4 +9,4 @@ The topic of the scientific project can be related to any of the subjects offere
 
 The project can be performed in cooperation with a company/institution, which provides a use case or a problem statement (but the work is always supervised by the scientific staff of the university).
 
-More information, news, updates, downloaded templates, and a calendar can be found on the official website: #link("https://geomatics.bk.tudelft.nl/geo2021/")
+More information, news, updates, downloadable templates, and a calendar can be found on the official website: #link("https://geomatics.bk.tudelft.nl/geo2021/")

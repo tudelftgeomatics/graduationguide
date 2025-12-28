@@ -35,8 +35,8 @@
       - Upload graduation plan to MyCase (1-week before)
       - Prepare presentation
     ],
-    [Actions supervisors], [Read Graduation Report before start A1],
-    [Actions delegate], [Read Graduation Report before start A1],
+    [Actions supervisors], [Read Graduation Plan before the start of A1],
+    [Actions delegate], [Read Graduation Plan before the start of A1],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -79,8 +79,7 @@
     supervisors.],
     [Assessment method], [(none)],
     [Actions student], [Upload the required document to MyCase (at least 24h before A2)],
-    [Actions supervisors], [First supervisor books the room and invite
-    the second supervisor],
+    [Actions supervisors], [First supervisor books the room and invites the second supervisor],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),

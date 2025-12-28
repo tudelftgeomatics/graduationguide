@@ -3,9 +3,9 @@
 This checklist is relevant for all graduation projects at the Faculty of Architecture and the Built Environment. 
 The form is intended to highlight common aspects of graduation projects that require particular attention with regard to planning the research and data management. Relevant information and supplementary sources regarding each question are provided below each question.
 
-With this checklist, the faculty wants to avoid that students unexpectedly find themselves in complex and stressful situations, in which ethical or privacy matters and/or other laws and regulations become an issue. In projects involving humans, certain types of data processing increase the risks to the   
-human participants: planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. In the case of a graduation   
-project, obtaining additional advice or permits may delay the project with an extra education period or semester. To avoid this, it is recommended that students set up a graduation project with a low level   
+With this checklist, the faculty wants to avoid that students unexpectedly find themselves in complex and stressful situations, in which ethical or privacy matters and/or other laws and regulations become an issue. In projects involving humans, certain types of data processing increase the risks to the
+human participants. Planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. In the case of a graduation
+project, obtaining additional advice or permits may delay the project with an extra education period or semester. To avoid this, it is recommended that students set up a graduation project with a low level
 of risk. Therefore, all students have to check their risk, by completing this checklist before their A1.
 
 The first section of the checklist (A) should be completed by all students, together with their supervisor, during the planning of the graduation project, before the A1. It does not need to be submitted to anyone for review or approval. Please consider questions 1 to 3 carefully in relation to the intended graduation project, and answer with 'yes' or 'no'.

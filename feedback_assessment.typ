@@ -22,8 +22,8 @@ For the A1 and A2, it is being assessed whether the work is quantitatively and q
 After the A1 and A3 presentations and subsequent discussion, the supervisory team will retreat for deliberation. 
 At the A1 and A3, the independent delegate chairs the deliberation (see @chap:supervision and @app:assessments), without influencing the result.
 
-During the deliberation, the supervisory team assesses the deliverables, including the presentation and the answers to the supervisory team's questions. 
-This assessment is formally expressed in a 'go' or a 'no go', representing a 'sufficient to good' or 'insufficient' level respectively.
+During the deliberation, the supervisory team assesses the deliverables, including the presentation and the answers to the supervisory team's questions.
+This assessment is formally expressed in a 'go' or a 'no go', representing a 'sufficient' to 'good' level or an 'insufficient' level respectively.
 
 At end of the deliberation for the A1 and A3, the responsible supervisor should communicate the results of the deliberation ('go' or 'no go') and provide feedback to the student, including how to improve. 
 At the A2, there might not be a deliberation, but the supervisors should still provide feedback to the student. 

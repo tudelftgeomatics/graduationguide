@@ -59,18 +59,18 @@ If a 'no-go' is given, the A1 can be done again in the next quarter.
 The same applies to the A3 (Green light), where the supervisors, co-reader, and the delegate give a 'go' to proceed to the public A4 (Finalisation) two weeks later (the grades are also determined but not yet communicated); if the requirements are not met, the consequent 'no go' results in a retake of the A3 in the next quarter.
 
 == Registration <registration>
-For planning purposes, the faculty is using the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. 
+For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. 
 It is the responsibility of the responsible supervisor to register the student's A1, A3 and A4 applications before the deadlines in the BK academic graduation calendar. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
 If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]).
 
-For registering the graduation process, the faculty is using the #emph[MyCase] registration tool (see @app:mycase). 
+For registering the graduation process, the faculty uses the #emph[MyCase] registration tool (see @app:mycase). 
 It is the student's task to start their own 'graduation case'. 
-MyCase is used for the registration of assessment dates, submission of the deliverables before an assessment, registration of the assessments, and feedback. 
-Moreover, the names of the supervisors, co-reader and delegate, and the progress and assessment results are registered in this application. After each assessment, the responsible supervisor fills in the assessment (see @chap:feedback and @app:rubrics).
+MyCase is used for the registration of assessment dates, submission of the deliverables before an assessment, registration of the assessments, and feedback.
+Moreover, the names of the supervisors, co-reader and delegate, and the progress and assessment results are registered in this application. After each assessment, the responsible supervisor completes the assessment (see @chap:feedback and @app:rubrics).
 
 == Ethics <ethics>
-In projects involving humans, certain types of data processing increase the risks to the human participants: planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. 
+In projects involving humans, certain types of data processing increase the risks to the human participants. Planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. 
 In the case of a graduation project, obtaining additional advice or permits may delay the project with an extra semester. 
 Therefore, all students have to check their risk, by completing the Ethics Checklist (@app:ethics) before the A1. 
 Only if the graduation project involves working with data from human participants, should the rest of the checklist be completed and contact be made with the Human Research Ethics Committee (HREC).
