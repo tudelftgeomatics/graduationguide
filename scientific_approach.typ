@@ -6,7 +6,7 @@
 The graduation project is an individual research project that is conducted by the student with guidance and regular feedback from the supervisors.
 
 The project starts with a preliminary phase where the student lays down the foundations for their research, which includes conducting a study of the most important relevant literature, refining their topic into a specific problem statement, establishing of clear research questions or objectives, and selecting an appropriate methodology. 
-This culminates into the creation of a graduation plan (see @app:deliverables), which is presented, discussed assessed at the A1 (Kick-off) meeting.
+This culminates into the creation of a graduation plan (see @app:deliverables), which is presented, discussed and assessed at the A1 (Kick-off) meeting.
 
 Upon approval of the graduation plan, the student conducts their research according to the methodology and time planning in it. 
 The specific contents of this phase of the graduation will vary depending on the chosen methodology, but might include among others: an extended survey of scientific literature and other sources, data collection and analysis, developing new methods, tools or datasets, and software development and testing.
@@ -41,7 +41,7 @@ The graduation plan for A1 is a project proposal that must contain the following
 + Since specific #strong[data and tools] have to be used, it's good to
   present these concretely, so that the supervisors know that you have a
   grasp of all aspects of the project;
-+ The #strong[references];.
++ The #strong[references].
 
 Supervisors expect a document of 10--15 pages.
 

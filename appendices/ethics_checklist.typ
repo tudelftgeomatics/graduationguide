@@ -235,7 +235,7 @@ Additional resources
 The HREC has guides available for
 #link("https://filelist.tudelft.nl/TUDelft/Over_TU_Delft/Strategie/Integriteitsbeleid/research%20design%202/2_CHC-completing%20the%20HREC%20checklist_v2.pdf")[completing the checklist]
 and for compiling
-#link("https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/research-design-3-communicating-and-managing-risk")[informed consent materials];.
+#link("https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/research-design-3-communicating-and-managing-risk")[informed consent materials].
 Additionally, the
 #link("https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/TU%20Delph%20PRDW__v1.1_19.02.25.pdf")[Guide to the Extended Personal Research Data Workflow]
 has been created to help researchers and students who work with human

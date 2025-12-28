@@ -67,7 +67,7 @@
 #table(
     columns: 2,
     align: (left,left),
-    [Admission requirements], [The student succesfully passed A1],
+    [Admission requirements], [The student successfully passed A1],
     [Period], [Anything between A1 and A3, it is up to the student and the first supervisor to agree on a date],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
@@ -78,7 +78,7 @@
     MyCase. The form/content of this document is decided by the
     supervisors.],
     [Assessment method], [(none)],
-    [Actions student], [Upload the required document to MyCase (at last 24h before A2)],
+    [Actions student], [Upload the required document to MyCase (at least 24h before A2)],
     [Actions supervisors], [First supervisor books the room and invite
     the second supervisor],
     //--

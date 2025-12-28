@@ -83,7 +83,7 @@ This shows that you have actually started the work and you have not only been re
 %%%
 %
 \section{Time planning}
-Having a Gantt chart is probably a better idea then just a list.
+Having a Gantt chart is probably a better idea than just a list.
 
 %%%
 %
