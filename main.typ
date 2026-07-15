@@ -2,7 +2,6 @@
 #import "template/bubble.typ": *
 
 
-
 #show: bubble.with(
   title: "Graduation Guide",
   subtitle: "MSc Geomatics for the Built Environment",

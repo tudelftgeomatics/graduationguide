@@ -13,7 +13,7 @@ It normally takes place during the last three quarters of the second Master's ye
 
 
 == Admission and milestones <admission-and-milestones>
-To enter the graduation phase (Kick-off), the student must have obtained 55 ECTS from the first year of the programme, and have followed the Q5 electives (15 ECTS); see image structure above.
+To enter the graduation phase (Kick-off), the student must have obtained 45 ECTS from the mandatory courses (9/10 courses), and have obtained 20 ECTS from the electives.
 
 The graduation phase is divided into the following milestones:
 
@@ -29,10 +29,7 @@ The graduation phase is divided into the following milestones:
     // table.cell([*Name*], fill: green.lighten(80%)),
     // table.cell([*Details*], fill: green.lighten(80%)),  
     table.hline(),
-    [Registration], [Selection of the first supervisor and of a
-    thesis topic, either by picking from a topic from
-    #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list]
-    or by agreeing on a custom topic.],
+    [Registration], [Selection of the responsible supervisor and of a thesis topic, either by picking from a topic from #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list] or by agreeing on a custom topic.],
     [Kick-off], ['Go/no go' assessment of the graduation plan; 15-min presentation and discussion.],
     [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
     [Green-light], [Formal final assessment of the complete draft MSc thesis; presentation, questions, and discussion.],
