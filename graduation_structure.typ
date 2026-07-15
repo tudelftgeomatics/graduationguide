@@ -1,7 +1,7 @@
 
 #import "./template/bubble.typ": *
 
-= Graduation structure <chap:graduation-structure>
+= Overview of the graduation <chap:graduation-structure>
 
 == Structure and duration <duration>
 The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesis is written; GEO2022) is 45ECTS and lasts in general three quarters.
@@ -65,6 +65,21 @@ For registering the graduation process, the faculty uses the #emph[MyCase] regis
 It is the student's task to start their own 'graduation case'. 
 MyCase is used for the registration of assessment dates, submission of the deliverables before an assessment, registration of the assessments, and feedback.
 Moreover, the names of the supervisors, co-reader and delegate, and the progress and assessment results are registered in this application. After each assessment, the responsible supervisor completes the assessment (see @chap:feedback and @app:rubrics).
+
+
+== Final marks and cum laude <final-marks>
+The marks for the graduation project (GEO2022) is decided at the Finalisation milestone, and is decided by the two supervisors, the co-reader, and the delegate.
+
+Based on the results gained for the courses in the Master's Programme and the final thesis, the student can be awarded a cum laude distinction. 
+A student will receive this if all of the following requirements are met:
+
++ The weighted average of the grades of the courses, not including the graduation project, must be at least 8.0 (exemptions ("VR" in OSIRIS) will not be taken into consideration; no more than 20 ECTS may be completed with an exemption);
++ No courses may be completed after a repair resulting in a 'pass';
++ The provisional final grade of the graduation project at the A3 must be at least 8.5;
++ The study duration cannot exceed the nominal study duration plus one semester.
+
+For students who do not meet all criteria above, especially the fourth, for instance because they were enrolled as a student in a specific semester but did not participate in any course or examination in that semester, an exemption may apply. 
+This should be arranged before the A3 application date (by sending a request by email to the Board of Examiners: #link("mailto:BoardofExaminers-BK@tudelft.nl")[BoardofExaminers-BK\@tudelft.nl]).
 
 == Ethics <ethics>
 In projects involving humans, certain types of data processing increase the risks to the human participants. Planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. 

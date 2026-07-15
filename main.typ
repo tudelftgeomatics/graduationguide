@@ -52,8 +52,6 @@
 #pagebreak()
 #include "feedback_assessment.typ"
 #pagebreak()
-#include "pres_a4.typ"
-#pagebreak()
 
 //-- back-matter / appendices
 #set heading(numbering: "I.i.", supplement: [Appendix])
