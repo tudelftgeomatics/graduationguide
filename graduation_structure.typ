@@ -3,7 +3,7 @@
 
 = Graduation structure <chap:graduation-structure>
 
-== Duration <duration>
+== Structure and duration <duration>
 The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesis is written; GEO2022) is 45ECTS and lasts in general three quarters.
 
 It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started at the beginning of any quarter.
@@ -35,13 +35,13 @@ The graduation phase is divided into the following milestones:
     or by agreeing on a custom topic.],
     [Kick-off], ['Go/no go' assessment of the graduation plan; 15-min presentation and discussion.],
     [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
-    [Green-light], [Formal final assessment of the complete draft MSc thesis; presentation of \~20min, and discussion.],
+    [Green-light], [Formal final assessment of the complete draft MSc thesis; presentation, questions, and discussion.],
     [Finalisation], [Final presentation (20min) + questions from committee + diploma.],
   )
 )
 
 == Calendar <calendar>
-All assessments (except A2) should be held in the weeks indicated below. 
+All assessments (except Midterm) should be held in the weeks indicated below. 
 Please be aware that there are deadlines for the registration for each assessment. 
 For the academic year 2025-2026, this implies the following weeks and deadlines, as registered in the BK academic graduation calendar:
 
@@ -50,7 +50,7 @@ For the academic year 2025-2026, this implies the following weeks and deadlines,
 == Retakes <retakes>
 All formal milestones are offered in every quarter.
 
-At the Kick-off, the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the A2 (Midterm) phase. 
+At the Kick-off, the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the Midterm milestone. 
 If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 
 The same applies to the Green-light, where the supervisors, co-reader, and the delegate give a 'go' to proceed to the public Finalisation two weeks later (the grades are also determined but not yet communicated); if the requirements are not met, the consequent 'no go' results in a retake of the Green-light in the next quarter.
