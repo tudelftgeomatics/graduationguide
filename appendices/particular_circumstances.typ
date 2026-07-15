@@ -4,11 +4,9 @@
 <quorum-at-formal-assessments>
 A quorum is required for each assessment to be valid.
 
-- For A1: responsible supervisor, second supervisor and delegate of the
-  Board of Examiners.
-- For A3: responsible supervisor, second supervisor, co-reader and
-  delegate of the Board of Examiners.
-- For A4: responsible supervisor and second supervisor.
+- For Kick-off: responsible supervisor and second supervisor.
+- For Green-light: responsible supervisor, second supervisor, and delegate of the Board of Examiners.
+- For A4: responsible supervisor, second supervisor, co-reader,and delegate of the Board of Examiners.
 
 In case of absence, action will be taken as follows:
 
@@ -17,7 +15,7 @@ In case of absence, action will be taken as follows:
 
   In case of an unexpected absence, the other supervisory team members will search for a replacement. The Secretary of the Board of Examiners is also informed by the responsible supervisor or the delegate of the Board of Examiners about this absence. The assessment should preferably be continued, but the final assessment should be determined after hearing the absent supervisor.
 
-  The determination for a 'go' or 'no go' at A1 or A3, including the registration of the grades on the list at A3 can only take place after consulting the absent assessor. If this is not possible, the final assessment is postponed. In both cases, a meeting with the absent supervisor takes place on the shortest possible term, to determine a final conclusion. In case of doubt or on request of the student, it may be decided that an extra assessment must be held.
+  The determination for a 'go' or 'no go' at the Kick-off and Green-light can only take place after consulting the absent assessor. If this is not possible, the final assessment is postponed. In both cases, a meeting with the absent supervisor takes place on the shortest possible term, to determine a final conclusion. In case of doubt or on request of the student, it may be decided that an extra assessment must be held.
 
 == Difficulties at the deliberation
 <difficulties-at-the-deliberation>
@@ -31,7 +29,7 @@ If unexpectedly this does not succeed, the member of the Board of Examiners will
 == Plagiarism
 <plagiarism>
 The plagiarism scan on graduation documents is implemented for all graduating students, to guarantee the authenticity of the graduation work. 
-For this, the Turnitin tool in Brightspace is used. 
+For this, the *Turnitin* tool in Brightspace is used. 
 The tool will make it easier for the student and supervisors to check the work of a student on originality and plagiarism. 
 The supervisors and delegates will be enrolled by Education and Student Affairs in the Plagiarism Brightspace course. 
 The student has the possibility to upload provisional versions of their document as often as desired for plagiarism feedback, only meant for the student. 

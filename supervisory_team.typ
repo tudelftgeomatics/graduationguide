@@ -1,8 +1,8 @@
 = Supervisory team <chap:supervision>
 
 The student's supervisory team is composed of two supervisors and a co-reader.
-The supervisors guide the student during the graduation process and are responsible for assessing the student's work and progress at the A1 (Kick-off) and A2 (Midterm). 
-Together with the co-reader, who serves as an independent expert, they also assess and determine the grades at the A3 (Green light), which are only disclosed at the A4 (Finalisation), as seen in @chap:feedback.
+The supervisors guide the student during the graduation process and are responsible for assessing the student's work and progress at the Kick-off and the Midterm. 
+Together with the co-reader, who serves as an independent expert, they also assess and determine the grades at the Green-light, which are only disclosed at the Finalisation, as seen in @chap:feedback.
 
 == Supervisors <supervisors>
 The responsible supervisor (also called first or main supervisor) is an expert in the graduation project field and must be a scientific staff member (including PhD students and postdocs) from the groups involved in MSc Geomatics education: 3D geoinformation, GIS technology (GDMC), or the Knowledge center open data. 
@@ -10,7 +10,7 @@ Students choose this supervisor during the A0 (Registration) phase, either by di
 
 The second supervisor is a scientific staff member from TU Delft whose expertise complements that of the responsible supervisor.
 They may be predefined based on the selected topic or chosen by the responsible supervisor with input from the student.
-If the responsible supervisor does not hold a PhD degree, the second supervisor must have one. Ideally, the second supervisor is determined at the A0 (Registration) phase and must be confirmed before the A1 (Kick-off).
+If the responsible supervisor does not hold a PhD degree, the second supervisor must have one. Ideally, the second supervisor is determined at the A0 (Registration) phase and must be confirmed before the Kick-off.
 
 == Co-reader <co-reader>
 The co-reader is a scientific staff member of TU Delft or another university who is an expert in the field of the graduation project.
@@ -19,6 +19,6 @@ Preferably, they are not part of the same group(s) as the supervisors. The co-re
 The co-reader is preferably defined at the A0 (Registration) and must be defined before the A3 (Green light).
 
 == Delegate of the Board of Examiners <delegate-of-the-board-of-examiners>
-Since the Board of Examiners is responsible for ensuring the quality of all examinations, a delegate is appointed by the administration of the Faculty before the A1: a (former) teacher who is familiar with the graduation process and who is not from the same section as your supervisors; this to assure independence. 
-The delegate functions independently from the supervisors and student, and chairs the A1 (Kick-off) and A3 (Green light). 
+Since the Board of Examiners is responsible for ensuring the quality of all examinations, a delegate is appointed by the Board of Examiners of the Faculty before the Green-light: a (former) teacher who is familiar with the graduation process and who is not from the same section as your supervisors. 
+The delegate functions independently from the supervisors and student, and chairs the Green-light and Finalisation milestone meetings.
 In that capacity, the delegate is there to protect the student against process errors and possibly unfair treatment by the supervisors, while on the other hand ensuring that the student is assessed according to the appropriate criteria by the supervisors (@chap:feedback).

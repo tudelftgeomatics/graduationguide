@@ -1,4 +1,4 @@
-#import "@preview/gentle-clues:1.2.0": *
+#import "../template/bubble.typ": *
 
 = MyCase registration <app:mycase>
 
@@ -13,15 +13,15 @@ The table below serves as a chronological overview of all tasks and responsibili
     fill: (_, y) => if y == 0 { green.lighten(80%) },
     table.header([*Phase*], [*When*], [*What*], [*Who*],),
     table.hline(),
-    [*A0 Registration*], [1.3], [Submit thesis topic form (on GEO2021 website)], [Student],
+    [*A0 Registration*], [1.3], [Submit thesis topic form (on GEO2022 website)], [Student],
     [], [1.8--2.2], [Register new case in MyCase, including supervisors
     and planning in weeks], [Student],
-    [], [], [Register A1 date in SuperSaaS\*], [Responsible supervisor],
+    [], [], [Register Kick-off date in SuperSaaS\*], [Responsible supervisor],
     [], [], [Check entry requirements], [Faculty administration],
-    [], [2.5], [Approve supervision team], [GEO2021 coordinator],
+    [], [2.5], [Approve supervision team], [GEO2022 coordinator],
     [], [2.6], [Register delegate by BoE], [MyCase faculty
     administration],
-    [*A1 Kick-off*], [2.8--2.9], [Upload graduation plan, human
+    [*Kick-off*], [2.8--2.9], [Upload graduation plan, human
     participation, external party and confidentiality agreement, and
     submit 'Ready for Kick-off' task in MyCase], [Student],
     [], [2.9--2.10], [Kick-off assessment], [Student, supervisors and
@@ -55,3 +55,4 @@ The table below serves as a chronological overview of all tasks and responsibili
   If a student does not start the graduation in Q2 or Q4, or if they are delayed, SuperSaaS (the scheduling tool used by the administration) might not be available.
   In such cases, A1/A3/A4 should be planned by sending an email to #link("graduation-bk@tudelft.nl").
 ]
+#todo[Do we use SuperSaaS?]

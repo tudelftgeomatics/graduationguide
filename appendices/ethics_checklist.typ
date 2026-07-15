@@ -6,9 +6,9 @@ The form is intended to highlight common aspects of graduation projects that req
 With this checklist, the faculty wants to avoid that students unexpectedly find themselves in complex and stressful situations, in which ethical or privacy matters and/or other laws and regulations become an issue. In projects involving humans, certain types of data processing increase the risks to the
 human participants. Planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. In the case of a graduation
 project, obtaining additional advice or permits may delay the project with an extra education period or semester. To avoid this, it is recommended that students set up a graduation project with a low level
-of risk. Therefore, all students have to check their risk, by completing this checklist before their A1.
+of risk. Therefore, all students have to check their risk, by completing this checklist before their Kick-off.
 
-The first section of the checklist (A) should be completed by all students, together with their supervisor, during the planning of the graduation project, before the A1. It does not need to be submitted to anyone for review or approval. Please consider questions 1 to 3 carefully in relation to the intended graduation project, and answer with 'yes' or 'no'.
+The first section of the checklist (A) should be completed by all students, together with their supervisor, during the planning of the graduation project, before the Kick-off. It does not need to be submitted to anyone for review or approval. Please consider questions 1 to 3 carefully in relation to the intended graduation project, and answer with 'yes' or 'no'.
 
 The second section of the checklist (B) should only be completed if the graduation project involves   
 working with data from human participants. In that case, the student and their supervisor must apply   

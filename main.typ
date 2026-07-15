@@ -1,11 +1,12 @@
 
 #import "template/bubble.typ": *
-#import "@preview/gentle-clues:1.2.0": *
+
+
 
 #show: bubble.with(
   title: "Graduation Guide",
-  subtitle: "MSc Geomatics",
-  year: [v2025--2026],
+  subtitle: "MSc Geomatics for the Built Environment",
+  year: [v2026--2027],
   logo: image("figs/tudlogo.svg"),
   main-color: "#1a5518",
   faculty: "Faculty of Architecture and the Built Environment",

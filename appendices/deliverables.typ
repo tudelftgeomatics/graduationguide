@@ -2,7 +2,7 @@
 
 = Deliverables <app:deliverables>
 
-== A1 (project proposal) template
+== Kick-off (project proposal) template
 <a1-project-proposal-template>
 
 ```latex
@@ -65,7 +65,7 @@ A related work section in which the relevant literature is presented and linked 
 \section{Research questions}
 The research questions are clearly defined, along with the scope (ie what you will not be doing).
 
-To help you define a ``good" research question, read \url{https://geomatics.bk.tudelft.nl/geo2021/templates/Research-Questions_WS-handout.pdf}.
+To help you define a ``good" research question, read \url{https://geomatics.bk.tudelft.nl/geo2022/templates/Research-Questions_WS-handout.pdf}.
 
 % \citet{Smith03} cites something as a noun, and it's also possible to put the references between parentheses at the end of at sentence~\citep{Smith03}
 
@@ -102,8 +102,8 @@ Since specific data and tools have to be used, it's good to present these concre
 == A3/A4 report (final thesis)
 
 We offer two templates (one in LaTeX and one in Typst), those are
-available on the website of GEO2021:
-#link("https://geomatics.bk.tudelft.nl/geo2021/templates/#thesis-template")
+available on the website of GEO2022:
+#link("https://geomatics.bk.tudelft.nl/geo2022/templates/#thesis-template")
 
 == A3 presentation
 <a3-presentation>

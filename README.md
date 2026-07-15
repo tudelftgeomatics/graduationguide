@@ -1,6 +1,6 @@
 # Graduation Guide 
 
-This is the official repository for the "source code" of the [MSc Geomatics](https://geomatics.tudelft.nl) Graduation Guide for the course [GEO2021](https://geomatics.bk.tudelft.nl/geo2021/).
+This is the official repository for the "source code" of the [MSc Geomatics](https://geomatics.tudelft.nl) Graduation Guide for the course [GEO2022](https://geomatics.bk.tudelft.nl/geo2022/).
 
 If you spot a typo, error, or something is not accurate, please open an issue so that we can fix it for the coming years.
 

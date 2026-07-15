@@ -1,3 +1,6 @@
+#import "@preview/dashy-todo:0.1.3": todo
+#import "@preview/gentle-clues:1.2.0": *
+
 // main project
 #let bubble(
   title: "",

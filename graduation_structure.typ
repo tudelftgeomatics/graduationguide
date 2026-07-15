@@ -1,45 +1,42 @@
 
+#import "./template/bubble.typ": *
+
 = Graduation structure <chap:graduation-structure>
 
 == Duration <duration>
-The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesis is written; GEO2021) is 40ECTS and lasts in general three quarters.
+The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesis is written; GEO2022) is 45ECTS and lasts in general three quarters.
 
-It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started twice during the academic calendar.
+It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started at the beginning of any quarter.
+
+#figure(image("figs/gm_structure.svg"))
 
 
-== Structure <structure>
-#figure(image("figs/gm_structure.png"))
 
-== Admission and assessments <admission-and-assessments>
-To enter the graduation phase (at A1), the student must have obtained 55 ECTS from the first year of the programme, and have followed the Q5 electives (15 ECTS); see image structure above.
+== Admission and milestones <admission-and-milestones>
+To enter the graduation phase (Kick-off), the student must have obtained 55 ECTS from the first year of the programme, and have followed the Q5 electives (15 ECTS); see image structure above.
 
-The graduation phase is divided into the following assessments:
+The graduation phase is divided into the following milestones:
 
 #figure(
   placement: auto,
   table(
-    columns: 3,
+    columns: 2,
     // stroke: 0.5pt,
-    align: (left, left, left),
+    align: (left, left),
     fill: (_, y) => if y == 0 { green.lighten(80%) },
-    table.header([*Assessment*], [*Name*], [*Details*]),
+    table.header([*Milestone*], [*Details*]),
     // table.cell([*Assessment*], fill: green.lighten(80%)),
     // table.cell([*Name*], fill: green.lighten(80%)),
     // table.cell([*Details*], fill: green.lighten(80%)),  
     table.hline(),
-    [A0], [Registration], [Selection of the first supervisor and of a
+    [Registration], [Selection of the first supervisor and of a
     thesis topic, either by picking from a topic from
-    #link("https://geomatics.bk.tudelft.nl/geo2021/potentialtopics/")[the list]
+    #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list]
     or by agreeing on a custom topic.],
-    [A1], [Kick-off], [Formal 'go/no go' assessment of the graduation
-    plan, 15 min presentation and discussion.],
-    [A2], [Midterm], [A structured meeting with both supervisors to
-    discuss progress and updated plans. The form is decided by the
-    supervisors.],
-    [A3], [Green light], [Formal final assessment of the complete
-    graduation report (MSc thesis), presentation of \~20min, and
-    discussion.],
-    [A4], [Finalisation], [Presentation for a lay audience.],
+    [Kick-off], ['Go/no go' assessment of the graduation plan; 15-min presentation and discussion.],
+    [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
+    [Green-light], [Formal final assessment of the complete draft MSc thesis; presentation of \~20min, and discussion.],
+    [Finalisation], [Final presentation (20min) + questions from committee + diploma.],
   )
 )
 
@@ -51,15 +48,15 @@ For the academic year 2025-2026, this implies the following weeks and deadlines,
 #figure(image("figs/calendar.png"))
 
 == Retakes <retakes>
-All formal #emph[As] are offered in every quarter.
+All formal milestones are offered in every quarter.
 
-At the A1 (Kick-off), the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the A2 (Midterm) phase. 
-If a 'no-go' is given, the A1 can be done again in the next quarter.
+At the Kick-off, the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the A2 (Midterm) phase. 
+If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 
-The same applies to the A3 (Green light), where the supervisors, co-reader, and the delegate give a 'go' to proceed to the public A4 (Finalisation) two weeks later (the grades are also determined but not yet communicated); if the requirements are not met, the consequent 'no go' results in a retake of the A3 in the next quarter.
+The same applies to the Green-light, where the supervisors, co-reader, and the delegate give a 'go' to proceed to the public Finalisation two weeks later (the grades are also determined but not yet communicated); if the requirements are not met, the consequent 'no go' results in a retake of the Green-light in the next quarter.
 
 == Registration <registration>
-For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. 
+For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
 It is the responsibility of the responsible supervisor to register the student's A1, A3 and A4 applications before the deadlines in the BK academic graduation calendar. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
 If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]).

@@ -1,74 +1,74 @@
-= Assessments (A/0/1/2/3/4) <app:assessments>
+#import "../template/bubble.typ": *
 
-== A0 (Registration)
+= Assessments <app:assessments>
+
+== Registration
 <a0-registration>
 
 #table(
   columns: (25%, 75%),
-  align: (left,left),
-  [Period], [Every quarter this can be done, ask the
-    coordinator of GEO2021],
+  align: (left, left),
+  [Period], [Every quarter this can be done, ask the coordinator of GEO2022],
   [Actions student], [
     - Find and agree on a topic with a MSc Geomatics staff 
     - Write a short summary
-    - Upload the required information to the GEO2021 website
+    - Upload the required information to the GEO2022 website
   ],
 )
 
 
 
-== A1 (Kick-off) <a1-kick-off>
+== Kick-off <Midterm-kick-off>
 #table(
     columns: 2,
     align: (left,left),
-    [Admission requirements], [The student must have obtained 55 ECTS from the first year of the programme, and have followed the Q5 electives (15 ECTS).],
+    [Admission requirements], [The student must have obtained 45 ECTS from the mandatory courses of the first year of the programme (9/10 courses), and have obtained at least 15/25 ECTS from the electives.],
     table.hline(),
     [Period], [In fixed weeks, once per quarter],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Done by the responsible supervisor in SuperSaaS. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
-    [Location], [Room booked by scheduling department],
+    [Planning], [Done by the responsible supervisor in SuperSaaS #todo[Do we use SuperSaaS?]. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
+    [Location], [Room booked by responsible supervisor],
     [Deliverables], [Project proposal],
     [Assessment method], [Rubric],
     [Actions student], [
       - Upload graduation plan to MyCase (1-week before)
       - Prepare presentation
     ],
-    [Actions supervisors], [Read Graduation Plan before the start of A1],
-    [Actions delegate], [Read Graduation Plan before the start of A1],
+    [Actions supervisors], [Read Graduation Plan before the start of Kick-off],
+    [Actions delegate], [Read Graduation Plan before the start of Kick-off],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
-      - 15 min: preparation by student (make sure projector working),
       - 15 min: presentation by student,
       - 15 min: questions by supervisors,
       - 15 min: deliberation and feedback
     ],
     [Assessors], [First and second supervisors],
-    [Quorum], [Both supervisors and delegate, in person],
-    [Actions supervisors], [Fill in the feedback form, upload it in MyCase and give feedback],
-    [Actions delegate], [Chair the assessment and the deliberation],
+    [Quorum], [Both supervisors],
+    [Actions responsible supervisor], [Fill in the feedback form, upload it in MyCase and give feedback],
+    // [Actions delegate], [Chair the assessment and the deliberation],
     //--
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Go_: the student proceeds towards the A2
-      - _No-go_: the student agrees a new A1 date for the next A1 period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]
+      - _No-go_: the student agrees a new Midterm date for the next Midterm period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]
       - _Withdrawal_: same as for no go. 
     ],
     [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the first supervisor], 
     [Planning A3 and A4], [In case of a positive result, the responsible supervisor agrees the A3 and A4 date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].]
   )
 
-== A2 (Midterm) <a2-midterm>
+== Midterm <a2-midterm>
 
 #table(
     columns: 2,
     align: (left,left),
-    [Admission requirements], [The student successfully passed A1],
-    [Period], [Anything between A1 and A3, it is up to the student and the first supervisor to agree on a date],
+    [Admission requirements], [The student successfully passed Midterm],
+    [Period], [Anything between Midterm and A3, it is up to the student and the first supervisor to agree on a date],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -98,21 +98,21 @@
     MyCase by the first supervisor],
   )
 
-== A3 (Green light) <a3-green-light>
+== Green-light <a3-green-light>
 
 #table(
     columns: (50%, 50%),
     align: (auto,auto,),
     [Admission requirements], [The student must have
       completed all Master's courses with exception of the graduation
-      project, must have successfully completed assessment A1 of the
+      project, must have successfully completed assessment Midterm of the
       graduation, and must have held assessment A2 of the graduation.],
     [Period], [In fixed weeks, once per quarter.],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Planning], [Day and timeslot reservation made by first supervisor
-    after the A1],
+    after the Midterm],
     [Location], [Room booked by scheduling department],
     [Deliverables], [A full thesis and a presentation],
     [Assessment method], [Rubric],
@@ -123,7 +123,7 @@
     ],
     [Actions supervisors], [
       - Read Graduation Report before A3 start,
-      - Check if and how student implemented advice/feedback from A1 and A2.
+      - Check if and how student implemented advice/feedback from Midterm and A2.
     ],
     [Actions delegate], [Skim (or read) the Graduation Report before A3 start],
     //--
@@ -144,14 +144,14 @@
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
-      - _Green-light_: the student proceeds towards the A4
-      - _Red-light_: the student agrees a new A3 date for the next A3 period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
+      - _Green-light_: the student proceeds towards the Finalisation
+      - _Red-light_: the student agrees a new Green-light date for the next Green-light period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
       - _Withdrawal_: same as for no go.  
     ],
     [Assessment registration], [The feedback and assessment ('go' or 'no go') is registered in MyCase by the first supervisor],
   )
 
-== A4 (Finalisation) <a4-finalisation>
+== Finalisation (graduation) <a4-finalisation>
 
 #table(
     columns: 2,
@@ -163,7 +163,7 @@
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Planning], [Day and timeslot reservation made by first supervisor
-    after the A1],
+    after the Midterm],
     [Location], [Room booked by scheduling department],
     [Deliverables], [Presentation],
     [Assessment method], [Rubric],

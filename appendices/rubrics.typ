@@ -1,17 +1,17 @@
 
 = Rubrics <app:rubrics>
 
-== Rubric for A1 <a1-rubric>
+== Rubric for Kick-off <a1-rubric>
 
-The rubric at A1 is based on the same criteria as the A3 rubric, see below. 
-The supervisors judge whether a student is on track to obtain a #emph[Green-light] at A3.
+The rubric at Kick-off is based on the same criteria as the Green-light rubric, see below. 
+The supervisors judge whether a student is on track to obtain a #emph[Green-light] at the Green-light milestone.
 
 == Rubric for A3 <a3-rubric>
 
-#link("https://geomatics.bk.tudelft.nl/geo2021/rubric/Rubric_Geomatics.pdf")[#image("../figs/rubric_a3.svg")]
+#link("https://geomatics.bk.tudelft.nl/geo2022/rubric/Rubric_Geomatics.pdf")[#image("../figs/rubric_a3.svg")]
 
 _(Digital version in PDF and XLSX is available at
-#link("https://geomatics.bk.tudelft.nl/geo2021/rubric/");)_
+#link("https://geomatics.bk.tudelft.nl/geo2022/rubric/");)_
 
 == Rubric for A4 <a4-rubric>
 #figure(
