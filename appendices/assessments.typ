@@ -3,7 +3,7 @@
 = Assessments <app:assessments>
 
 == Registration
-<a0-registration>
+<assessment-registration>
 
 #table(
   columns: (25%, 75%),
@@ -54,21 +54,21 @@
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
-      - _Go_: the student proceeds towards the A2
-      - _No-go_: the student agrees a new Midterm date for the next Midterm period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]
+      - _Go_: the student proceeds towards the Midterm
+      - _No-go_: the student agrees a new Kick-off date for the next Kick-off period with the supervisors; the responsible supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]
       - _Withdrawal_: same as for no go. 
     ],
     [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the first supervisor], 
-    [Planning A3 and A4], [In case of a positive result, the responsible supervisor agrees the A3 and A4 date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].]
+    // [Planning Green-light and Finalisation], [In case of a positive result, the responsible supervisor agrees the Green-light and Finalisation date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].]
   )
 
-== Midterm <a2-midterm>
+== Midterm <assessment-midterm>
 
 #table(
     columns: 2,
     align: (left,left),
     [Admission requirements], [The student successfully passed Midterm],
-    [Period], [Anything between Midterm and A3, it is up to the student and the first supervisor to agree on a date],
+    [Period], [Anytime between Kick-off and Green-light, it is up to the student and the first supervisor to agree on a date],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -78,8 +78,8 @@
     MyCase. The form/content of this document is decided by the
     supervisors.],
     [Assessment method], [(none)],
-    [Actions student], [Upload the required document to MyCase (at least 24h before A2)],
-    [Actions supervisors], [First supervisor books the room and invites the second supervisor],
+    [Actions student], [Upload the required document to MyCase (at least 24h before the Midterm)],
+    [Actions supervisors], [Responsible supervisor books the room and invites the second supervisor],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -98,15 +98,13 @@
     MyCase by the first supervisor],
   )
 
-== Green-light <a3-green-light>
+== Green-light <assessment-green-light>
 
 #table(
     columns: (50%, 50%),
     align: (auto,auto,),
     [Admission requirements], [The student must have
-      completed all Master's courses with exception of the graduation
-      project, must have successfully completed assessment Midterm of the
-      graduation, and must have held assessment A2 of the graduation.],
+      completed all Master's courses with exception of GEO2022,and must have successfully completed the Midterm milestone.],
     [Period], [In fixed weeks, once per quarter.],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
@@ -122,10 +120,10 @@
       - Prepare presentation 
     ],
     [Actions supervisors], [
-      - Read Graduation Report before A3 start,
-      - Check if and how student implemented advice/feedback from Midterm and A2.
+      - Read the draft MSc thesis ,
+      - Check if and how student implemented advice/feedback from the Midterm.
     ],
-    [Actions delegate], [Skim (or read) the Graduation Report before A3 start],
+    [Actions delegate], [Skim (or read) the Graduation Report before the Green-light start],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -151,14 +149,13 @@
     [Assessment registration], [The feedback and assessment ('go' or 'no go') is registered in MyCase by the first supervisor],
   )
 
-== Finalisation (graduation) <a4-finalisation>
+== Finalisation (graduation) <assessment-finalisation>
 
 #table(
     columns: 2,
     align: (left,left),
-    [Admission requirements], [The student must have successfully completed assessment A3 of the graduation.],
-    [Period], [In fixed weeks, once per quarter. Must be done 2 weeks
-    after the A3, a student cannot postpone A4 after a successful A3.],
+    [Admission requirements], [The student must have successfully completed the Green-light milestone.],
+    [Period], [In fixed weeks, once per quarter. Must be done at least 4 weeks after the Green-light.],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -168,8 +165,8 @@
     [Deliverables], [Presentation],
     [Assessment method], [Rubric],
     [Actions student], [
-      - Upload final thesis to the TU Delft repository (1 day before A4),
-      - Prepare presentation for lay audience
+      - Upload final thesis to the TU Delft repository (1 day before the Finalisation),
+      - Prepare presentation
     ],
     [Actions supervisors], [(none)],
     [Actions delegate], [(none)],
@@ -177,23 +174,23 @@
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
-      - 15 min: preparation by student (make sure projector is working)
       - 15 min: presentation by student
-      - 15 min: questions by supervisors
-      - 15 min: deliberation and feedback 
+      - 20 min: questions by co-reader, second supervisor, and responsible supervisor (in that order)
+      - 10 min: deliberation by thesis committee feedback 
+      - 10 min: private session with student where committee members explain the final grade
+      - 10 min: laudation of the candidate and signing of the diploma
     ],
-    [Assessors], [First and second supervisors],
-    [Quorum], [Both supervisors, in person],      
+    [Assessors], [Responsible supervisor and second supervisor],
+    [Quorum], [Both supervisors, co-reader, and delegate],      
     [Actions student], [
       - Give presentation and answer questions
       - Sign the diploma on both sides
     ],
     [Actions supervisors], [
-      - Fill in the A4 rubrics and determine whether the provisional final grade should be
-        increased or lowered by half a point
       - Fill in the final grade list
       - Hand over the diploma and the grade list (the latter in a closed
-        envelope), and give the laudation 
+        envelope), 
+      - Give the laudation (without announcing the final grade to the public)
     ],
     //--
     table.cell([*Upon completion*], fill: green.lighten(80%)),

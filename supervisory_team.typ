@@ -14,7 +14,7 @@ Students choose this supervisor during the Registration milestone, either by dir
 == Second supervisor <second-supervisor>
 The second supervisor is a scientific staff member from TU Delft whose expertise complements that of the responsible supervisor.
 They may be predefined based on the selected topic or chosen by the responsible supervisor with input from the student.
-Ideally, the second supervisor is determined at the A0 (Registration) phase and must be confirmed before the Kick-off.
+Ideally, the second supervisor is determined at the Registration phase and must be confirmed before the Kick-off.
 
 == Co-reader <co-reader>
 The co-reader is a scientific staff member of TU Delft or another university who is an expert in the field of the graduation project.

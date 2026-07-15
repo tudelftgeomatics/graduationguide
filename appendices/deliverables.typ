@@ -3,7 +3,7 @@
 = Deliverables <app:deliverables>
 
 == Kick-off (project proposal) template
-<a1-project-proposal-template>
+<project-proposal-template>
 
 ```latex
 \documentclass[a4paper,11pt]{scrartcl}
@@ -32,7 +32,7 @@
 \renewcommand{\algorithmicrequire}{\textbf{Input:}}
 \renewcommand{\algorithmicensure}{\textbf{Output:}}
 
-\title{My graduation plan (A1) template}
+\title{Graduation plan template (Kick-off)}
 
 \author{
   Céline Dion\\
@@ -99,26 +99,28 @@ Since specific data and tools have to be used, it's good to present these concre
 (notice that this text is available at
 #link("https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657")
 
-== A3/A4 report (final thesis)
+== Green-light/Finalisation report (final thesis)
 
 We offer two templates (one in LaTeX and one in Typst), those are
 available on the website of GEO2022:
 #link("https://geomatics.bk.tudelft.nl/geo2022/templates/#thesis-template")
 
-== A3 presentation
-<a3-presentation>
+== Green-light presentation
+<green-light-presentation>
 
-The A3 (Green light) presentation is a formal assessment where the student presents the complete findings of their MSc thesis to their supervisory team. The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
+The Green-light presentation is a technical 15-minute presentation of the main findings of the MSc thesis, it containsa technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
+The student can assume that the audience has read the draft MSc thesis and is familiar with the research questions and methodology.
 
-The presentation lasts 20 minutes and is followed by a 20-minute question session from the assessment committee. The audience consists of the first and second supervisors, the independent co-reader, and a delegate from the Board of Examiners.
+// The presentation lasts 20 minutes and is followed by a 20-minute question session from the assessment committee. The audience consists of the first and second supervisors, the independent co-reader, and a delegate from the Board of Examiners.
 
-The goal of this presentation is to demonstrate that the thesis work is complete and of sufficient quality to proceed to the final public defense (A4).
+The goal of this presentation is to demonstrate that the thesis work is complete and of sufficient quality to proceed to the final public defense (the Finalisation).
 
-== A4 presentation
-<a4-presentation>
+== Finalisation presentation
+<finalisation-presentation>
 
-The A4 "Finalisation" presentation is the public defense of the MSc thesis for a lay audience. This includes family, friends, and fellow students.
+The Finalisation presentation is a formal assessment where the student presents the complete findings of their MSc thesis to the thesis committee and the public. 
+The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 
-The content must be an adapted version of the A3 presentation, translated to be understandable for non-specialists. The presentation lasts 15 minutes and is followed by a 15-minute question session.
+The content must be an adapted version of the Green-light presentation, translated to be understandable for non-specialists. The presentation lasts 15 minutes and is followed by a 15-minute question session.
 
-The goal is to demonstrate the ability to communicate complex research effectively to a general public. The thesis itself remains unchanged, as the grades were already determined at the A3. However, the quality of this lay presentation can still influence the final grade, potentially adjusting it up or down by half a point.
+The goal is to demonstrate the ability to communicate complex research effectively to a general public. The thesis itself remains unchanged, as the grades were already determined at the Green-light. However, the quality of this lay presentation can still influence the final grade, potentially adjusting it up or down by half a point.

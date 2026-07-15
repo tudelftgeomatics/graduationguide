@@ -57,7 +57,7 @@ The same applies to the Green-light, where the supervisors, co-reader, and the d
 
 == Registration <registration>
 For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
-It is the responsibility of the responsible supervisor to register the student's A1, A3 and A4 applications before the deadlines in the BK academic graduation calendar. 
+It is the responsibility of the responsible supervisor to register the student's Kick-off, Green-light and Finalisation applications before the deadlines in the BK academic graduation calendar. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
 If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]).
 
@@ -75,14 +75,14 @@ A student will receive this if all of the following requirements are met:
 
 + The weighted average of the grades of the courses, not including the graduation project, must be at least 8.0 (exemptions ("VR" in OSIRIS) will not be taken into consideration; no more than 20 ECTS may be completed with an exemption);
 + No courses may be completed after a repair resulting in a 'pass';
-+ The provisional final grade of the graduation project at the A3 must be at least 8.5;
++ The provisional final grade of the graduation project at the Green-light must be at least 8.5;
 + The study duration cannot exceed the nominal study duration plus one semester.
 
 For students who do not meet all criteria above, especially the fourth, for instance because they were enrolled as a student in a specific semester but did not participate in any course or examination in that semester, an exemption may apply. 
-This should be arranged before the A3 application date (by sending a request by email to the Board of Examiners: #link("mailto:BoardofExaminers-BK@tudelft.nl")[BoardofExaminers-BK\@tudelft.nl]).
+This should be arranged before the Green-light application date (by sending a request by email to the Board of Examiners: #link("mailto:BoardofExaminers-BK@tudelft.nl")[BoardofExaminers-BK\@tudelft.nl]).
 
 == Ethics <ethics>
 In projects involving humans, certain types of data processing increase the risks to the human participants. Planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. 
 In the case of a graduation project, obtaining additional advice or permits may delay the project with an extra semester. 
-Therefore, all students have to check their risk, by completing the Ethics Checklist (@app:ethics) before the A1. 
+Therefore, all students have to check their risk, by completing the Ethics Checklist (@app:ethics) before the Kick-off. 
 Only if the graduation project involves working with data from human participants, should the rest of the checklist be completed and contact be made with the Human Research Ethics Committee (HREC).
