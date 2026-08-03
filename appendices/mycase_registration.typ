@@ -32,13 +32,13 @@ The table below serves as a chronological overview of all tasks and responsibili
     [], [3.9--4.0], [Midterm assessment], [Student and supervisors],
     [], [], [Submit result and feedback in MyCase], [Responsible
     supervisor],
-    [*Green-light*], [4.6--4.7], [Check study progress, upload
+    [*Green-light*], [4.3--4.4], [Check study progress, upload
     graduation report, submit diploma application (with final title!)
     and submit 'Ready for green light' task in MyCase, and upload
     graduation report in plagiarism scan in Brightspace], [Student],
     [], [], [Check graduation requirements], [Student programme
     administration],
-    [], [4.7--4.8], [Check for plagiarism], [Responsible supervisor],
+    [], [4.4--4.5], [Check for plagiarism], [Responsible supervisor],
     [], [], [Green-light assessment], [Student, supervisors, co-reader
     and delegate],
     [], [], [Submit result and feedback in MyCase], [Responsible

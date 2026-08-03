@@ -99,16 +99,15 @@ Since specific data and tools have to be used, it's good to present these concre
 (notice that this text is available at
 #link("https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657")
 
-== Green-light/Finalisation report (final thesis)
+== Graduation report
 
-We offer two templates (one in LaTeX and one in Typst), those are
-available on the website of GEO2022:
+We offer two templates (one in LaTeX and one in Typst), those are available on the website of GEO2022:
 #link("https://geomatics.bk.tudelft.nl/geo2022/templates/#thesis-template")
 
 == Green-light presentation
 <green-light-presentation>
 
-The Green-light presentation is a technical 15-minute presentation of the main findings of the MSc thesis, it containsa technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
+The Green-light presentation is a technical 15-minute presentation of the main findings of the draft MSc thesis, it contains a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 The student can assume that the audience has read the draft MSc thesis and is familiar with the research questions and methodology.
 
 // The presentation lasts 20 minutes and is followed by a 20-minute question session from the assessment committee. The audience consists of the first and second supervisors, the independent co-reader, and a delegate from the Board of Examiners.
@@ -123,4 +122,4 @@ The content is a technical summary of the entire graduation report, covering the
 
 The content must be an adapted version of the Green-light presentation, translated to be understandable for non-specialists. The presentation lasts 15 minutes and is followed by a 15-minute question session.
 
-The goal is to demonstrate the ability to communicate complex research effectively to a general public. The thesis itself remains unchanged, as the grades were already determined at the Green-light. However, the quality of this lay presentation can still influence the final grade, potentially adjusting it up or down by half a point.
+The goal is to demonstrate the ability to communicate complex research effectively to a general public. After the Green-light, the student is expected to revise the thesis based on the feedback received and upload the final version to the repository before the Finalisation. The quality of this lay presentation can still influence the final grade, potentially adjusting it up or down by half a point.

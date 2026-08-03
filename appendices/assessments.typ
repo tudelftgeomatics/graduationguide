@@ -112,10 +112,10 @@
     [Planning], [Day and timeslot reservation made by first supervisor
     after the Midterm],
     [Location], [Room booked by scheduling department],
-    [Deliverables], [A full thesis and a presentation],
+    [Deliverables], [A complete draft thesis and a presentation],
     [Assessment method], [Rubric],
     [Actions student], [
-      - Upload final draft thesis to MyCase (1-week before),
+      - Upload draft thesis to MyCase (1-week before),
       - Perform the plagiarism scan in Brightspace
       - Prepare presentation 
     ],
@@ -165,7 +165,10 @@
     [Deliverables], [Presentation],
     [Assessment method], [Rubric],
     [Actions student], [
-      - Upload final thesis to the TU Delft repository (1 day before the Finalisation),
+      - Revise the thesis based on the feedback received at the Green-light
+      - Upload final thesis to MyCase (1 week before the presentation)
+      - Perform the plagiarism scan in Brightspace
+      - Upload final thesis to the TU Delft repository (1 day before the presentation)
       - Prepare presentation
     ],
     [Actions supervisors], [(none)],
