@@ -176,7 +176,7 @@
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
-      - 15 min: presentation by student
+      - 20 min: presentation by student
       - 20 min: questions by co-reader, second supervisor, and responsible supervisor (in that order)
       - 10 min: deliberation by thesis committee feedback 
       - 10 min: private session with student where committee members explain the final grade
