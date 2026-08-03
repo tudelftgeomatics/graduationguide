@@ -168,8 +168,7 @@
       - Upload final thesis to the TU Delft repository (1 day before the presentation)
       - Prepare presentation
     ],
-    [Actions supervisors], [(none)],
-    [Actions delegate], [Chair the assessment and the deliberation],
+    [Actions supervisors and co-reader], [Send their tentative marks to the delegate before the session],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -192,6 +191,7 @@
         envelope), 
       - Give the laudation (without announcing the final grade to the public)
     ],
+    [Actions delegate], [Chair the assessment and the deliberation],
     //--
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
