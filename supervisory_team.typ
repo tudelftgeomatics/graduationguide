@@ -18,10 +18,10 @@ Ideally, the second supervisor is determined at the Registration phase and must 
 
 == Co-reader <co-reader>
 The co-reader is a scientific staff member of TU Delft or another university who is an expert in the field of the graduation project.
-Their role is to assess the quality of the student's work in an unbiased way at the Green-light and to help marking at the Finalisation.
+Their role is to assess the quality of the student's work in an unbiased way and to help marking at the Finalisation.
 Preferably, they are not part of the same group(s) as the supervisors. 
 The co-reader is chosen by the supervisors in collaboration with the student.
-The co-reader is preferably defined at the Registration and must be defined before the Green-light.
+The co-reader is preferably defined at the Registration and must be defined before the Finalisation.
 
 == Delegate of the Board of Examiners <delegate-of-the-board-of-examiners>
 Since the Board of Examiners is responsible for ensuring the quality of all examinations, a delegate is appointed by the Board of Examiners of the Faculty before the Green-light: a staff of the MSc Geomatics for the Built Environment programme who is familiar with the graduation process and who is not from the same section as the two supervisors. 

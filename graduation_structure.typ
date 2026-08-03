@@ -51,7 +51,7 @@ All formal milestones are offered in every quarter.
 At the Kick-off, the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the Midterm milestone. 
 If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 
-The same applies to the Green-light, where the supervisors, co-reader, and the delegate give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no go' results in a retake of the Green-light in the next quarter.
+The same applies to the Green-light, where the supervisors and the delegate give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no go' results in a retake of the Green-light in the next quarter.
 
 == Registration <registration>
 For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
