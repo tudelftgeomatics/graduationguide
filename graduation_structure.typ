@@ -51,7 +51,7 @@ All formal milestones are offered in every quarter.
 At the Kick-off, the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the Midterm milestone. 
 If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 
-The same applies to the Green-light, where the supervisors, co-reader, and the delegate give a 'go' to proceed to the public Finalisation at least 4 weeks later (the grades are also determined but not yet communicated); if the requirements are not met, the consequent 'no go' results in a retake of the Green-light in the next quarter.
+The same applies to the Green-light, where the supervisors, co-reader, and the delegate give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no go' results in a retake of the Green-light in the next quarter.
 
 == Registration <registration>
 For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
@@ -73,7 +73,7 @@ A student will receive this if all of the following requirements are met:
 
 + The weighted average of the grades of the courses, not including the graduation project, must be at least 8.0 (exemptions ("VR" in OSIRIS) will not be taken into consideration; no more than 20 ECTS may be completed with an exemption);
 + No courses may be completed after a repair resulting in a 'pass';
-+ The provisional final grade of the graduation project at the Green-light must be at least 8.5;
++ The final grade of the graduation project must be at least 8.5;
 + The study duration cannot exceed the nominal study duration plus one semester.
 
 For students who do not meet all criteria above, especially the fourth, for instance because they were enrolled as a student in a specific semester but did not participate in any course or examination in that semester, an exemption may apply. 

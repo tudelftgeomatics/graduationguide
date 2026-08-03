@@ -37,7 +37,7 @@ A student will receive this if all of the following requirements are met:
 
 + The weighted average of the grades of the courses, not including the graduation project, must be at least 8.0 (exemptions ("VR" in OSIRIS) will not be taken into consideration; no more than 20 ECTS may be completed with an exemption);
 + No courses may be completed after a repair resulting in a 'pass';
-+ The provisional final grade of the graduation project at the Green-light must be at least 8.5;
++ The final grade of the graduation project must be at least 8.5;
 + The study duration cannot exceed the nominal study duration plus one semester.
 
 For students who do not meet all criteria above, especially the fourth, for instance because they were enrolled as a student in a specific semester but did not participate in any course or examination in that semester, an exemption may apply. 

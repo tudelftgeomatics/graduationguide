@@ -122,4 +122,4 @@ The content is a technical summary of the entire graduation report, covering the
 
 The content must be an adapted version of the Green-light presentation, translated to be understandable for non-specialists. The presentation lasts 15 minutes and is followed by a 15-minute question session.
 
-The goal is to demonstrate the ability to communicate complex research effectively to a general public. After the Green-light, the student is expected to revise the thesis based on the feedback received and upload the final version to the repository before the Finalisation. The quality of this lay presentation can still influence the final grade, potentially adjusting it up or down by half a point.
+The goal is to demonstrate the ability to communicate complex research effectively to a general public. After the Green-light, the student is expected to revise the thesis based on the feedback received and upload the final version to the repository before the Finalisation. The quality of this lay presentation contributes to the final grade, which is decided at the Finalisation.
