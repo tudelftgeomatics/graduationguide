@@ -39,8 +39,7 @@ The table below serves as a chronological overview of all tasks and responsibili
     [], [], [Check graduation requirements], [Student programme
     administration],
     [], [4.4--4.5], [Check for plagiarism], [Responsible supervisor],
-    [], [], [Green-light assessment], [Student, supervisors and
-    delegate],
+    [], [], [Green-light assessment], [Student and supervisors],
     [], [], [Submit result and feedback in MyCase], [Responsible
     supervisor],
     [*Finalisation*], [4.9--4.10], [Upload lay presentation

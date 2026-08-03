@@ -4,9 +4,9 @@ Throughout the graduation phase, the student should receive regular feedback fro
 More extensive feedback is provided during the Kick-off, Midterm and Green-light assessments.
 
 One week before the Kick-off, Green-light, and Finalisation milestones, the student submits their main deliverables (graduation plan for Kick-off and MSc thesis report for Green-light and Finalisation). 
-These are presented at the Kick-off and Green-light assessment sessions, where the independent delegate chairs the session. 
+These are presented at the Kick-off and Green-light assessment sessions; at the Kick-off, the independent delegate chairs the session. 
 Following the presentation, the student responds to the supervisory team's questions. 
-Then, the supervisory team and delegate retreat for deliberation, after which the results are announced and feedback is provided.
+Then, the supervisory team retreats for deliberation, after which the results are announced and feedback is provided.
 
 During the Midterm assessment, the supervisors and student conduct a more structured meeting to discuss the progress and (updated) plans. 
 The form of this session depends on the supervisors, but it might include a presentation, demo or extended discussion session.
@@ -19,7 +19,7 @@ For the Kick-off and Midterm, it is being assessed whether the work is quantitat
 
 == Deliberation and feedback <deliberation-and-feedback>
 After the Kick-off, Green-light, and Finalisation sessions, the supervisory team will retreat for deliberation. 
-At the Green-light and Finalisation, the independent delegate chairs the deliberation (see @chap:supervision and @app:assessments), without influencing the result.
+At the Kick-off and Finalisation, the independent delegate chairs the deliberation (see @chap:supervision and @app:assessments), without influencing the result.
 
 During the deliberation, the supervisory team assesses the deliverables, including the presentation and the answers to the supervisory team's questions.
 This assessment is formally expressed in a 'go' or a 'no go', representing a 'sufficient' to 'good' level or an 'insufficient' level respectively.

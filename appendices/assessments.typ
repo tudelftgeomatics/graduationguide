@@ -47,9 +47,9 @@
       - 15 min: deliberation and feedback
     ],
     [Assessors], [First and second supervisors],
-    [Quorum], [Both supervisors],
+    [Quorum], [Both supervisors and delegate],
     [Actions responsible supervisor], [Fill in the feedback form, upload it in MyCase and give feedback],
-    // [Actions delegate], [Chair the assessment and the deliberation],
+    [Actions delegate], [Chair the assessment and the deliberation],
     //--
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -123,7 +123,6 @@
       - Read the draft MSc thesis ,
       - Check if and how student implemented advice/feedback from the Midterm.
     ],
-    [Actions delegate], [Skim (or read) the Graduation Report before the Green-light start],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
@@ -133,16 +132,15 @@
     - 15 min: deliberation and feedback
     ],
     [Assessors], [First and second supervisors], 
-    [Quorum],  [Both supervisors and delegate], 
+    [Quorum],  [Both supervisors], 
     [Actions student], [Give presentation and answer questions], 
     [Actions supervisors], [Fill in the feedback form, upload it in MyCase and give feedback],
-    [Actions delegate], [Chair the assessment and the deliberation ],
     //--
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Green-light_: the student proceeds towards the Finalisation
-      - _Red-light_: the student agrees a new Green-light date for the next Green-light period with the supervisors and delegate; the first supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
+      - _Red-light_: the student agrees a new Green-light date for the next Green-light period with the supervisors; the first supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
       - _Withdrawal_: same as for no go.  
     ],
     [Assessment registration], [The feedback and assessment ('go' or 'no go') is registered in MyCase by the first supervisor],
@@ -171,7 +169,7 @@
       - Prepare presentation
     ],
     [Actions supervisors], [(none)],
-    [Actions delegate], [(none)],
+    [Actions delegate], [Chair the assessment and the deliberation],
     //--
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
