@@ -4,7 +4,7 @@
 = Overview of the graduation <chap:graduation-structure>
 
 == Structure and duration <duration>
-The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesis is written; GEO2022) is 45ECTS and lasts in general three quarters.
+The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesis is written; GEO2022) is 45 ECTS and lasts in general three quarters.
 
 It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started at the beginning of any quarter.
 
@@ -30,7 +30,7 @@ The graduation phase is divided into the following milestones:
     // table.cell([*Details*], fill: green.lighten(80%)),  
     table.hline(),
     [Registration], [Selection of the responsible supervisor and of a thesis topic, either by picking from a topic from #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list] or by agreeing on a custom topic.],
-    [Kick-off], ['Go/no go' assessment of the graduation plan; 15-min presentation and discussion.],
+    [Kick-off], ['Go/no-go' assessment of the graduation plan; 15-min presentation and discussion.],
     [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
     [Green-light], [Formal final assessment of the complete draft MSc thesis; presentation, questions, and discussion.],
     [Finalisation], [Final presentation (20min) + questions from committee + diploma.],
@@ -51,7 +51,7 @@ All formal milestones are offered in every quarter.
 At the Kick-off, the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the Midterm milestone. 
 If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 
-The same applies to the Green-light, where the supervisors give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no go' results in a retake of the Green-light in the next quarter.
+The same applies to the Green-light, where the supervisors give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no-go' results in a retake of the Green-light in the next quarter.
 
 == Registration <registration>
 For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
@@ -82,5 +82,5 @@ This should be arranged before the Green-light application date (by sending a re
 == Ethics <ethics>
 In projects involving humans, certain types of data processing increase the risks to the human participants. Planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. 
 In the case of a graduation project, obtaining additional advice or permits may delay the project with an extra semester. 
-Therefore, all students have to check their risk, by completing the Ethics Checklist (@app:ethics) before the Kick-off. 
+Therefore, all students have to check their risk, by completing the Data management checklist (@app:ethics) before the Kick-off. 
 Only if the graduation project involves working with data from human participants, should the rest of the checklist be completed and contact be made with the Human Research Ethics Committee (HREC).

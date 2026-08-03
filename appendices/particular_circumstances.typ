@@ -15,7 +15,7 @@ In case of absence, action will be taken as follows:
 
   In case of an unexpected absence, the other supervisory team members will search for a replacement. The Secretary of the Board of Examiners is also informed by the responsible supervisor or the delegate of the Board of Examiners about this absence. The assessment should preferably be continued, but the final assessment should be determined after hearing the absent supervisor.
 
-  The determination for a 'go' or 'no go' at the Kick-off and Green-light can only take place after consulting the absent assessor. If this is not possible, the final assessment is postponed. In both cases, a meeting with the absent supervisor takes place on the shortest possible term, to determine a final conclusion. In case of doubt or on request of the student, it may be decided that an extra assessment must be held.
+  The determination for a 'go' or 'no-go' at the Kick-off and Green-light can only take place after consulting the absent assessor. If this is not possible, the final assessment is postponed. In both cases, a meeting with the absent supervisor takes place on the shortest possible term, to determine a final conclusion. In case of doubt or on request of the student, it may be decided that an extra assessment must be held.
 
 == Difficulties at the deliberation
 <difficulties-at-the-deliberation>

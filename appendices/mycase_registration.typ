@@ -34,7 +34,7 @@ The table below serves as a chronological overview of all tasks and responsibili
     supervisor],
     [*Green-light*], [4.3--4.4], [Check study progress, upload
     graduation report, submit diploma application (with final title!)
-    and submit 'Ready for green light' task in MyCase, and upload
+    and submit 'Ready for Green-light' task in MyCase, and upload
     graduation report in plagiarism scan in Brightspace], [Student],
     [], [], [Check graduation requirements], [Student programme
     administration],

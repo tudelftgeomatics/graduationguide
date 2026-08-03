@@ -107,7 +107,7 @@ We offer two templates (one in LaTeX and one in Typst), those are available on t
 == Green-light presentation
 <green-light-presentation>
 
-The Green-light presentation is a technical 15-minute presentation of the main findings of the draft MSc thesis, it contains a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
+The Green-light presentation is a technical 20-minute presentation of the main findings of the draft MSc thesis, it contains a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 The student can assume that the audience has read the draft MSc thesis and is familiar with the research questions and methodology.
 
 // The presentation lasts 20 minutes and is followed by a 20-minute question session from the assessment committee. The audience consists of the first and second supervisors, the independent co-reader, and a delegate from the Board of Examiners.
@@ -120,6 +120,6 @@ The goal of this presentation is to demonstrate that the thesis work is complete
 The Finalisation presentation is a formal assessment where the student presents the complete findings of their MSc thesis to the thesis committee and the public. 
 The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 
-The content must be an adapted version of the Green-light presentation, translated to be understandable for non-specialists. The presentation lasts 15 minutes and is followed by a 15-minute question session.
+The content must be an adapted version of the Green-light presentation, translated to be understandable for non-specialists. The presentation lasts 20 minutes and is followed by a 20-minute question session.
 
 The goal is to demonstrate the ability to communicate complex research effectively to a general public. After the Green-light, the student is expected to revise the thesis based on the feedback received and upload the final version to the repository before the Finalisation. The quality of this lay presentation contributes to the final grade, which is decided at the Finalisation.

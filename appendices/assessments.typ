@@ -56,7 +56,7 @@
     [Assessment result], [
       - _Go_: the student proceeds towards the Midterm
       - _No-go_: the student agrees a new Kick-off date for the next Kick-off period with the supervisors; the responsible supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]
-      - _Withdrawal_: same as for no go. 
+      - _Withdrawal_: same as for no-go. 
     ],
     [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the first supervisor], 
     // [Planning Green-light and Finalisation], [In case of a positive result, the responsible supervisor agrees the Green-light and Finalisation date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].]
@@ -67,7 +67,7 @@
 #table(
     columns: 2,
     align: (left,left),
-    [Admission requirements], [The student successfully passed Midterm],
+    [Admission requirements], [The student successfully passed the Kick-off milestone],
     [Period], [Anytime between Kick-off and Green-light, it is up to the student and the first supervisor to agree on a date],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
@@ -139,11 +139,11 @@
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
-      - _Green-light_: the student proceeds towards the Finalisation
-      - _Red-light_: the student agrees a new Green-light date for the next Green-light period with the supervisors; the first supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
-      - _Withdrawal_: same as for no go.  
+      - _Go_: the student proceeds towards the Finalisation
+      - _No-go_: the student agrees a new Green-light date for the next Green-light period with the supervisors; the first supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
+      - _Withdrawal_: same as for no-go.  
     ],
-    [Assessment registration], [The feedback and assessment ('go' or 'no go') is registered in MyCase by the first supervisor],
+    [Assessment registration], [The feedback and assessment ('go' or 'no-go') is registered in MyCase by the first supervisor],
   )
 
 == Finalisation (graduation) <assessment-finalisation>

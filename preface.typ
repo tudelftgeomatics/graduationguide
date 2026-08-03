@@ -3,7 +3,7 @@
 // = Preface <chap:preface>
 
 The graduation phase is the last step in the MSc Geomatics for the Built Environment programme. 
-It is completed in the form of an 45 ECTS individual research project.
+It is completed in the form of a 45 ECTS individual research project.
 
 The topic of the scientific project can be related to any of the subjects offered in the MSc Geomatics for the Built Environment programme.
 
