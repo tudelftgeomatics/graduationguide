@@ -134,7 +134,7 @@
     - 15 min: deliberation and feedback
     ],
     [Assessors], [First and second supervisors, and the co-reader], 
-    [Quorum],  [Both supervisors, co-reader, and delegate, in person], 
+    [Quorum],  [Both supervisors, co-reader, and delegate], 
     [Actions student], [Give presentation and answer questions], 
     [Actions supervisors], [Fill in the feedback form, upload it in MyCase and give feedback],
     [Actions delegate], [Chair the assessment and the deliberation ],
