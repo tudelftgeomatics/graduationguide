@@ -6,7 +6,8 @@ If you spot a typo, error, or something is not accurate, please open an issue so
 
 ## Download the PDF
 
-- [v2025-2026](https://github.com/tudelftgeomatics/graduationguide/releases/download/2025.2026/gm_gg_2526.pdf)
+- [v2026-2027](https://github.com/tudelftgeomatics/graduationguide/releases) — published once the 2026-2027 edition is finalized
+- [v2025-2026](https://github.com/tudelftgeomatics/graduationguide/releases/download/2025.2026/gm_gg_2526.pdf) (previous edition)
 
 ## How to compile the PDF
 
