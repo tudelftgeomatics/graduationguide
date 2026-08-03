@@ -128,7 +128,6 @@
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
-    - 15 min: preparation by student (make sure projector working)
     - 20 min: presentation by student
     - 20 min: questions by supervisors
     - 15 min: deliberation and feedback
