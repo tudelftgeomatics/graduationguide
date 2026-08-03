@@ -36,5 +36,5 @@ The student has the possibility to upload provisional versions of their document
 The draft version of the MSc thesis for the Green-light will be submitted in the final version folder of the plagiarism scan, at the latest one week before the Green-light. 
 The final submission folder will only allow one submission for each student and the plagiarism feedback will only be visible for the supervisors. 
 It is the responsibility of the responsible supervisor to determine whether the results of the plagiarism scan in the final folder are an indication of actual plagiarism. 
-In all cases, suspicion of plagiarism or not, the responsible supervisor should share the findings with the student, the second supervisor, the co-reader and the delegate at the Green-light. 
+In all cases, suspicion of plagiarism or not, the responsible supervisor should share the findings with the student, the second supervisor and the delegate at the Green-light. 
 If there is a suspicion of intentional plagiarism, the responsible supervisor should discuss this with the student and notify the Board of Examiners afterwards.
