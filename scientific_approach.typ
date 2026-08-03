@@ -16,6 +16,8 @@ The contents of the report will differ depending on the nature of the research, 
 
 In addition to the graduation report, there are two other presentations as deliverables: (1) a technical presentation, which is given, discussed and assessed at the Green-light meeting, and (2) a presentation for a lay audience, which is given, discussed and assessed at the Finalisation meeting.
 
+The graduation report and all presentations must be in English.
+
 == Graduation plan (Kick-off) structure
 <graduation-plan-a1-structure>
 
