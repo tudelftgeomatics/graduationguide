@@ -18,7 +18,7 @@ To enter the graduation phase (Kick-off), the student must have obtained 45 ECTS
 The graduation phase is divided into the following milestones:
 
 #figure(
-  placement: auto,
+  placement: none,
   table(
     columns: 2,
     // stroke: 0.5pt,
@@ -43,7 +43,7 @@ Please be aware that there are deadlines for the registration for each assessmen
 For the academic year 2026-2027, this implies the following weeks and deadlines, as registered in the BK academic graduation calendar:
 
 #figure(image("figs/calendar.png"))
-#todo[Replace with the final 2026-2027 BK academic graduation calendar once available (currently a draft).]
+#todo[Replace with our calendar once it's final.]
 
 == Retakes <retakes>
 All formal milestones are offered in every quarter.
@@ -69,6 +69,7 @@ Moreover, the names of the supervisors, co-reader and delegate, and the progress
 The marks for the graduation project (GEO2022) is decided at the Finalisation milestone, and is decided by the two supervisors, the co-reader, and the delegate.
 
 Based on the results gained for the courses in the Master's Programme and the final thesis, the student can be awarded a cum laude distinction. 
+#todo[Rules to be checked]
 A student will receive this if all of the following requirements are met:
 
 + The weighted average of the grades of the courses, not including the graduation project, must be at least 8.0 (exemptions ("VR" in OSIRIS) will not be taken into consideration; no more than 20 ECTS may be completed with an exemption);
