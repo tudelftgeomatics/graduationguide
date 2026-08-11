@@ -66,7 +66,7 @@ Moreover, the names of the supervisors, co-reader and delegate, and the progress
 
 
 == Final marks and cum laude <final-marks>
-The marks for the graduation project (GEO2022) is decided at the Finalisation milestone, and is decided by the two supervisors, the co-reader, and the delegate.
+The marks for the graduation project (GEO2022) is decided at the Finalisation milestone, and is decided by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
 
 Based on the results gained for the courses in the Master's Programme and the final thesis, the student can be awarded a cum laude distinction. 
 #todo[Rules to be checked]
