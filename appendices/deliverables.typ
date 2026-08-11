@@ -117,9 +117,9 @@ The goal of this presentation is to demonstrate that the thesis work is complete
 == Finalisation presentation
 <finalisation-presentation>
 
-The Finalisation presentation is a formal assessment where the student presents the complete findings of their MSc thesis to the thesis committee and the public. 
+The Finalisation presentation is a formal assessment where the student presents the complete findings of their MSc thesis to the thesis committee and fellow Geomatics students. 
 The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 
-The content must be an adapted version of the Green-light presentation, translated to be understandable for non-specialists. The presentation lasts 20 minutes and is followed by a 20-minute question session.
+The presentation can be based on the Green-light presentation, but adapted to an audience of fellow Geomatics students who are technically proficient but have not read the thesis. The presentation lasts 20 minutes and is followed by a 20-minute question session.
 
-The goal is to demonstrate the ability to communicate complex research effectively to a general public. After the Green-light, the student is expected to revise the thesis based on the feedback received and upload the final version to the repository before the Finalisation. The quality of this lay presentation contributes to the final grade, which is decided at the Finalisation.
+The goal is to demonstrate the ability to communicate complex research effectively to a technical audience of fellow Geomatics students. After the Green-light, the student is expected to revise the thesis based on the feedback received and upload the final version to the repository before the Finalisation. The quality of this technical presentation contributes to the final grade, which is decided at the Finalisation.

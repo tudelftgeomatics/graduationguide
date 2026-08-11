@@ -14,7 +14,7 @@ The specific contents of this phase of the graduation will vary depending on the
 The main deliverable of the graduation project is a written graduation report (see @app:deliverables), which documents the research that was conducted. It includes a reflection that is integrated into the report, mostly in the introduction and conclusions. 
 The contents of the report will differ depending on the nature of the research, but they should be detailed enough to allow for reproducibility of the work presented in it. Similarly, in the interest of reproducibility, if the research involved the creation of source code or data, students are highly encouraged to publish these in a persistent public repository which is linked in the report.
 
-In addition to the graduation report, there are two other presentations as deliverables: (1) a technical presentation, which is given, discussed and assessed at the Green-light meeting, and (2) a presentation for a lay audience, which is given, discussed and assessed at the Finalisation meeting.
+In addition to the graduation report, there are two other presentations as deliverables: (1) a technical presentation, which is given, discussed and assessed at the Green-light meeting, and (2) a technical presentation for fellow Geomatics students, which is given, discussed and assessed at the Finalisation meeting.
 
 The graduation report and all presentations must be in English.
 
