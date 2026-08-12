@@ -38,3 +38,5 @@ The final submission folder will only allow one submission for each student and 
 It is the responsibility of the responsible supervisor to determine whether the results of the plagiarism scan in the final folder are an indication of actual plagiarism. 
 In all cases, suspicion of plagiarism or not, the responsible supervisor should share the findings with the student and the second supervisor at the Green-light. 
 If there is a suspicion of intentional plagiarism, the responsible supervisor should discuss this with the student and notify the Board of Examiners afterwards.
+
+In addition to the plagiarism scan, the programme performs a check for hallucinated references on all graduation reports. The student does not need to take any extra action: the check runs on the deliverables that are already submitted to MyCase. It is then the responsibility of the responsible supervisor to review the findings and discuss them with the student if needed, following the same procedure as for the plagiarism scan.
