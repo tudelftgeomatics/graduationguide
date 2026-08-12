@@ -22,7 +22,7 @@
 #table(
     columns: 2,
     align: (left,left),
-    [Admission requirements], [The student must have obtained 45 ECTS from 9 out of the 10 mandatory courses of the first year of the programme, and have obtained 15 out of the 25 ECTS from the electives.],
+    [Admission requirements], [The student must have obtained 45 ECTS from 9 out of the 10 mandatory courses of the first year of the programme, and have obtained 15 out of the 25 ECTS from the electives by the time of registration.],
     table.hline(),
     [Period], [In fixed weeks, once per quarter],
     //--

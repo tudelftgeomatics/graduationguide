@@ -13,7 +13,7 @@ It normally takes place during the last three quarters of the second Master's ye
 
 
 == Admission and milestones <admission-and-milestones>
-To enter the graduation phase (Kick-off), the student must have obtained 45 ECTS from 9 out of the 10 mandatory courses, and have obtained 15 out of the 25 ECTS from the electives.
+To register for the Kick-off, the student must have obtained 45 ECTS from 9 out of the 10 mandatory courses, and have obtained 15 out of the 25 ECTS from the electives by the time of registration.
 
 The graduation phase is divided into the following milestones:
 
