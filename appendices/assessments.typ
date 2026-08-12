@@ -43,7 +43,7 @@
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
       - 15 min: presentation by student,
-      - 15 min: questions by supervisors,
+      - 15 min: questions by second supervisor and responsible supervisor (in that order),
       - 15 min: deliberation and feedback
     ],
     [Assessors], [First and second supervisors],
@@ -128,7 +128,7 @@
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
     - 20 min: presentation by student
-    - 20 min: questions by supervisors
+    - 20 min: questions by second supervisor and responsible supervisor (in that order)
     - 15 min: deliberation and feedback
     ],
     [Assessors], [First and second supervisors], 
