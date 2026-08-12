@@ -33,7 +33,8 @@
     [Deliverables], [Project proposal],
     [Assessment method], [Rubric],
     [Actions student], [
-      - Upload graduation plan to MyCase (1-week before)
+      - Upload graduation plan to MyCase (1 week before; unless the
+        responsible supervisor agrees otherwise)
       - Prepare presentation
     ],
     [Actions supervisors], [Read Graduation Plan before the start of Kick-off],
@@ -115,7 +116,8 @@
     [Deliverables], [A complete draft thesis and a presentation],
     [Assessment method], [Rubric],
     [Actions student], [
-      - Upload draft thesis to MyCase (1-week before),
+      - Upload draft thesis to MyCase (1 week before; unless the
+        responsible supervisor agrees otherwise),
       - Perform the plagiarism scan in Brightspace
       - Prepare presentation 
     ],
@@ -163,7 +165,8 @@
     [Assessment method], [Rubric],
     [Actions student], [
       - Revise the thesis based on the feedback received at the Green-light
-      - Upload final thesis to MyCase (1 week before the presentation)
+      - Upload final thesis to MyCase (1 week before the presentation;
+        unless the responsible supervisor agrees otherwise)
       - Perform the plagiarism scan in Brightspace
       - Upload final thesis to the TU Delft repository (1 day before the presentation)
       - Prepare presentation

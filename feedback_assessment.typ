@@ -1,9 +1,12 @@
+
+#import "./template/bubble.typ": *
+
 = Feedback and assessment <chap:feedback>
 
 Throughout the graduation phase, the student should receive regular feedback from the supervisory team. 
 More extensive feedback is provided during the Kick-off, Midterm and Green-light assessments.
 
-One week before the Kick-off, Green-light, and Finalisation milestones, the student submits their main deliverables (graduation plan for Kick-off and MSc thesis report for Green-light and Finalisation), which are then presented at the assessment sessions.
+The student submits their main deliverables — the graduation plan for the Kick-off and the MSc thesis report for the Green-light and Finalisation — one week before the corresponding assessment session, where they are then presented and discussed. The one-week deadline is the default: the responsible supervisor may agree with the student on a later submission deadline, as long as the supervisory team still has sufficient time to read the deliverables before the assessment.
 At the Kick-off and Finalisation, the independent delegate chairs the session. 
 Following the presentation, the student responds to the supervisory team's questions. 
 Then, the supervisory team retreats for deliberation, after which the results are announced and feedback is provided.
