@@ -21,6 +21,13 @@ In addition to the graduation report, there are two other presentations as deliv
 
 The graduation report and all presentations must be in English.
 
+== Use of AI and LLMs in the graduation project
+<use-of-ai-llm>
+
+The use of AI tools and large language models (LLMs) is generally allowed in the graduation project as a learning and research aid, for example for brainstorming, explaining concepts, checking grammar and style, reviewing the literature, or supporting data analysis and programming. However, AI should not replace learning or critical thinking: AI-generated output can be plausible-sounding but incorrect, biased or fabricated, so you should always critically evaluate it. You remain personally and fully responsible for all the work you submit, including anything produced with the help of AI, and you must be able to explain, defend and reproduce the substance of your work — and, for the thesis in particular, to independently defend all scientific content and contributions.
+
+If AI has been used in any part of the project, the graduation plan and/or the graduation report must include an AI disclosure statement describing what tools were used, how they were used, and to what extent, along with a short reflection. The detailed requirements are set out in the #link("https://geomatics.bk.tudelft.nl/ai/")[Geomatics Policy for the use of AI/LLM], and the MSc Geomatics thesis template provides an appendix to help you write the statement. Failure to disclose the use of AI is itself treated as a violation of the policy and may be regarded as fraud.
+
 == Graduation plan (Kick-off) structure
 <graduation-plan-a1-structure>
 
@@ -52,8 +59,9 @@ Supervisors expect a document of 10--15 pages.
 
 A LaTeX template is available in @app:deliverables.
 
+If AI tools or large language models (LLMs) have been used for any part of the work behind the plan, the plan must include an AI disclosure statement, as described in @use-of-ai-llm.
 
-== Graduation report (Green-light) structure
+== Graduation report (Green-light and Finalisation) structure
 <graduation-report-structure>
 
 The exact structure of the thesis, or graduation report, will depend on the type of work that is involved. 
@@ -76,3 +84,5 @@ However, most good Geomatics theses contain something similar to the following e
  In particular, the implications should be present in the introduction and conclusions, and the reflection should be present in the conclusions.
 
 A LaTeX template is available in @app:deliverables.
+
+If AI tools or large language models (LLMs) have been used at any point in the project, the report must include a detailed AI disclosure statement, as described in @use-of-ai-llm.
