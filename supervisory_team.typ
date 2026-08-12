@@ -12,10 +12,12 @@ The student's supervisory team is composed of:
 The responsible supervisor (also called first or main supervisor) is an expert in the graduation project field and must be a staff member of the MSc Geomatics for the Built Environment and must have the UTQ (University Teaching Qualification) diploma.
 
 Students choose this supervisor during the Registration milestone, either by directly contacting them to agree on a custom topic or by selecting a predefined topic linked to the supervisor.
+The responsible supervisor is also responsible for inviting the student, the second supervisor, and the co-reader to the assessment sessions (see @app:assessments).
 
 == Second supervisor <second-supervisor>
 The second supervisor is a scientific staff member from TU Delft whose expertise complements that of the responsible supervisor.
 They may be predefined based on the selected topic or chosen by the responsible supervisor with input from the student.
+If the responsible supervisor does not hold a PhD degree, the second supervisor must have one.
 Ideally, the second supervisor is determined at the Registration phase and must be confirmed before the Kick-off.
 
 == Co-reader <co-reader>
