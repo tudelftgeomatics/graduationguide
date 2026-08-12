@@ -9,7 +9,7 @@ The student's supervisory team is composed of:
 
 
 == Responsible supervisor <responsible-supervisor>
-The responsible supervisor (also called first or main supervisor) is an expert in the graduation project field and must be a staff member of the MSc Geomatics for the Built Environment and must have the UTQ diploma (University Teaching Qualification).
+The responsible supervisor (also called first or main supervisor) is an expert in the graduation project field and must be a staff member of the MSc Geomatics for the Built Environment and must have the UTQ (University Teaching Qualification) diploma.
 
 Students choose this supervisor during the Registration milestone, either by directly contacting them to agree on a custom topic or by selecting a predefined topic linked to the supervisor.
 
@@ -20,8 +20,8 @@ Ideally, the second supervisor is determined at the Registration phase and must 
 
 == Co-reader <co-reader>
 The co-reader is a scientific staff member of TU Delft or another university who is an expert in the field of the graduation project.
-Their role is to assess the quality of the student's work in an unbiased way and to help marking at the Finalisation.
-Because they are only involved at the end of the graduation, the co-reader does not assess the process: they assess the research and communication criteria of the rubric (see @app:rubrics), while the process criterion is assessed by the supervisors.
+Their role is to independently assess the quality of the student's work in an unbiased way and to help marking at the Finalisation.
+Because they are only involved at the end of the graduation, the co-reader does not assess the process: they contribute to assessing the research and communication criteria of the rubric (see @app:rubrics), while the process criterion is only assessed by the supervisors.
 If both supervisors are from the same group, the co-reader should preferably not be part of the same group. 
 The co-reader is chosen by the supervisors in collaboration with the student.
 The co-reader is preferably defined at the Registration and must be defined before the Finalisation.

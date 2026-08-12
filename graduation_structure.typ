@@ -30,10 +30,10 @@ The graduation phase is divided into the following milestones:
     // table.cell([*Details*], fill: green.lighten(80%)),  
     table.hline(),
     [Registration], [Selection of the responsible supervisor and of a thesis topic, either by picking from a topic from #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list] or by agreeing on a custom topic.],
-    [Kick-off], ['Go/no-go' assessment of the graduation plan; 15-min presentation and discussion.],
+    [Kick-off], ['Go/no-go' assessment of the graduation plan; 15-min presentation, 15-min questions and discussion.],
     [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
-    [Green-light], [Formal final assessment of the complete draft MSc thesis; presentation, questions, and discussion.],
-    [Finalisation], [Final presentation (20min) + questions from committee + diploma.],
+    [Green-light], [Assessment of the complete draft MSc thesis; 20-min presentation, 20-min questions and discussion.],
+    [Finalisation], [Assessment of the final MSc thesis; 20-min presentation, 20-min questions and discussion, diploma signing.],
   )
 )
 
@@ -46,18 +46,18 @@ For the academic year 2026-2027, this implies the following weeks and deadlines,
 #todo[Replace with our calendar once it's final.]
 
 == Retakes <retakes>
-All formal milestones are offered in every quarter.
+All assessments are offered in every quarter.
 
-At the Kick-off, the supervisors with the delegate determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the Midterm milestone. 
+At the Kick-off, the supervisors determine whether the student's plan and presentation meet the requirements, resulting in a 'go' to the Midterm milestone. 
 If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 
 The same applies to the Green-light, where the supervisors give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no-go' results in a retake of the Green-light in the next quarter.
 
 == Registration <registration>
 For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
-It is the responsibility of the responsible supervisor to schedule the student's Kick-off, Green-light and Finalisation applications before the deadlines in the Geomatics graduation calendar. 
+It is the responsibility of the responsible supervisor to schedule the student's Kick-off, Green-light and Finalisation assessments before the deadlines in the Geomatics graduation calendar. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
-If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to Education and Student Affairs (E&SA) (#link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]).
+If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to the coordinator of the Geomatics Graduation Studio.
 
 For registering the graduation process, the faculty uses the #emph[MyCase] registration tool (see @app:mycase). 
 It is the student's task to start their own 'graduation case'. 
@@ -66,7 +66,7 @@ Moreover, the names of the supervisors, co-reader and delegate, and the progress
 
 
 == Final marks and cum laude <final-marks>
-The marks for the graduation project (GEO2022) is decided at the Finalisation milestone, and is decided by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
+The marks for the graduation project (GEO2022) are decided at the Finalisation milestone, and are decided by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
 
 Based on the results gained for the courses in the Master's Programme and the final thesis, the student can be awarded a cum laude distinction. 
 #todo[Rules to be checked]

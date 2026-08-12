@@ -9,12 +9,15 @@ The project starts with a preliminary phase where the student lays down the foun
 This culminates into the creation of a graduation plan (see @app:deliverables), which is presented, discussed and assessed at the Kick-off meeting.
 
 Upon approval of the graduation plan, the student conducts their research according to the methodology and time planning in it. 
-The specific contents of this phase of the graduation will vary depending on the chosen methodology, but might include among others: an extended survey of scientific literature and other sources, data collection and analysis, developing new methods, tools or datasets, and software development and testing.
+The specific contents of this phase of the graduation will vary depending on the chosen methodology, but might include among others: an extended survey of scientific literature and other relevant sources, data collection and analysis, developing new methods, tools or datasets, and software development and testing.
 
 The main deliverable of the graduation project is a written graduation report (see @app:deliverables), which documents the research that was conducted. It includes a reflection that is integrated into the report, mostly in the introduction and conclusions. 
-The contents of the report will differ depending on the nature of the research, but they should be detailed enough to allow for reproducibility of the work presented in it. Similarly, in the interest of reproducibility, if the research involved the creation of source code or data, students are highly encouraged to publish these in a persistent public repository which is linked in the report.
+The contents of the report will differ depending on the nature of the research, but they should be detailed enough to allow others to fully reproduce the work presented in it. 
 
-In addition to the graduation report, there are two other presentations as deliverables: (1) a technical presentation, which is given, discussed and assessed at the Green-light meeting, and (2) a technical presentation for fellow Geomatics students, which is given, discussed and assessed at the Finalisation meeting.
+Similarly, in order to achieve this reproducibility, if the research involved the creation of source code or data, students are expected to publish these in a persistent public repository which is linked in the report.
+If the nature of the project does not allow for the full publication of the source code or data, the reasons for this should be documented in the report, and students students are highly encouraged to publish code excerpts or synthetic data.
+
+In addition to the graduation report, there are two other presentations as deliverables: (1) a technical presentation for the student's supervisors, which is given, discussed and assessed at the Green-light meeting, and (2) a technical presentation for an audience of fellow Geomatics students, which is given, discussed and assessed at the Finalisation meeting.
 
 The graduation report and all presentations must be in English.
 
