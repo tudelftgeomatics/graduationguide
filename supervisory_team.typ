@@ -18,6 +18,7 @@ The responsible supervisor is also responsible for inviting the student, the sec
 The second supervisor is a scientific staff member from TU Delft whose expertise complements that of the responsible supervisor.
 They may be predefined based on the selected topic or chosen by the responsible supervisor with input from the student.
 If the responsible supervisor does not hold a PhD degree, the second supervisor must have one.
+#todo[I think UTQ supersedes PhDs, so the second supervisor may not need to hold a PhD]
 Ideally, the second supervisor is determined at the Registration phase and must be confirmed before the Kick-off.
 
 == Co-reader <co-reader>
@@ -30,6 +31,7 @@ The co-reader is preferably defined at the Registration and must be defined befo
 
 == Delegate of the Board of Examiners <delegate-of-the-board-of-examiners>
 Since the Board of Examiners is responsible for ensuring the quality of all examinations, a delegate is appointed by the Board of Examiners of the Faculty before the Kick-off: a staff of the MSc Geomatics for the Built Environment programme who is familiar with the graduation process and who is not from the same section as the two supervisors. 
+#todo[not the same *department*, no?]
 #todo[Do we need to change this now? Can we put different delegates per assessment?]
-The delegate functions independently from the supervisors and student, and chairs the Kick-off and Finalisation milestone meetings.
+The delegate functions independently from the supervisors and student, and chairs the Kick-off and Finalisation meetings.
 In that capacity, the delegate is there to protect the student against process errors and possibly unfair treatment by the supervisors, while on the other hand ensuring that the student is assessed according to the appropriate criteria by the supervisors (@chap:feedback).

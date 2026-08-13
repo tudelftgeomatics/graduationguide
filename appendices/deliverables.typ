@@ -1,9 +1,12 @@
+#import "../template/bubble.typ": *
 
 
 = Deliverables <app:deliverables>
 
 == Kick-off (project proposal) template
 <project-proposal-template>
+
+#todo[I reckon we should wipe these from here and put URLs to the templates. Simpler.]
 
 ```latex
 \documentclass[a4paper,11pt]{scrartcl}

@@ -2,10 +2,11 @@
 
 == Quorum at formal assessments
 <quorum-at-formal-assessments>
+
 A quorum is required for each assessment to be valid.
 
-- For Kick-off: responsible supervisor, second supervisor, and delegate of the Board of Examiners.
-- For Green-light: responsible supervisor and second supervisor.
+- For Kick-off: responsible supervisor and second supervisor.
+- For Green-light: responsible supervisor and second supervisor, and delegate of the Board of Examiners.
 - For Finalisation: responsible supervisor, second supervisor, co-reader, and delegate of the Board of Examiners.
 
 In case of absence, action will be taken as follows:

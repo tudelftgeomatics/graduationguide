@@ -20,20 +20,20 @@ The graduation phase is divided into the following milestones:
 #figure(
   placement: none,
   table(
-    columns: 2,
+    columns: 3,
     // stroke: 0.5pt,
     align: (left, left),
     fill: (_, y) => if y == 0 { green.lighten(80%) },
-    table.header([*Milestone*], [*Details*]),
+    table.header([],[*Milestone*], [*Details*]),
     // table.cell([*Assessment*], fill: green.lighten(80%)),
     // table.cell([*Name*], fill: green.lighten(80%)),
     // table.cell([*Details*], fill: green.lighten(80%)),  
     table.hline(),
-    [Registration], [Selection of the responsible supervisor and of a thesis topic, either by picking from a topic from #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list] or by agreeing on a custom topic.],
-    [Kick-off], ['Go/no-go' assessment of the graduation plan; 15-min presentation, 15-min questions and discussion.],
-    [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
-    [Green-light], [Assessment of the complete draft MSc thesis; 20-min presentation, 20-min questions and discussion.],
-    [Finalisation], [Assessment of the final MSc thesis; 20-min presentation, 20-min questions and discussion, diploma signing.],
+    [0], [Registration], [Selection of the responsible supervisor and of a thesis topic, either by picking from a topic from #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list] or by agreeing on a custom topic.],
+    [1], [Kick-off], ['Go/no-go' assessment of the graduation plan; 15-min presentation, 15-min questions and discussion.],
+    [2], [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
+    [3], [Green-light], [Assessment of the complete draft MSc thesis; 20-min presentation, 20-min questions and discussion.],
+    [4], [Finalisation], [Assessment of the final MSc thesis; 20-min presentation, 20-min questions and discussion, diploma signing.],
   )
 )
 
@@ -55,7 +55,7 @@ The same applies to the Green-light, where the supervisors give a 'go' to procee
 
 == Registration <registration>
 For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
-It is the responsibility of the responsible supervisor to schedule the student's Kick-off, Green-light and Finalisation assessments before the deadlines in the Geomatics graduation calendar. 
+It is the responsibility of the responsible supervisor to schedule the student's Kick-off, Green-light, and Finalisation assessments before the deadlines in the Geomatics graduation calendar. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
 If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to the coordinator of the Geomatics Graduation Studio.
 
