@@ -8,7 +8,7 @@ The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesi
 
 It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started at the beginning of any quarter.
 
-#figure(image("figs/gm_structure.svg"))
+#figure(image("figs/gm_structure.pdf"))
 
 
 
