@@ -53,7 +53,7 @@ The graduation plan is a project proposal that must contain the following elemen
 + Since specific #strong[data and tools] have to be used, it's good to
   present these concretely, so that the supervisors know that you have a
   grasp of all aspects of the project;
-+ The #strong[references].
++ The #strong[references]. Every reference must include a clickable DOI or URL, so that sources can be accessed directly from the document.
 
 Supervisors expect a document of 10--15 pages.
 
@@ -79,6 +79,7 @@ However, most good Geomatics theses contain something similar to the following e
 + Methodology, possibly followed by implementation and/or data chapters;
 + Results, including a critical evaluation and discussion of them;
 + Conclusions and future work.
++ #strong[References], in which every entry includes a clickable DOI or URL so that sources can be accessed directly from the document.
 
  The implications and reflection of the work that was conducted should be integrated throughout the thesis. 
  In particular, the implications should be present in the introduction and conclusions, and the reflection should be present in the conclusions.
