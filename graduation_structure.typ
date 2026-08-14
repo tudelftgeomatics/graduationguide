@@ -69,7 +69,6 @@ Moreover, the names of the supervisors, co-reader and delegate, and the progress
 The marks for the graduation project (GEO2022) are decided at the Finalisation milestone, and are decided by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
 
 Based on the results gained for the courses in the Master's Programme and the final thesis, the student can be awarded a cum laude distinction. 
-#todo[Rules to be checked]
 A student will receive this if all of the following requirements are met:
 
 + The weighted average of the grades of the courses, not including the graduation project, must be at least 8.0 (exemptions ("VR" in OSIRIS) will not be taken into consideration; no more than 20 ECTS may be completed with an exemption);
