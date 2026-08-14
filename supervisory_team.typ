@@ -25,13 +25,12 @@ Ideally, the second supervisor is determined at the Registration phase and must 
 The co-reader is a scientific staff member of TU Delft or another university who is an expert in the field of the graduation project.
 Their role is to independently assess the quality of the student's work in an unbiased way and to help marking at the Finalisation.
 Because they are only involved at the end of the graduation, the co-reader does not assess the process: they contribute to assessing the research and communication criteria of the rubric (see @app:rubrics), while the process criterion is only assessed by the supervisors.
-If both supervisors are from the same group, the co-reader should preferably not be part of the same group. 
+If both supervisors are from the same department, the co-reader should preferably not be part of the same department. 
 The co-reader is chosen by the supervisors in collaboration with the student.
 The co-reader is preferably defined at the Registration and must be defined before the Finalisation.
 
 == Delegate of the Board of Examiners <delegate-of-the-board-of-examiners>
-Since the Board of Examiners is responsible for ensuring the quality of all examinations, a delegate is appointed by the Board of Examiners of the Faculty before the Green-light: a staff of the MSc Geomatics for the Built Environment programme who is familiar with the graduation process and who is not from the same section as the two supervisors. 
-#todo[not the same *department*, no?]
+Since the Board of Examiners is responsible for ensuring the quality of all examinations, a delegate is appointed by the Board of Examiners of the Faculty before the Green-light: a staff of the MSc Geomatics for the Built Environment programme who is familiar with the graduation process. If both supervisors are from the same department, the delegate must be from a different one. 
 #todo[Do we need to change this now? Can we put different delegates per assessment?]
 The delegate functions independently from the supervisors and student, and chairs the Green-light and Finalisation meetings.
 In that capacity, the delegate is there to protect the student against process errors and possibly unfair treatment by the supervisors, while on the other hand ensuring that the student is assessed according to the appropriate criteria by the supervisors (@chap:feedback).
