@@ -7,7 +7,7 @@ Throughout the graduation phase, the student should receive regular feedback fro
 More extensive feedback is provided during the Kick-off, Midterm and Green-light assessments.
 
 The student submits their main deliverables — the graduation plan for the Kick-off and the MSc thesis report for the Green-light and Finalisation — one week before the corresponding assessment session, where they are then presented and discussed. The one-week deadline is the default: the responsible supervisor may agree with the student on a later submission deadline, as long as the supervisory team still has sufficient time to read the deliverables before the assessment.
-At the Kick-off and Finalisation, the independent delegate chairs the session. 
+At the Green-light and Finalisation, the independent delegate chairs the session. 
 Following the presentation, the student responds to the supervisory team's questions. 
 Then, the supervisory team retreats for deliberation, after which the results are announced and feedback is provided.
 
@@ -27,7 +27,7 @@ At the Green light and Finalisation, the draft graduation report is assessed acc
 
 == Deliberation and feedback <deliberation-and-feedback>
 After the Kick-off, Green-light, and Finalisation sessions, the supervisory team will retreat for deliberation. 
-At the Kick-off and Finalisation, the independent delegate chairs the deliberation (see @chap:supervision and @app:assessments), without influencing the result.
+At the Green-light and Finalisation, the independent delegate chairs the deliberation (see @chap:supervision and @app:assessments), without influencing the result.
 
 During the deliberation, the supervisory team assesses the deliverables, including the presentation and the answers to the supervisory team's questions.
 At the Kick-off and Green-light, this assessment is formally expressed in a 'go' or a 'no-go', representing a passing or failing grade with respect to the corresponding rubric.

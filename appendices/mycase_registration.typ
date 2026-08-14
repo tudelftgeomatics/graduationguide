@@ -24,8 +24,7 @@ The table below serves as a chronological overview of all tasks and responsibili
     [*Kick-off*], [2.8--2.9], [Upload graduation plan, human
     participation, external party and confidentiality agreement, and
     submit 'Ready for Kick-off' task in MyCase], [Student],
-    [], [2.9--2.10], [Kick-off assessment], [Student, supervisors and
-    delegate],
+    [], [2.9--2.10], [Kick-off assessment], [Student and supervisors],
     [], [], [Submit result and feedback in MyCase, register dates of Green-light and Finalisation in SuperSaaS\*], [Responsible supervisor],
     [*Midterm*], [3.8--3.9], [Upload midterm materials, and
     submit 'Ready for Midterm' task in MyCase], [Student],
@@ -39,7 +38,8 @@ The table below serves as a chronological overview of all tasks and responsibili
     [], [], [Check graduation requirements], [Student programme
     administration],
     [], [4.4--4.5], [Check for plagiarism], [Responsible supervisor],
-    [], [], [Green-light assessment], [Student and supervisors],
+    [], [], [Green-light assessment], [Student, supervisors and
+    delegate],
     [], [], [Submit result and feedback in MyCase], [Responsible
     supervisor],
     [*Finalisation*], [4.9--4.10], [Upload finalisation presentation
