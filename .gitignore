@@ -1,3 +1,4 @@
 # Specify filepatterns you want git to ignore.
 
 main.pdf
+.DS_Store
