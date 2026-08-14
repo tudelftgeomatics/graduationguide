@@ -17,8 +17,6 @@ The responsible supervisor is also responsible for inviting the student, the sec
 == Second supervisor <second-supervisor>
 The second supervisor is a scientific staff member from TU Delft whose expertise complements that of the responsible supervisor.
 They may be predefined based on the selected topic or chosen by the responsible supervisor with input from the student.
-If the responsible supervisor does not hold a PhD degree, the second supervisor must have one.
-#todo[I think UTQ supersedes PhDs, so the second supervisor may not need to hold a PhD]
 Ideally, the second supervisor is determined at the Registration phase and must be confirmed before the Kick-off.
 
 == Co-reader <co-reader>
