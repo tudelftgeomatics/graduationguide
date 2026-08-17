@@ -4,8 +4,9 @@
 
 As explained in @chap:graduation-structure, _MyCase_ is used as a system to track the graduation progress of each student. 
 All information about the graduation (general information and planning, stakeholders, documentation and assessment) is collected in this system. 
-The table below serves as a chronological overview of all tasks and responsibilities for students who start their thesis in Q1.
 
+The table below serves as a chronological overview of all tasks and responsibilities for students who start their thesis in Q1 (which is the standard/default case).
+If a student starts their thesis in Q2, +1 should be added to the weeks mentioned in the table; as an example the submission of the topic should be done before week 2.3 and the MyCase registration should be done weeks 2.8--3.2.
 
   #table(
     columns: 4,
