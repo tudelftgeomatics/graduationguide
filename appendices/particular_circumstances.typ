@@ -35,8 +35,8 @@ The Secretary of the Board of Examiners decides which member of the committee wi
 This member of the Board of Examiners will reconvene the supervisory team and the delegate of the Board of Examiners for a redeliberation, chaired by the member of the Board of Examiners, in which an attempt is made to reach consensus. 
 If unexpectedly this does not succeed, the member of the Board of Examiners will make a final decision.
 
-== Plagiarism
-<plagiarism>
+== Plagiarism <plagiarism>
+
 The plagiarism scan on graduation documents is implemented for all graduating students, to guarantee the authenticity of the graduation work. 
 For this, the *Turnitin* tool in Brightspace is used. 
 The tool will make it easier for the student and supervisors to check the work of a student on originality and plagiarism. 
@@ -48,4 +48,8 @@ It is the responsibility of the responsible supervisor to determine whether the 
 In all cases, suspicion of plagiarism or not, the responsible supervisor should share the findings with the student and the second supervisor at the Green-light. 
 If there is a suspicion of intentional plagiarism, the responsible supervisor should discuss this with the student and notify the Board of Examiners afterwards.
 
-In addition to the plagiarism scan, the programme performs a check for hallucinated references on all graduation reports. The student does not need to take any extra action: the check runs on the deliverables that are already submitted to MyCase. It is then the responsibility of the responsible supervisor to review the findings and discuss them with the student if needed, following the same procedure as for the plagiarism scan.
+In addition to the plagiarism scan, the coordinator of the graduation performs a check for fake/hallucinated references on all graduation reports. 
+The student does not need to take any extra action: the check runs on the deliverables that are already submitted to MyCase. 
+It is then the responsibility of the responsible supervisor to review the findings and discuss them with the student if needed, following the same procedure as for the plagiarism scan.
+
+Remember that all use of LLMs/AI tools must be clearly documented in the student's thesis, see @<use-of-ai-llm>.
