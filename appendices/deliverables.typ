@@ -3,19 +3,25 @@
 
 = Deliverables <app:deliverables>
 
-== Kick-off (project proposal) template
-<project-proposal-template>
+== Kick-off (project proposal) template <project-proposal-template>
 
-The graduation plan template (Kick-off) is available at
-#link("https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657").
+The graduation plan template (Kick-off) is available in two formats:
 
-== Graduation report
+/ Typst: #link("https://typst.app/project/rxxc6SF4azqbGIOgdoRANf").
+/ LaTeX: #link("https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657").
 
-We offer two templates (one in LaTeX and one in Typst), those are available on the website of GEO2022:
-#link("https://geomatics.bk.tudelft.nl/geo2022/templates/#thesis-template")
+== Final thesis template (Green-light + finalisation)
 
-== Green-light presentation
-<green-light-presentation>
+The template that we recommend is available in two formats:
+
+/ Typst: #link("https://github.com/tudelft3d/msc_geomatics_thesis_typst").
+/ LaTeX: #link("https://github.com/tudelft3d/msc_geomatics_thesis_template").
+
+Observe that those are not an official templates and it is not mandatory to use one of them. 
+You are allowed to use Word or InDesign or others.
+
+
+== Green-light presentation <green-light-presentation>
 
 The Green-light presentation is a technical 20-minute presentation of the main findings of the draft MSc thesis, it contains a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 The student can assume that the audience has read the draft MSc thesis and is familiar with the research questions and methodology.
