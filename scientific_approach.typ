@@ -57,7 +57,7 @@ The graduation plan is a project proposal that must contain the following elemen
 
 Supervisors expect a document of 10--15 pages.
 
-A LaTeX template is available in @app:deliverables.
+A template is available in @app:deliverables.
 
 If AI tools or large language models (LLMs) have been used for any part of the work behind the plan, the plan must include an AI disclosure statement, as described in @use-of-ai-llm.
 
@@ -79,11 +79,11 @@ However, most good Geomatics theses contain something similar to the following e
 + Methodology, possibly followed by implementation and/or data chapters;
 + Results, including a critical evaluation and discussion of them;
 + Conclusions and future work.
-+ #strong[References], in which every entry includes a clickable DOI or URL so that sources can be accessed directly from the document.
++ References, in which every entry includes a clickable DOI or URL so that sources can be accessed directly from the document.
 
  The implications and reflection of the work that was conducted should be integrated throughout the thesis. 
  In particular, the implications should be present in the introduction and conclusions, and the reflection should be present in the conclusions.
 
-A LaTeX template is available in @app:deliverables.
+A template is available in @app:deliverables.
 
 If AI tools or large language models (LLMs) have been used at any point in the project, the report must include a detailed AI disclosure statement, as described in @use-of-ai-llm.
