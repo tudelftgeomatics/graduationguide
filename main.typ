@@ -53,7 +53,7 @@
 #pagebreak()
 
 //-- back-matter / appendices
-#set heading(numbering: "I.i.", supplement: [Appendix])
+#set heading(numbering: "A.1.", supplement: [Appendix])
 #counter(heading).update(0)
 
 #include "appendices/mycase_registration.typ"
