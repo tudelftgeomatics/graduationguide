@@ -46,7 +46,7 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     [*Finalisation*], [4.9--5.1], [Upload finalisation presentation
     and submit 'Ready for finalisation' task in MyCase, upload
     graduation report and finalisation presentation in repository], [Student],
-    [], [], [Upload final grade], [First supervisor],
+    [], [], [Upload final grade], [Responsible supervisor],
   )
   
 
