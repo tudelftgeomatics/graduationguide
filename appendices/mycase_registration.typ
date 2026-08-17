@@ -42,7 +42,7 @@ The table below serves as a chronological overview of all tasks and responsibili
     delegate],
     [], [], [Submit result and feedback in MyCase], [Responsible
     supervisor],
-    [*Finalisation*], [4.9--4.10], [Upload finalisation presentation
+    [*Finalisation*], [4.9--5.1], [Upload finalisation presentation
     and submit 'Ready for finalisation' task in MyCase, upload
     graduation report and finalisation presentation in repository], [Student],
     [], [], [Upload final grade], [First supervisor],
