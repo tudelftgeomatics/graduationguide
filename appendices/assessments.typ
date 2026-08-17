@@ -102,20 +102,17 @@
 #table(
     columns: (50%, 50%),
     align: (auto,auto,),
-    [Admission requirements], [The student must have
-      completed all Master's courses with exception of GEO2022,and must have successfully completed the Midterm milestone.],
+    [Admission requirements], [The student must have completed all Master's courses with exception of GEO2022, and must have successfully completed the Midterm milestone.],
     [Period], [In fixed weeks, once per quarter.],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Day and timeslot reservation made by first supervisor
-    after the Midterm],
+    [Planning], [Day and timeslot reservation made by responsible supervisor after the Midterm #todo[is there a deadline?]],
     [Location], [Room booked by scheduling department],
     [Deliverables], [A complete draft thesis and a presentation],
     [Assessment method], [Rubric],
     [Actions student], [
-      - Upload draft thesis to MyCase (1 week before; unless the
-        responsible supervisor agrees otherwise),
+      - Upload draft thesis to MyCase (1 week before; unless the responsible supervisor agrees otherwise),
       - Perform the plagiarism scan in Brightspace
       - Prepare presentation 
     ],
@@ -127,7 +124,7 @@
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
-    - 20 min: presentation by student
+    - 20 min: presentation by student#todo[is that necessary? not better to leave to staff to decide what is best?]
     - 20 min: questions by second supervisor and responsible supervisor (in that order)
     - 15 min: deliberation and feedback
     ],
@@ -157,9 +154,8 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Day and timeslot reservation made by first supervisor
-    after the Midterm],
-    [Location], [Room booked by scheduling department],
+    [Planning], [Day and timeslot reservation made by responsible supervisor after the Midterm#todo[or after Green-light?]],
+    [Location], [Room booked by scheduling department#todo[we need to know how!]],
     [Deliverables], [Presentation],
     [Assessment method], [Rubric],
     [Actions student], [

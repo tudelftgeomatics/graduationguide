@@ -6,14 +6,14 @@
 A quorum is required for each assessment to be valid, it is as follows:
 
 #table(
-  columns: 5,
+  columns: (3cm, 27mm, 27mm, 27mm, 27mm),
   align: (left, center, center, center, center),
   table.hline(),
-  table.header[][*Responsible \ supervisor*][*Second \ supervisor*][*Co-reader*][*Delegate of the \ Board of Examiners*],
+  table.header[][*Responsible \ supervisor*][*Second \ supervisor*][*Co-reader*][*Delegate \ BoE*],
   table.hline(),
   [*Kick-off*],     [✅], [✅], [],  [],
-  [*Midterm*],      [✅], [], [],  [],
-  [*Green-light*],  [✅], [✅], [possible \ but not mandatory], [✅],
+  [*Midterm*],      [✅], [✅], [],  [],
+  [*Green-light*],  [✅], [✅], [], [✅],
   [*Finalisation*], [✅], [✅], [✅], [✅],
 )
 

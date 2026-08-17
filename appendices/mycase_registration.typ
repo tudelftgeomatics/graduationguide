@@ -2,10 +2,11 @@
 
 = MyCase registration <app:mycase>
 
-As explained in @chap:graduation-structure, _MyCase_ is used as a system to track the graduation progress of each student. 
+As explained in @chap:graduation-structure, _MyCase_ is used as the system to track the graduation progress of each student. 
 All information about the graduation (general information and planning, stakeholders, documentation and assessment) is collected in this system. 
 
 The table below serves as a chronological overview of all tasks and responsibilities for students who start their thesis in Q1 (which is the standard/default case).
+
 If a student starts their thesis in Q2, +1 should be added to the weeks mentioned in the table; as an example the submission of the topic should be done before week 2.3 and the MyCase registration should be done weeks 2.8--3.2.
 
   #table(
@@ -20,8 +21,7 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     [], [], [Register Kick-off date in SuperSaaS\*], [Responsible supervisor],
     [], [], [Check entry requirements], [Faculty administration],
     [], [2.5], [Approve supervision team], [GEO2022 coordinator],
-    [], [2.6], [Register delegate by BoE], [MyCase faculty
-    administration],
+    [], [2.6], [Register delegate by BoE#todo[so early?]], [MyCase faculty administration],
     [*Kick-off*], [2.8--2.9], [Upload graduation plan, human
     participation, external party and confidentiality agreement, and
     submit 'Ready for Kick-off' task in MyCase], [Student],
