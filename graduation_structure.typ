@@ -40,7 +40,7 @@ The graduation phase is divided into the following milestones:
 == Calendar <calendar>
 All assessments (except Midterm) should be held in the weeks indicated below. 
 Please be aware that there are deadlines for the registration for each assessment. 
-For the academic year 2026-2027, this implies the following weeks and deadlines, as registered in the BK academic graduation calendar:
+For the academic year 2026--2027, this implies the following weeks and deadlines, as registered in the BK academic graduation calendar:
 
 #figure(image("figs/calendar.svg"))
 #todo[Update calendar once it's final.]

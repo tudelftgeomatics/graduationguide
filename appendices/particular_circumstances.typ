@@ -52,4 +52,4 @@ In addition to the plagiarism scan, the coordinator of the graduation performs a
 The student does not need to take any extra action: the check runs on the deliverables that are already submitted to MyCase. 
 It is then the responsibility of the responsible supervisor to review the findings and discuss them with the student if needed, following the same procedure as for the plagiarism scan.
 
-Remember that all use of LLMs/AI tools must be clearly documented in the student's thesis, see @<use-of-ai-llm>.
+Remember that all use of LLMs/AI tools must be clearly documented in the student's thesis, see @use-of-ai-llm.

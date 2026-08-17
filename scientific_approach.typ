@@ -21,8 +21,7 @@ In addition to the graduation report, there are two other presentations as deliv
 
 The graduation report and all presentations must be in English.
 
-== Use of AI and LLMs in the graduation project
-<use-of-ai-llm>
+== Use of AI and LLMs in the graduation project <use-of-ai-llm>
 
 The use of AI tools and large language models (LLMs) is generally allowed in the graduation project as a learning and research aid, for example for brainstorming, explaining concepts, checking grammar and style, reviewing the literature, or supporting data analysis and programming. However, AI should not replace learning or critical thinking: AI-generated output can be plausible-sounding but incorrect, biased or fabricated, so you should always critically evaluate it. You remain personally and fully responsible for all the work you submit, including anything produced with the help of AI, and you must be able to explain, defend and reproduce the substance of your work — and, for the thesis in particular, to independently defend all scientific content and contributions.
 
