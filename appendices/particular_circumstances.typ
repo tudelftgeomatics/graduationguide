@@ -3,11 +3,19 @@
 == Quorum at formal assessments
 <quorum-at-formal-assessments>
 
-A quorum is required for each assessment to be valid.
+A quorum is required for each assessment to be valid, it is as follows:
 
-- For Kick-off: responsible supervisor and second supervisor.
-- For Green-light: responsible supervisor and second supervisor, and delegate of the Board of Examiners.
-- For Finalisation: responsible supervisor, second supervisor, co-reader, and delegate of the Board of Examiners.
+#table(
+  columns: 5,
+  align: (left, center, center, center, center),
+  table.hline(),
+  table.header[][*Responsible \ supervisor*][*Second \ supervisor*][*Co-reader*][*Delegate of the \ Board of Examiners*],
+  table.hline(),
+  [*Kick-off*],     [✅], [✅], [],  [],
+  [*Midterm*],      [✅], [], [],  [],
+  [*Green-light*],  [✅], [✅], [possible \ but not mandatory], [✅],
+  [*Finalisation*], [✅], [✅], [✅], [✅],
+)
 
 In case of absence, action will be taken as follows:
 
