@@ -3,7 +3,7 @@
 This checklist is relevant for all graduation projects at the Faculty of Architecture and the Built Environment. 
 The form is intended to highlight common aspects of graduation projects that require particular attention with regard to planning the research and data management. Relevant information and supplementary sources regarding each question are provided below each question.
 
-With this checklist, the faculty wants to avoid that students unexpectedly find themselves in complex and stressful situations, in which ethical or privacy matters and/or other laws and regulations become an issue. In projects involving humans, certain types of data processing increase the risks to the
+With this checklist, the faculty wants to prevent students from unexpectedly finding themselves in complex and stressful situations, in which ethical or privacy matters and/or other laws and regulations become an issue. In projects involving humans, certain types of data processing increase the risks to the
 human participants. Planning such projects requires additional evaluations and advice from university staff before ethical approval can be received and the project can begin. In the case of a graduation
 project, obtaining additional advice or permits may delay the project with an extra education period or semester. To avoid this, it is recommended that students set up a graduation project with a low level
 of risk. Therefore, all students have to check their risk, by completing this checklist before their Kick-off.

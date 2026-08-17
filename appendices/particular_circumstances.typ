@@ -20,7 +20,7 @@ A quorum is required for each assessment to be valid, it is as follows:
 In case of absence, action will be taken as follows:
 
 / Absence of the delegate of the Board of Examiners: The Board of Examiners appoints the delegate of the Board of Examiners and the substitute delegate of the Board of Examiners for all students. If the delegate of the Board of Examiners cannot attend an assessment, the substitute will be asked and the Secretary of the Board of Examiners will be informed on this replacement. The substitute delegate of the Board of Examiners is registered in My Case.
-/ Absence of one of the supervisors and/or the co-reader: If it is known in advance that a supervisor or the co-reader will be unable to attend, a presentation must be held for that assessor prior to the evaluation. The assessment of that assessor must be written down with comments and feedback. This assessment must be given to the delegate of the Board of Examiners in signed letter within a closed envelope or sent by e-mail. At the deliberation, this assessment will be taken into account by the other relevant members of the supervisory team for determining the final assessment.
+/ Absence of one of the supervisors and/or the co-reader: If it is known in advance that a supervisor or the co-reader will be unable to attend, a presentation must be held for that assessor prior to the evaluation. The assessment of that assessor must be written down with comments and feedback. This assessment must be given to the delegate of the Board of Examiners in a signed letter within a closed envelope or sent by e-mail. At the deliberation, this assessment will be taken into account by the other relevant members of the supervisory team for determining the final assessment.
 
   In case of an unexpected absence, the other supervisory team members will search for a replacement. The Secretary of the Board of Examiners is also informed by the responsible supervisor or the delegate of the Board of Examiners about this absence. The assessment should preferably be continued, but the final assessment should be determined after hearing the absent supervisor.
 
@@ -48,7 +48,7 @@ It is the responsibility of the responsible supervisor to determine whether the 
 In all cases, suspicion of plagiarism or not, the responsible supervisor should share the findings with the student and the second supervisor at the Green-light. 
 If there is a suspicion of intentional plagiarism, the responsible supervisor should discuss this with the student and notify the Board of Examiners afterwards.
 
-In addition to the plagiarism scan, the coordinator of the graduation performs a check for fake/hallucinated references on all graduation reports. 
+In addition to the plagiarism scan, the coordinator of the Geomatics Graduation Studio performs a check for fake/hallucinated references on all graduation reports. 
 The student does not need to take any extra action: the check runs on the deliverables that are already submitted to MyCase. 
 It is then the responsibility of the responsible supervisor to review the findings and discuss them with the student if needed, following the same procedure as for the plagiarism scan.
 

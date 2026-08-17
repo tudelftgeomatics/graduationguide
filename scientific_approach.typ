@@ -43,7 +43,7 @@ The graduation plan is a project proposal that must contain the following elemen
 + A #strong[related work] section in which the relevant literature is
   presented and linked to the project;
 + #strong[Research questions] that are clearly defined, along with the
-  scope (ie what the student will and will not be doing);
+  scope (i.e. what the student will and will not be doing);
 + Overview of the proposed #strong[methodology] to be used;
 + Overview of #strong[preliminary results] (if application, discuss with
   your supervisors);

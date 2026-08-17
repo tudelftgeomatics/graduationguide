@@ -46,7 +46,7 @@
       - 15 min: questions by second supervisor and responsible supervisor (in that order),
       - 15 min: deliberation and feedback
     ],
-    [Assessors], [First and second supervisors],
+    [Assessors], [Responsible and second supervisors],
     [Quorum], [Both supervisors],
     [Actions responsible supervisor], [Fill in the feedback form, upload it in MyCase and give feedback],
     //--
@@ -58,7 +58,7 @@
       - _Withdrawal_: same as for no-go. 
     ],
     [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the responsible supervisor], 
-    // [Planning Green-light and Finalisation], [In case of a positive result, the responsible supervisor agrees the Green-light and Finalisation date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].]
+    // [Planning Green-light and Finalisation], [In case of a positive result, the responsible supervisor agrees the Green-light and Finalisation date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].]
   )
 
 == Midterm <assessment-midterm>
@@ -71,7 +71,7 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Done by main supervisor],
+    [Planning], [Done by responsible supervisor],
     [Location], [Room booked by the responsible supervisor],
     [Deliverables], [A document must be uploaded before the meeting to
     MyCase. The form/content of this document is decided by the
@@ -102,7 +102,7 @@
 #table(
     columns: (50%, 50%),
     align: (auto,auto,),
-    [Admission requirements], [The student must have completed all Master's courses with exception of GEO2022, and must have successfully completed the Midterm milestone.],
+    [Admission requirements], [The student must have completed all Master's courses with the exception of GEO2022, and must have successfully completed the Midterm milestone.],
     [Period], [In fixed weeks, once per quarter.],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
@@ -117,7 +117,7 @@
       - Prepare presentation 
     ],
     [Actions supervisors], [
-      - Read the draft MSc thesis ,
+      - Read the draft MSc thesis,
       - Check if and how student implemented advice/feedback from the Midterm.
     ],
     //--
@@ -128,7 +128,7 @@
     - 20 min: questions by second supervisor and responsible supervisor (in that order)
     - 15 min: deliberation and feedback
     ],
-    [Assessors], [First and second supervisors], 
+    [Assessors], [Responsible and second supervisors], 
     [Quorum],  [Both supervisors and delegate], 
     [Actions student], [Give presentation and answer questions], 
     [Actions supervisors], [Fill in the feedback form, upload it in MyCase and give feedback],
@@ -138,7 +138,7 @@
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Go_: the student proceeds towards the Finalisation
-      - _No-go_: the student agrees a new Green-light date for the next Green-light period with the supervisors; the responsible supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
+      - _No-go_: the student agrees a new Green-light date for the next Green-light period with the supervisors; the responsible supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
       - _Withdrawal_: same as for no-go.  
     ],
     [Assessment registration], [The feedback and assessment ('go' or 'no-go') is registered in MyCase by the responsible supervisor],
@@ -177,7 +177,7 @@
       - 10 min: private session with student where committee members explain the final grade
       - 10 min: laudation of the candidate and signing of the diploma
     ],
-    [Assessors], [Responsible supervisor and second supervisor],
+    [Assessors], [Responsible supervisor, second supervisor, and co-reader],
     [Quorum], [Both supervisors, co-reader, and delegate],      
     [Actions student], [
       - Give presentation and answer questions
