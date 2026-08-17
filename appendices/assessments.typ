@@ -30,7 +30,7 @@
     table.cell([], fill: green.lighten(80%)),
     [Planning], [Done by the responsible supervisor in SuperSaaS #todo[Do we use SuperSaaS?]. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
     [Location], [Room booked by responsible supervisor],
-    [Deliverables], [Project proposal],
+    [Deliverables], [Graduation plan],
     [Assessment method], [Rubric],
     [Actions student], [
       - Upload graduation plan to MyCase (1 week before; unless the
@@ -57,7 +57,7 @@
       - _No-go_: the student agrees a new Kick-off date for the next Kick-off period with the supervisors; the responsible supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]
       - _Withdrawal_: same as for no-go. 
     ],
-    [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the first supervisor], 
+    [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the responsible supervisor], 
     // [Planning Green-light and Finalisation], [In case of a positive result, the responsible supervisor agrees the Green-light and Finalisation date with the other supervisor, delegate and student, and registers both dates in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].]
   )
 
@@ -67,12 +67,12 @@
     columns: 2,
     align: (left,left),
     [Admission requirements], [The student successfully passed the Kick-off milestone],
-    [Period], [Anytime between Kick-off and Green-light, it is up to the student and the first supervisor to agree on a date],
+    [Period], [Anytime between Kick-off and Green-light, it is up to the student and the responsible supervisor to agree on a date],
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Planning], [Done by main supervisor],
-    [Location], [Room booked by the first supervisor],
+    [Location], [Room booked by the responsible supervisor],
     [Deliverables], [A document must be uploaded before the meeting to
     MyCase. The form/content of this document is decided by the
     supervisors.],
@@ -94,7 +94,7 @@
     [Assessment result], [(an advice is given to the student, based on
     their progress)],
     [Assessment registration], [The feedback/advice is registered in
-    MyCase by the first supervisor],
+    MyCase by the responsible supervisor],
   )
 
 == Green-light <assessment-green-light>
@@ -141,10 +141,10 @@
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Go_: the student proceeds towards the Finalisation
-      - _No-go_: the student agrees a new Green-light date for the next Green-light period with the supervisors; the first supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
+      - _No-go_: the student agrees a new Green-light date for the next Green-light period with the supervisors; the responsible supervisor makes a reservation in the SuperSaaS registration program. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
       - _Withdrawal_: same as for no-go.  
     ],
-    [Assessment registration], [The feedback and assessment ('go' or 'no-go') is registered in MyCase by the first supervisor],
+    [Assessment registration], [The feedback and assessment ('go' or 'no-go') is registered in MyCase by the responsible supervisor],
   )
 
 == Finalisation (graduation) <assessment-finalisation>
@@ -197,7 +197,7 @@
     //--
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Assessment registration], [The final grade is registered in MyCase by the first supervisor],
+    [Assessment registration], [The final grade is registered in MyCase by the responsible supervisor],
     [Actions student], [ 
       - Unsubscribe as TU Delft student via Studielink enrolment, so your enrolment will be terminated as from the 1st of the next month (if you do not terminate your enrolment in time you are required to pay tuition fees for another month; retroactive termination of your enrolment is not possible; under certain circumstances the tuition fee can be partly refunded, see the website Termination of Enrolment)
       - Fill in exit evaluation (you will receive an email).
