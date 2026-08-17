@@ -172,7 +172,7 @@
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
       - 20 min: presentation by student
-      - 20 min: questions by co-reader, second supervisor, and responsible supervisor (in that order)
+      - 25 min: questions by co-reader, second supervisor, and responsible supervisor (in that order)
       - 10 min: deliberation by thesis committee feedback 
       - 10 min: private session with student where committee members explain the final grade
       - 10 min: laudation of the candidate and signing of the diploma

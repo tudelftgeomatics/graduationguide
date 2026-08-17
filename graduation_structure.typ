@@ -33,7 +33,7 @@ The graduation phase is divided into the following milestones:
     [1], [Kick-off], ['Go/no-go' assessment of the graduation plan; 15-min presentation, 15-min questions and discussion.],
     [2], [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
     [3], [Green-light], [Assessment of the complete draft MSc thesis; 20-min presentation, 20-min questions and discussion.],
-    [4], [Finalisation], [Assessment of the final MSc thesis; 20-min presentation, 20-min questions and discussion, diploma signing.],
+    [4], [Finalisation], [Assessment of the final MSc thesis; 20-min presentation, 25-min questions and discussion, diploma signing.],
   )
 )
 
