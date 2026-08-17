@@ -3,7 +3,7 @@
 
 = Deliverables <app:deliverables>
 
-== Kick-off (project proposal) template <project-proposal-template>
+== Kick-off template (graduation plan) <project-proposal-template>
 
 The graduation plan template (Kick-off) is available in two formats:
 
