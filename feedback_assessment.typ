@@ -36,4 +36,4 @@ At end of the deliberation for the Kick-off and Green-light, the responsible sup
 At the Midterm, there might not be a deliberation, but the supervisors should still provide feedback to the student. 
 Afterwards, the responsible supervisor should register this result and feedback in MyCase.
 
-The marks for the graduation project (GEO2022) is decided at the Finalisation milestone, and is decided by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
+The marks for the graduation project (GEO2022) are decided at the Finalisation milestone by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).

@@ -28,7 +28,7 @@ The co-reader is chosen by the supervisors in collaboration with the student.
 The co-reader is preferably defined at the Registration and must be defined before the Finalisation.
 
 == Delegate of the Board of Examiners <delegate-of-the-board-of-examiners>
-Since the Board of Examiners is responsible for ensuring the quality of all examinations, a delegate is appointed by the Board of Examiners of the Faculty before the Green-light: a staff of the MSc Geomatics for the Built Environment programme who is familiar with the graduation process. If both supervisors are from the same department, the delegate must be from a different one. 
+Since the Board of Examiners is responsible for ensuring the quality of all examinations, a delegate is appointed by the Board of Examiners of the Faculty before the Green-light: a staff member of the MSc Geomatics for the Built Environment programme who is familiar with the graduation process. If both supervisors are from the same department, the delegate must be from a different one. 
 #todo[Do we need to change this now? Can we put different delegates per assessment?]
 The delegate functions independently from the supervisors and student, and chairs the Green-light and Finalisation meetings.
 In that capacity, the delegate is there to protect the student against process errors and possibly unfair treatment by the supervisors, while on the other hand ensuring that the student is assessed according to the appropriate criteria by the supervisors (@chap:feedback).

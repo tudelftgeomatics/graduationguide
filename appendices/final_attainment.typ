@@ -32,7 +32,7 @@ A graduate of the Master's programme in Geomatics:
       + applying a formal, theoretical and methodologically sound approach to store, process, manage, disseminate and visualise geo-data and geo-information
       + acting at the forefront of data analysis methodology and spatio-temporal database management systems technology
       + having appropriate knowledge of legal and organisational aspects of geo-information; and
-      + utilising a technology and application driven approach to geo-data acquisition and geo-    information extraction.],
+      + utilising a technology and application driven approach to geo-data acquisition and geo-information extraction.],
     [*GM2*], [
       Has the research competences to:
         + investigate and analyse spatio-temporal models and systems of complex real-world situations

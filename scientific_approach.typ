@@ -15,7 +15,7 @@ The main deliverable of the graduation project is a written graduation report (s
 The contents of the report will differ depending on the nature of the research, but they should be detailed enough to allow others to fully reproduce the work presented in it. 
 
 Similarly, in order to achieve this reproducibility, if the research involved the creation of source code or data, students are expected to publish these in a persistent public repository which is linked in the report.
-If the nature of the project does not allow for the full publication of the source code or data, the reasons for this should be documented in the report, and students students are highly encouraged to publish code excerpts or synthetic data.
+If the nature of the project does not allow for the full publication of the source code or data, the reasons for this should be documented in the report, and students are highly encouraged to publish code excerpts or synthetic data.
 
 In addition to the graduation report, there are two other presentations as deliverables: (1) a technical presentation for the student's supervisors, which is given, discussed and assessed at the Green-light meeting, and (2) a technical presentation for an audience of fellow Geomatics students, which is given, discussed and assessed at the Finalisation meeting.
 
@@ -36,7 +36,7 @@ The graduation plan is a project proposal that must contain the following elemen
   + title
   + full name
   + student number
-  + names of supervisors \#1 + \#2
+  + names of the responsible and second supervisors
 + An #strong[introduction] in which the relevance of the project and its
   place in the context of geomatics is described, along with a
   clearly-defined problem statement;

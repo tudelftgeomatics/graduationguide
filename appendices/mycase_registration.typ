@@ -52,6 +52,6 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
 
 #clue(title: "Information", header-color: yellow.lighten(80%))[
   If a student does not start the graduation in Q2 or Q4, or if they are delayed, SuperSaaS (the scheduling tool used by the administration) might not be available.
-  In such cases, Kick-off/Green-light/Finalisation should be planned by sending an email to #link("graduation-bk@tudelft.nl").
+  In such cases, Kick-off/Green-light/Finalisation should be planned by sending an email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
 ]
 #todo[Do we use SuperSaaS?]
