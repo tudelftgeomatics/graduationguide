@@ -63,26 +63,9 @@ If AI tools or large language models (LLMs) have been used for any part of the w
 == Graduation report (Green-light and Finalisation) structure
 <graduation-report-structure>
 
-The exact structure of the thesis, or graduation report, will depend on the type of work that is involved. 
-However, most good Geomatics theses contain something similar to the following elements:
+The exact structure of the thesis, or graduation report, will depend on the type of work that is involved and should be discussed with your responsible supervisor.
 
-+ Title page, possibly split into cover page, half-title, copyright page
-  (with licence and names of supervisors and co-reader), etc;
-+ Abstract;
-+ Acknowledgements;
-+ Table of contents, possibly accompanied with lists of figures, tables,
-  algorithms, acronyms, etc;
-+ Introduction, including motivation, research questions and a summary
-  of all chapters;
-+ Related work, possibly preceded by a background chapter;
-+ Methodology, possibly followed by implementation and/or data chapters;
-+ Results, including a critical evaluation and discussion of them;
-+ Conclusions and future work.
-+ References, in which every entry includes a clickable DOI or URL so that sources can be accessed directly from the document.
+We describe potential structures and provide templates at #link("https://geomatics.bk.tudelft.nl/geo2022/templates/").
 
- The implications and reflection of the work that was conducted should be integrated throughout the thesis. 
- In particular, the implications should be present in the introduction and conclusions, and the reflection should be present in the conclusions.
 
-A template is available in @app:deliverables.
-
-If AI tools or large language models (LLMs) have been used at any point in the project, the report must include a detailed AI disclosure statement, as described in @use-of-ai-llm.
+Notice that if AI tools or large language models (LLMs) have been used at any point in the project, the report must include a detailed AI disclosure statement, as described in @use-of-ai-llm.

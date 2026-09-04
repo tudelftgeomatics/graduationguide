@@ -10,15 +10,17 @@ The graduation plan template (Kick-off) is available in two formats:
 / Typst: #link("https://typst.app/project/rxxc6SF4azqbGIOgdoRANf").
 / LaTeX: #link("https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657").
 
+But you are allowed to use other formats like Word or InDesign if you want. 
+
+
 == Final thesis template (Green-light + finalisation)
 
-The template that we recommend is available in two formats:
+There is not official template and you are allowed to use the software and structure that you want (after approval of your supervisor).
+
+We recommend using the following templates, but you are free to use other formats like Word or InDesign if you prefer.
 
 / Typst: #link("https://github.com/tudelft3d/msc_geomatics_thesis_typst").
 / LaTeX: #link("https://github.com/tudelft3d/msc_geomatics_thesis_template").
-
-Observe that those are not an official templates and it is not mandatory to use one of them. 
-You are allowed to use Word or InDesign or others.
 
 
 == Green-light presentation <green-light-presentation>
