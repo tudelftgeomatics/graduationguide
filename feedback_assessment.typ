@@ -18,8 +18,7 @@ At the Kick-off and Green-light, the result is expressed in a 'go' or a 'no-go'.
 In case of a 'no-go', a retake of the assessment can take place in the next education period (see @chap:graduation-structure and @app:assessments).  
 
 == Components of assessments <components-of-assessments>
-At the Kick-off, the graduation plan is assessed according to the kick-off rubric.
-#todo[To be created]
+At the Kick-off, the graduation plan is assessed according to the Kick-off rubric (see @app:rubrics).
 
 At the Midterm, the work is assessed based on whether it is quantitatively and qualitatively on schedule with respect to the graduation plan.
 

@@ -4,8 +4,51 @@
 
 == Rubric for Kick-off <kickoff-rubric>
 
-The rubric at Kick-off is based on the same criteria as the Green-light rubric, see below. 
-The supervisors judge whether a student is on track to obtain a #emph[Green-light] at the Green-light milestone.
+The graduation plan is assessed at the Kick-off with the rubric below.
+Each aspect is marked Go, Borderline or No-go; the pattern of marks is indicative, as the supervisors review where the aspects fall and make the final Go/No-go decision.
+A No-go on an essential aspect, or several Borderline/No-go marks, supports a No-go.
+The supervisors judge whether the student is on track to obtain a #emph[Green-light] at the Green-light milestone.
+
+#let kickoff-data = (
+  ("Motivation", "Motivation is clearly stated and explicitly connected to the specific research problem and the context of geomatics.", "Motivation can be broadly discerned, but is not clearly connected to the specific research problem.", "No motivation is given, or the stated motivation does not match the proposed work."),
+  ("Problem & research questions", "The problem statement is clear with defined boundaries (scope) and is feasible; research questions are clearly defined with an explicit scope of what will and will not be done.", "The problem or research questions are recognizable, but their scope or boundaries are not fully clear.", "The problem cannot be explained, or no specific research questions or objectives are given."),
+  ("Related work / literature", "Relevant literature is presented and linked to the project, with adequate justification of the topic.", "A sufficient introduction to the topic is given, but the literature review is limited or only weakly linked to the project.", "The research is not placed in a wider context; literature is missing or superficial, and sources are accepted without reflection."),
+  ("Methodology (methods / data)", "The proposed methods and data are adequately justified and appropriate for the research questions.", "Methods and data are partly justified, or their suitability for the research question is only weakly explained.", "No adequate justification is given for the chosen methods and data, which are inappropriate for the research question."),
+  ("Feasibility & time planning", "A realistic time plan (e.g. Gantt chart) is given; the project is feasible within the graduation period and key risks are identified.", "A time plan is given, but is optimistic or loosely linked to the work; risks are not clearly identified.", "No real time planning is given, or the plan is not feasible within the graduation period."),
+  ("Autonomy & use of supervision", "Mostly autonomous and proactive; responds to feedback and contributes to meetings; implements suggested changes.", "Sometimes autonomous, but generally needs steering; responds to feedback only minimally.", "Not autonomous or proactive; constant steering required; does not respond to feedback or implement changes."),
+  ("Structure & writing", "Plan follows a clear structure with the required elements (introduction, related work, research questions, methodology, time planning, data & tools, references) and is generally well written with few errors.", "Plan follows a structure but with some issues in clarity/organisation; writing has a number of errors needing correction.", "Plan has no clear structure or logical flow; writing is disorganized with pervasive errors that obscure meaning."),
+  ("References & AI disclosure", "Other work is acknowledged properly with a complete, consistent reference list; if AI/LLMs were used, a disclosure statement describes tools, use and extent.", "References are present but incomplete or inconsistent; or AI use is disclosed only partially.", "Sources are not acknowledged or references missing/unreliable; or AI/LLMs were used without the required disclosure statement."),
+  ("Content & structure", "Presentation follows a clear structure and gives a good summary of motivation, problem, research questions, methodology and planning.", "Presentation follows a structure but with minor issues; summary covers most key elements.", "Presentation is chaotic or does not convey the motivation, problem or main elements of the plan."),
+  ("Delivery & visual material", "Adequate presentation material supports the talk; interaction with the audience is appropriate and maintains attention.", "Basic but functional material; interaction with the audience is sufficient though not always maintained.", "Visual material is missing or of poor quality; loses the audience rapidly."),
+  ("Understanding & Q&A", "Candidate answers most questions correctly and is confident with the content for its application; understands the plan and its implications.", "Candidate answers some questions but with gaps or superficial reasoning when probed.", "Candidate cannot address the questions posed or demonstrates a clear lack of understanding of the problem."),
+)
+
+#{
+  let cell-size = 6pt
+  let cells = ()
+  for l in ("Aspect", "Go", "Borderline", "No-go") {
+    cells.push(table.cell(fill: rgb("#1a5518").lighten(92%))[
+      #text(size: cell-size, weight: "bold")[#l]
+    ])
+  }
+  for (aspect, ..descs) in kickoff-data {
+    cells.push(table.cell[
+      #text(size: cell-size, weight: "bold")[#aspect]
+    ])
+    for d in descs {
+      cells.push(table.cell[
+        #text(size: cell-size)[#d]
+      ])
+    }
+  }
+  table(
+    columns: (13%, 29%, 29%, 29%),
+    inset: (x: 3pt, y: 1.8pt),
+    stroke: 0.4pt + luma(200),
+    align: left,
+    ..cells,
+  )
+}
 
 == Rubric for Green-light and Finalisation <green-light-rubric>
 
@@ -29,8 +72,9 @@ _(Digital version in PDF and XLSX is available at
         ("Theoretical framework", "No relevant theory is reproduced or applied to the research.", "Understands directly relevant theory at MSc level, but has difficulties applying it to the research.", "Understands directly relevant theory and applies it to the research after being shown how.", "Understands and can reproduce directly relevant theory at the level of MSc textbooks and scientific literature, and applies it to the research.", "Independently collects, processes and integrates theory from different fields or sources, and applies it to the research.", "Independently integrates and extends theory from different fields or sources, making a clear conceptual contribution to the research."),
         ("Literature / related work", "Unable to place the research in a wider context; no clear literature research; sources are accepted without reflection.", "Sufficient introduction and justification of the topic, but superficial (limited literature review).", "Sufficient introduction and justification of the topic, with fair literature support (decent literature review).", "Good introduction and justification of the topic with supporting literature (but not all included).", "Good introduction and justification of the topic, with vast literature support and critical evaluation of sources.", "Excellent introduction and justification of the topic, with all literature support, including recent related work by other researchers."),
         ("Choices of methods / data", "No adequate justification is given for the chosen methods and data, which are inappropriate for the research question.", "Choices of methods and data are partly justified, or their suitability for the research question is only weakly explained.", "Choices of methods and data are adequately justified and appropriate for the research question at hand.", "Choices of methods and data are justified, appropriate and logical, with only minor gaps in reasoning.", "Choices of methods and data are justified, logical and well-matched to the research question, with alternative approaches considered.", "The choices of methods and data are justified, logical and the most efficient at the moment."),
-        ("Results / conclusions", "No substantial conclusions; results are left uninterpreted.", "Results are interpreted to a limited extent.", "Results are interpreted independently with a critical attitude.", "Results are interpreted critically and reflected upon in a broader scope of the discipline and its application.", "Results are interpreted critically and reflected upon in a broader scope of the discipline and its application, with proposed solutions or alternative approaches when necessary.", "Results are interpreted critically and reflected upon in a broader scope of the discipline and its application, with well-argued proposed solutions or alternatives and clear implications."),
-        ("Answers to research questions", "The results do not answer the research questions.", "The answers to the research questions are basic, meeting the minimum standard.", "The answers to the research questions are more than satisfactory.", "The answers to the research questions are good.", "The answers to the research questions are very good.", "The answers to the research questions are excellent."),
+        ("Results / conclusions", "No substantial conclusions; results are left uninterpreted.", "Results are interpreted to a limited extent.", "Results are interpreted independently with a critical attitude.", "Results are interpreted critically and reflected upon within the broader scope of the discipline and its application.", "Beyond a critical, discipline-wide interpretation, the work proposes solutions or alternative approaches where the evidence is weak, showing how the results inform practice.", "The work offers a critical, discipline-wide reflection on the results and puts forward well-argued solutions or alternatives with clearly stated implications for future research and application."),
+        ("Answers to research questions", "The results do not answer the research questions.", "The answers to the research questions are only partial or indirect; one or more questions are left unaddressed or answered tentatively.", "Each research question is addressed at a basic level, with limited depth or supporting evidence.", "The research questions are answered clearly and with supporting evidence, though minor gaps remain for one or two questions.", "The research questions are answered thoroughly and with strong evidence, with claims well supported across all questions.", "The research questions are answered comprehensively and convincingly, leaving no significant gaps and linking the answers back to the stated motivation."),
+        ("Depth & ambition of the investigation", "The topic avoids meaningful challenge and the treatment is superficial; little genuine investigation is attempted.", "The topic is modest in scope and the treatment is largely surface-level, with limited independent investigation.", "The topic is appropriate for an MSc and is investigated to a satisfactory depth; the student engages the core problem without much extension.", "A moderately challenging topic taken to good depth, or a simpler topic explored thoroughly; the investigation goes beyond the obvious.", "A challenging topic investigated deeply, or a simpler topic taken to notable depth with rigorous analysis; clearly beyond minimum requirements.", "A demanding topic pursued with exceptional depth, or an apparently simple topic transformed through rigorous, thorough investigation; the level of inquiry is exemplary."),
       )),
       ("Process (20%)", (
         ("Autonomy / proactiveness", "Not autonomous or proactive at all; constant steering by supervisors is required.", "Sometimes autonomous and proactive, but generally needs steering by supervisors.", "Mostly autonomous; generally tries approaches before asking for help.", "Mostly autonomous and proactive, taking control of the project and steering it to completion with some hiccups.", "Autonomous and proactive, taking control of the project and steering it.", "Highly autonomous and proactive throughout, taking full control of the project and steering it efficiently."),
@@ -54,7 +98,7 @@ _(Digital version in PDF and XLSX is available at
         ("Visual material", "Visual material is missing or of poor quality.", "Basic presentation material (e.g. slides, videos, demos), functional but plain.", "Adequate presentation material that supports the talk.", "Good presentation material, with clean visuals that support the talk.", "Very good presentation material, with well-designed visuals.", "Excellent presentation material, with clear, well-designed visuals that strengthen the talk."),
         ("Audience / attention", "Loses the audience rapidly.", "Interaction with the audience is sufficient (eye contact, body language, tone of voice, pace of speaking); gets the attention of the audience.", "Interaction with the audience is appropriate; gets the attention of the audience and maintains it to some extent.", "Interaction with the audience is good; maintains the attention of the audience for most of the presentation.", "Interaction with the audience is very good; maintains constant attention of the audience.", "Interaction with the audience is excellent; maintains constant attention of the audience throughout."),
         ("Responses to questions", "Candidate cannot address the questions posed.", "Candidate answers some questions correctly, but answers are superficial or incomplete.", "Candidate answers most questions correctly, with a few gaps.", "Candidate answers questions correctly, with a clear explanation of the reasoning.", "Candidate answers questions correctly and responds well to follow-up questions.", "Questions are answered succinctly and with full awareness of the strengths and weaknesses of the research."),
-        ("Understanding", "Demonstrates a clear lack of understanding of the scientific problem and cannot explain the work.", "Shows superficial knowledge of the topic; struggles when probed beyond the slides.", "Confident with the content for its application.", "Very confident with the content at a research and development level.", "Masters the content within the research topic.", "Masters the content beyond the research topic."),
+        ("Understanding", "Demonstrates a clear lack of understanding of the scientific problem and cannot explain the work.", "Shows superficial knowledge of the topic; struggles when probed beyond the slides.", "Explains the work competently for its intended application; handles the main questions but shows occasional gaps when probed on details.", "Explains the work confidently at a research-and-development level; handles most probing questions without hesitation.", "Masters the content of the research topic; answers probing questions fluently and can articulate the work's limitations.", "Masters the content well beyond the immediate research topic; situates the work in the wider field and discusses limitations and implications unprompted."),
       )),
     )
 
