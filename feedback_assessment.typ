@@ -22,7 +22,9 @@ At the Kick-off, the graduation plan is assessed according to the Kick-off rubri
 
 At the Midterm, the work is assessed based on whether it is quantitatively and qualitatively on schedule with respect to the graduation plan.
 
-At the Green-light and Finalisation, the draft graduation report is assessed according to the Green-light and Finalisation rubric.
+At the Green-light, the draft graduation report is assessed according to the Green-light and Finalisation rubric.
+
+At the Finalisation, the final graduation report is assessed according to the Green-light and Finalisation rubric.
 
 == Deliberation and feedback <deliberation-and-feedback>
 After the Kick-off, Green-light, and Finalisation sessions, the supervisory team will retreat for deliberation. 
