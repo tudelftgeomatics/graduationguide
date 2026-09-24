@@ -55,7 +55,7 @@ The same applies to the Green-light, where the supervisors give a 'go' to procee
 
 == Registration <registration>
 For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
-It is the responsibility of the responsible supervisor to schedule the student's Kick-off, Green-light, and Finalisation assessments before the deadlines in the Geomatics graduation calendar. 
+It is the responsibility of the responsible supervisor to schedule the student's Kick-off, Green-light, and Finalisation assessments, in the standard time slots (see @app:time-slots), before the deadlines in the Geomatics graduation calendar. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
 If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to the coordinator of the Geomatics Graduation Studio.
 

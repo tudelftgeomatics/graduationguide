@@ -107,7 +107,7 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Day and timeslot reservation made by responsible supervisor after the Midterm #todo[is there a deadline?]],
+    [Planning], [Day and time slot reservation (see @app:time-slots) made by responsible supervisor after the Midterm #todo[is there a deadline?]],
     [Location], [Room booked by scheduling department],
     [Deliverables], [A complete draft thesis and a presentation],
     [Assessment method], [Rubric],
@@ -154,7 +154,7 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Day and timeslot reservation made by responsible supervisor after the Midterm#todo[or after Green-light?]],
+    [Planning], [Day and time slot reservation (see @app:time-slots) made by responsible supervisor after the Midterm#todo[or after Green-light?]],
     [Location], [Room booked by scheduling department#todo[we need to know how!]],
     [Deliverables], [Presentation],
     [Assessment method], [Rubric],

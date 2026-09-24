@@ -60,6 +60,8 @@
 #pagebreak()
 #include "appendices/assessments.typ"
 #pagebreak()
+#include "appendices/time_slots.typ"
+#pagebreak()
 #include "appendices/deliverables.typ"
 #pagebreak()
 #include "appendices/rubrics.typ"
