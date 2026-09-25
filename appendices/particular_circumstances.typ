@@ -11,7 +11,7 @@ A quorum is required for each assessment to be valid, it is as follows:
   table.hline(),
   table.header[][*Responsible \ supervisor*][*Second \ supervisor*][*Co-reader*][*Delegate \ BoE*],
   table.hline(),
-  [*Kick-off*],     [✅], [✅], [],  [],
+  [*Kick-off*],     [✅], [✅], [],  [✅],
   [*Midterm*],      [✅], [✅], [],  [],
   [*Green-light*],  [✅], [✅], [], [✅],
   [*Finalisation*], [✅], [✅], [✅], [✅],

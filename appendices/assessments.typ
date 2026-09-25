@@ -47,8 +47,9 @@
       - 15 min: deliberation and feedback
     ],
     [Assessors], [Responsible and second supervisors],
-    [Quorum], [Both supervisors],
+    [Quorum], [Both supervisors and delegate],
     [Actions responsible supervisor], [Fill in the feedback form, upload it in MyCase and give feedback],
+    [Actions delegate], [Chair the assessment and the deliberation],
     //--
     table.cell([*Upon completion*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),

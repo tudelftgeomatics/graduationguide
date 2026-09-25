@@ -21,11 +21,12 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     [], [], [Register Kick-off date in SuperSaaS\*], [Responsible supervisor],
     [], [], [Check entry requirements], [Faculty administration],
     [], [2.5], [Approve supervision team], [GEO2022 coordinator],
-    [], [2.6], [Register delegate by BoE#todo[so early?]], [MyCase faculty administration],
+    [], [2.6], [Register delegate by BoE], [MyCase faculty administration],
     [*Kick-off*], [2.8--2.9], [Upload graduation plan, human
     participation, external party and confidentiality agreement, and
     submit 'Ready for Kick-off' task in MyCase], [Student],
-    [], [2.9--2.10], [Kick-off assessment], [Student and supervisors],
+    [], [2.9--2.10], [Kick-off assessment], [Student, supervisors and
+    delegate],
     [], [], [Submit result and feedback in MyCase, register dates of Green-light and Finalisation in SuperSaaS\*], [Responsible supervisor],
     [*Midterm*], [3.8--3.9], [Upload midterm materials, and
     submit 'Ready for Midterm' task in MyCase], [Student],
