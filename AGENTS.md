@@ -35,7 +35,7 @@ The graduation process uses milestone **names**, not codes. The legacy A-codes a
 
 | Legacy | Current |
 |--------|---------|
-| A0 | Registration |
+| A0 | Preparation |
 | A1 | Kick-off |
 | A2 | Midterm |
 | A3 | Green-light |

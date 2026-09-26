@@ -2,8 +2,8 @@
 
 = Assessments <app:assessments>
 
-== Registration
-<assessment-registration>
+== Preparation
+<assessment-preparation>
 
 #table(
   columns: (25%, 75%),

@@ -29,7 +29,7 @@ The graduation phase is divided into the following milestones:
     // table.cell([*Name*], fill: green.lighten(80%)),
     // table.cell([*Details*], fill: green.lighten(80%)),  
     table.hline(),
-    [0], [Registration], [Selection of the responsible supervisor and of a thesis topic, either by picking from a topic from #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list] or by agreeing on a custom topic.],
+    [0], [Preparation], [Selection of the responsible supervisor and of a thesis topic, either by picking from a topic from #link("https://geomatics.bk.tudelft.nl/geo2022/potentialtopics/")[the list] or by agreeing on a custom topic.],
     [1], [Kick-off], ['Go/no-go' assessment of the graduation plan; 15-min presentation, 15-min questions and discussion.],
     [2], [Midterm], [Structured meeting with both supervisors to discuss progress and updated plans. The form is decided by the supervisors.],
     [3], [Green-light], [Assessment of the complete draft MSc thesis; 20-min presentation, 20-min questions and discussion.],
@@ -53,7 +53,7 @@ If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 
 The same applies to the Green-light, where the supervisors give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no-go' results in a retake of the Green-light in the next quarter.
 
-== Registration <registration>
+== Preparation <preparation>
 For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
 It is the responsibility of the responsible supervisor to schedule the student's Kick-off, Green-light, and Finalisation assessments, in the standard time slots (see @app:time-slots), before the deadlines in the Geomatics graduation calendar. 
 This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 

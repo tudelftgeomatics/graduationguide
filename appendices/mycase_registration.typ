@@ -15,12 +15,12 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     fill: (_, y) => if y == 0 { green.lighten(80%) },
     table.header([*Phase*], [*When*], [*What*], [*Who*],),
     table.hline(),
-    [*Registration*], [1.3], [Submit thesis topic form (on GEO2022 website)], [Student],
+    [*Preparation*], [1.3], [Submit thesis topic form (on GEO2022 website)], [Student],
     [], [1.8--2.2], [Register new case in MyCase, including supervisors
     and planning in weeks], [Student],
     [], [], [Register Kick-off date in SuperSaaS\*], [Responsible supervisor],
     [], [], [Check entry requirements], [Faculty administration],
-    [], [2.5], [Approve supervision team], [GEO2022 coordinator],
+    [], [2.5], [Approve supervision team], [Responsible supervisor],
     [], [2.6], [Register delegate by BoE], [MyCase faculty administration],
     [*Kick-off*], [2.8--2.9], [Upload graduation plan, human
     participation, external party and confidentiality agreement, and
