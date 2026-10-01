@@ -127,7 +127,7 @@
     [Schedule], [
     - 20 min: presentation by student#todo[is that necessary? not better to leave to staff to decide what is best?]
     - 20 min: questions by second supervisor and responsible supervisor (in that order)
-    - 15 min: deliberation and feedback
+    - 20 min: deliberation and feedback
     ],
     [Assessors], [Responsible and second supervisors], 
     [Quorum],  [Both supervisors and delegate], 
