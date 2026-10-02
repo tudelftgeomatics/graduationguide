@@ -28,8 +28,8 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Done by the responsible supervisor in the GEO2022 website],
-    [Location], [Room booked by responsible supervisor],
+    [Planning], [Done by the responsible supervisor in the GEO2022 website before the deadline in the Geomatics graduation calendar],
+    [Location], [Room booked by graduation coordinator],
     [Deliverables], [Graduation plan],
     [Assessment method], [Rubric],
     [Actions student], [
@@ -108,9 +108,9 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Day and time slot reservation (see @app:time-slots) is done by the responsible supervisor in the GEO2022 website],
-    [Location], [Room booked by scheduling department],
-    [Deliverables], [A complete draft thesis and a presentation],
+    [Planning], [Day and time slot reservation (see @app:time-slots) is done by the responsible supervisor in the GEO2022 website before the deadline in the Geomatics graduation calendar],
+    [Location], [Room booked by graduation coordinator],
+    [Deliverables], [A draft thesis and a presentation],
     [Assessment method], [Rubric],
     [Actions student], [
       - Upload draft thesis to MyCase (1 week before; unless the responsible supervisor agrees otherwise),
@@ -155,8 +155,8 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Day and time slot reservation (see @app:time-slots) made by responsible supervisor after the Midterm#todo[or after Green-light?]],
-    [Location], [Room booked by the responsible supervisor in SuperSaaS; if not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
+    [Planning], [Day and time slot reservation (see @app:time-slots) made by responsible supervisor in SuperSaaS before the deadline in the Geomatics graduation calendar; if SuperSaaS is not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
+    [Location], [Room booked by the scheduling department],
     [Deliverables], [Presentation],
     [Assessment method], [Rubric],
     [Actions student], [
