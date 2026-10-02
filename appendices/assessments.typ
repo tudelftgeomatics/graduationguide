@@ -125,7 +125,9 @@
     table.cell([*At the session*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Schedule], [
-    - 20 min: presentation by student#todo[is that necessary? not better to leave to staff to decide what is best?]
+    The times below are indicative; the assessors may divide the session differently, provided the assessment fits the booked time slot (see @app:time-slots).
+
+    - 20 min: presentation by student
     - 20 min: questions by second supervisor and responsible supervisor (in that order)
     - 20 min: deliberation and feedback
     ],
