@@ -54,7 +54,7 @@ If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 
 The same applies to the Green-light, where the supervisors give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no-go' results in a retake of the Green-light in the next quarter.
 
-== Preparation <preparation>
+== Scheduling and registration <scheduling-and-registration>
 The Kick-off and Green-light assessments are scheduled by the responsible supervisor in the GEO2022 website.
 The Finalisation is scheduled by the responsible supervisor via the #emph[SuperSaaS] tool; if not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
 All assessments are scheduled in the standard time slots (see @app:time-slots), before the deadlines in the Geomatics graduation calendar. 
@@ -86,3 +86,5 @@ In projects involving humans, certain types of data processing increase the risk
 In the case of a graduation project, obtaining additional advice or permits may delay the project with an extra semester. 
 Therefore, all students have to check their risk, by completing the Data management checklist (@app:ethics) before the Kick-off. 
 Only if the graduation project involves working with data from human participants, should the rest of the checklist be completed and contact be made with the Human Research Ethics Committee (HREC).
+
+Completing the checklist is recorded in MyCase as part of the Kick-off (see @app:mycase). A 'no' answer to the human-participation question is accepted at the Kick-off; the answers can still be changed and the HREC approval letter uploaded up to and including the Green-light. Note that the research itself can only begin once the HREC approval has been received.

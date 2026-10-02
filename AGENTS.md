@@ -14,7 +14,7 @@ Releases are tagged `YYYY.YYYY` (e.g. `2025.2026`) and the compiled PDF is attac
 
 ## Structure
 
-- `main.typ` — entrypoint. Uses the `bubble` template (title page, outline) then `#include`s each chapter and appendix in fixed order. Chapter vs appendix numbering is set here: main matter uses `1.` with supplement `Chapter`; appendices use `I.i.` with supplement `Appendix`.
+- `main.typ` — entrypoint. Uses the `bubble` template (title page, outline) then `#include`s each chapter and appendix in fixed order. Chapter vs appendix numbering is set here: main matter uses `1.` with supplement `Chapter`; appendices use `A.1.` with supplement `Appendix`.
 - `template/bubble.typ` — the document theme (fonts, colors, heading/outline styling, title page). Main color is set per-document in `main.typ`, not here.
 - `*.typ` (root) — main-matter chapters, included in order: `graduation_structure`, `supervisory_team`, `scientific_approach`, `feedback_assessment`.
 - `appendices/*.typ` — back-matter appendices, included in order from `main.typ`.

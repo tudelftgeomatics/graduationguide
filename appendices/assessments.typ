@@ -13,7 +13,7 @@
   align: (left, left),
   [Period], [Every quarter this can be done, ask the coordinator of GEO2022],
   [Actions student], [
-    - Find and agree on a topic with a MSc Geomatics staff 
+    - Find and agree on a topic with an MSc Geomatics staff member
     - Write a short summary
     - Upload the required information to the GEO2022 website
   ],
@@ -21,7 +21,7 @@
 
 
 
-== Kick-off <Midterm-kick-off>
+== Kick-off <assessment-kick-off>
 #table(
     columns: 2,
     align: (left,left),
@@ -29,8 +29,10 @@
     table.hline(),
     [Period], [In fixed weeks, once per quarter],
     //--
-    table.cell([*Preparation*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*Preparation*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Planning], [Done by the responsible supervisor in the GEO2022 website before the deadline in the Geomatics graduation calendar],
     [Location], [Room booked by the responsible supervisor],
     [Deliverables], [Graduation plan],
@@ -42,8 +44,10 @@
     ],
     [Actions supervisors], [Read Graduation Plan before the start of Kick-off],
     //--
-    table.cell([*At the session*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*At the session*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Schedule], [
       - 15 min: presentation by student,
       - 15 min: questions by second supervisor and responsible supervisor (in that order),
@@ -54,11 +58,13 @@
     [Actions responsible supervisor], [Fill in the feedback form, upload it in MyCase and give feedback],
     [Actions delegate], [Chair the assessment and the deliberation],
     //--
-    table.cell([*Upon completion*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*Upon completion*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Assessment result], [
       - _Go_: the student proceeds towards the Midterm
-      - _No-go_: the student agrees a new Kick-off date for the next Kick-off period with the supervisors; registration is done by the responsible supervisor in the GEO2022 website
+      - _No-go_: the student agrees a new Kick-off date for the next quarter with the supervisors; registration is done by the responsible supervisor in the GEO2022 website
       - _Withdrawal_: same as for no-go. 
     ],
     [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the responsible supervisor], 
@@ -73,8 +79,10 @@
     [Admission requirements], [The student successfully passed the Kick-off milestone],
     [Period], [Anytime between Kick-off and Green-light, it is up to the student and the responsible supervisor to agree on a date],
     //--
-    table.cell([*Preparation*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*Preparation*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Planning], [Done by responsible supervisor],
     [Location], [Room booked by the responsible supervisor],
     [Deliverables], [A document must be uploaded before the meeting to
@@ -84,8 +92,10 @@
     [Actions student], [Upload the required document to MyCase (at least 24h before the Midterm)],
     [Actions supervisors], [Responsible supervisor books the room and invites the second supervisor],
     //--
-    table.cell([*At the session*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*At the session*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Schedule], [Meeting has free form, it is decided by the
     supervisors],
     [Assessors], [(this is not a formal assessment)],
@@ -93,8 +103,10 @@
     [Actions student], [(none)],
     [Actions supervisors], [(none)],
     //--
-    table.cell([*Upon completion*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*Upon completion*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Assessment result], [(an advice is given to the student, based on
     their progress)],
     [Assessment registration], [The feedback/advice is registered in
@@ -109,8 +121,10 @@
     [Admission requirements], [The student must have completed all Master's courses with the exception of GEO2022, and must have successfully completed the Midterm milestone.],
     [Period], [In fixed weeks, once per quarter.],
     //--
-    table.cell([*Preparation*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*Preparation*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Planning], [Day and time slot reservation (see @app:time-slots) is done by the responsible supervisor in the GEO2022 website before the deadline in the Geomatics graduation calendar],
     [Location], [Room booked by the responsible supervisor],
     [Deliverables], [A draft thesis and a presentation],
@@ -125,8 +139,10 @@
       - Check if and how student implemented advice/feedback from the Midterm.
     ],
     //--
-    table.cell([*At the session*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*At the session*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Schedule], [
     The times below are indicative; the assessors may divide the session differently, provided the assessment fits the booked time slot (see @app:time-slots).
 
@@ -140,11 +156,13 @@
     [Actions supervisors], [Fill in the feedback form, upload it in MyCase and give feedback],
     [Actions delegate], [Chair the assessment and the deliberation],
     //--
-    table.cell([*Upon completion*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*Upon completion*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Assessment result], [
       - _Go_: the student proceeds towards the Finalisation
-      - _No-go_: the student agrees a new Green-light date for the next Green-light period with the supervisors; registration is done by the responsible supervisor in the GEO2022 website
+      - _No-go_: the student agrees a new Green-light date for the next quarter with the supervisors; registration is done by the responsible supervisor in the GEO2022 website
       - _Withdrawal_: same as for no-go.  
     ],
     [Assessment registration], [The feedback and assessment ('go' or 'no-go') is registered in MyCase by the responsible supervisor],
@@ -158,8 +176,10 @@
     [Admission requirements], [The student must have successfully completed the Green-light milestone.],
     [Period], [In fixed weeks, once per quarter. Must be done at least 4 weeks after the Green-light.],
     //--
-    table.cell([*Preparation*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*Preparation*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Planning], [Day and time slot reservation (see @app:time-slots) made by responsible supervisor in SuperSaaS before the deadline in the Geomatics graduation calendar; if SuperSaaS is not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
     [Location], [Room booked by the scheduling department],
     [Deliverables], [Final thesis and presentation],
@@ -174,8 +194,10 @@
     ],
     [Actions supervisors and co-reader], [Send their tentative marks to the delegate before the session],
     //--
-    table.cell([*At the session*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*At the session*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Schedule], [
       - 20 min: presentation by student
       - 25 min: questions by co-reader, second supervisor, and responsible supervisor (in that order)
@@ -192,13 +214,15 @@
     [Actions supervisors], [
       - Fill in the final grade list
       - Hand over the diploma and the grade list (the latter in a closed
-        envelope), 
+        envelope)
       - Give the laudation (without announcing the final grade to the public)
     ],
     [Actions delegate], [Chair the assessment and the deliberation],
     //--
-    table.cell([*Upon completion*], fill: green.lighten(80%)),
-    table.cell([], fill: green.lighten(80%)),
+    table.header(repeat: false,
+      table.cell([*Upon completion*], fill: green.lighten(80%)),
+      table.cell([], fill: green.lighten(80%)),
+    ),
     [Assessment registration], [The final grade is registered in MyCase by the responsible supervisor],
     [Actions student], [ 
       - Unsubscribe as TU Delft student via Studielink enrolment, so your enrolment will be terminated as from the 1st of the next month (if you do not terminate your enrolment in time you are required to pay tuition fees for another month; retroactive termination of your enrolment is not possible; under certain circumstances the tuition fee can be partly refunded, see the website Termination of Enrolment)

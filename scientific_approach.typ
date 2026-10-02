@@ -6,7 +6,7 @@
 The graduation project is an individual research project that is conducted by the student with guidance and regular feedback from the supervisors.
 
 The project starts with a preliminary phase where the student lays down the foundations for their research, which includes conducting a study of the most important relevant literature, refining their topic into a specific problem statement, establishing clear research questions or objectives, and selecting an appropriate methodology. 
-This culminates into the creation of a graduation plan (see @app:deliverables), which is presented, discussed and assessed at the Kick-off meeting.
+This culminates in the creation of a graduation plan (see @app:deliverables), which is presented, discussed and assessed at the Kick-off meeting.
 
 Upon approval of the graduation plan, the student conducts their research according to the methodology and time planning in it. 
 The specific contents of this phase of the graduation will vary depending on the chosen methodology, but might include among others: an extended survey of scientific literature and other relevant sources, data collection and analysis, developing new methods, tools or datasets, and software development and testing.
@@ -28,7 +28,7 @@ The use of AI tools and large language models (LLMs) is generally allowed in the
 If AI has been used in any part of the project, the graduation plan and/or the graduation report must include an AI disclosure statement describing what tools were used, how they were used, and to what extent, along with a short reflection. The detailed requirements are set out in the #link("https://geomatics.bk.tudelft.nl/ai/")[Geomatics Policy for the use of AI/LLM], and the MSc Geomatics thesis template provides an appendix to help you write the statement. Failure to disclose the use of AI is itself treated as a violation of the policy and may be regarded as fraud.
 
 == Graduation plan (Kick-off) structure
-<graduation-plan-a1-structure>
+<graduation-plan-structure>
 
 The graduation plan is a project proposal that must contain the following elements:
 
@@ -45,7 +45,7 @@ The graduation plan is a project proposal that must contain the following elemen
 + #strong[Research questions] that are clearly defined, along with the
   scope (i.e. what the student will and will not be doing);
 + Overview of the proposed #strong[methodology] to be used;
-+ Overview of #strong[preliminary results] (if application, discuss with
++ Overview of #strong[preliminary results] (if applicable, discuss with
   your supervisors);
 + #strong[Time planning]—having a Gantt chart is probably a better idea
   than just a list;

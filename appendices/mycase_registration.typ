@@ -16,15 +16,15 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     table.header([*Phase*], [*When*], [*What*], [*Who*],),
     table.hline(),
     [*Preparation*], [1.3], [Submit thesis topic form in GEO2022 website], [Student],
-    [], [1.8--2.2], [Register new case in MyCase, including supervisors
-    and planning in weeks], [Student],
+    [], [1.8--2.2], [Register new case in MyCase, including the supervisors
+    and the planning in weeks], [Student],
     [], [], [Check entry requirements], [Faculty administration],
     [], [2.5], [Approve supervision team], [Responsible supervisor],
     [], [2.6], [Register delegate by BoE], [MyCase faculty administration],
     [], [2.7], [Schedule Kick-off via the registration page on the GEO2022 website\*], [Responsible supervisor],
     [*Kick-off*], [2.8--2.9], [Upload graduation plan, human
-    participation, external party and confidentiality agreement, and
-    submit 'Ready for Kick-off' task in MyCase], [Student],
+    participation (see @app:ethics), external party and confidentiality
+    agreement, and submit 'Ready for Kick-off' task in MyCase], [Student],
     [], [2.9--2.10], [Kick-off assessment], [Student, supervisors and
     delegate],
     [], [], [Submit result and feedback in MyCase], [Responsible supervisor],
@@ -48,6 +48,8 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     [*Finalisation*], [4.10--5.1], [Upload finalisation presentation
     and submit 'Ready for finalisation' task in MyCase, upload
     graduation report and finalisation presentation in repository], [Student],
+    [], [5.1], [Finalisation assessment], [Student, supervisors,
+    co-reader and delegate],
     [], [], [Upload final grade], [Responsible supervisor],
   )
   

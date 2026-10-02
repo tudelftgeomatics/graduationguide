@@ -3,7 +3,7 @@
 
 = Deliverables <app:deliverables>
 
-== Kick-off template (graduation plan) <project-proposal-template>
+== Kick-off template (graduation plan) <kick-off-template>
 
 The graduation plan template (Kick-off) is available in two formats:
 
@@ -23,7 +23,7 @@ The goal of this presentation is to demonstrate that the plan is well-founded an
 
 == Final thesis template (Green-light + finalisation)
 
-There is not official template and you are allowed to use the software and structure that you want (after approval of your supervisor).
+There is no official template and you are allowed to use the software and structure that you want (after approval of your supervisor).
 
 We recommend using the following templates, but you are free to use other formats like Word or InDesign if you prefer.
 
