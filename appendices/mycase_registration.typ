@@ -11,46 +11,51 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
 
   #table(
     columns: 4,
-    align: (left, left, left, left),
+    align: left + horizon,
     fill: (_, y) => if y == 0 { green.lighten(80%) },
     table.header([*Phase*], [*When*], [*What*], [*Who*],),
     table.hline(),
-    [*Preparation*], [1.3], [Submit thesis topic form in GEO2022 website], [Student],
-    [], [1.8--2.2], [Register new case in MyCase, including the supervisors
+    table.cell(x: 0, y: 1, rowspan: 6)[*Preparation*],
+    [1.3], [Submit thesis topic form in GEO2022 website], [Student],
+    table.cell(x: 1, y: 2, rowspan: 2)[1.8--2.2], [Register new case in MyCase, including the supervisors
     and the planning in weeks], [Student],
-    [], [], [Check entry requirements], [Faculty administration],
-    [], [2.5], [Approve supervision team], [Responsible supervisor],
-    [], [2.6], [Register delegate by BoE], [MyCase faculty administration],
-    [], [2.7], [Schedule Kick-off via the registration page on the GEO2022 website\*], [Responsible supervisor],
-    [*Kick-off*], [2.8--2.9], [Upload graduation plan, human
+    [Check entry requirements], [Faculty administration],
+    [2.5], [Approve supervision team], [Responsible supervisor],
+    [2.6], [Register delegate by BoE], [MyCase faculty administration],
+    [2.7], [Schedule Kick-off via the registration page on the GEO2022 website\*], [Responsible supervisor],
+    table.cell(x: 0, y: 7, rowspan: 3)[*Kick-off*],
+    [2.8--2.9], [Upload graduation plan, human
     participation (see @app:ethics), external party and confidentiality
     agreement, and submit 'Ready for Kick-off' task in MyCase], [Student],
-    [], [2.9--2.10], [Kick-off assessment], [Student, supervisors and
+    table.cell(x: 1, y: 8, rowspan: 2)[2.9--2.10], [Kick-off assessment], [Student, supervisors and
     delegate],
-    [], [], [Submit result and feedback in MyCase], [Responsible supervisor],
-    [*Midterm*], [3.9--4.0], [Midterm assessment], [Student and supervisors],
-    [], [], [Upload midterm materials, and
+    [Submit result and feedback in MyCase], [Responsible supervisor],
+    table.cell(x: 0, y: 10, rowspan: 4)[*Midterm*],
+    table.cell(x: 1, y: 10, rowspan: 3)[3.9--4.0], [Midterm assessment], [Student and supervisors],
+    [Upload midterm materials, and
     submit 'Ready for Midterm' task in MyCase], [Student],
-    [], [], [Submit result and feedback in MyCase], [Responsible
+    [Submit result and feedback in MyCase], [Responsible
     supervisor],
-    [], [4.2], [Register the Green-light date via the registration page on the GEO2022 website and the Finalisation date in SuperSaaS\*], [Responsible supervisor],
-    [*Green-light*], [4.3--4.4], [Check study progress, upload draft
+    [4.2], [Register the Green-light date via the registration page on the GEO2022 website and the Finalisation date in SuperSaaS\*], [Responsible supervisor],
+    table.cell(x: 0, y: 14, rowspan: 5)[*Green-light*],
+    table.cell(x: 1, y: 14, rowspan: 2)[4.3--4.4], [Check study progress, upload draft
     graduation report, submit diploma application with final title
     and submit 'Ready for Green-light' task in MyCase, and upload
     draft graduation report in plagiarism scan in Brightspace], [Student],
-    [], [], [Check graduation requirements], [Student programme
+    [Check graduation requirements], [Student programme
     administration],
-    [], [4.4--4.5], [Check for plagiarism], [Responsible supervisor],
-    [], [], [Green-light assessment], [Student, supervisors and
+    table.cell(x: 1, y: 16, rowspan: 3)[4.4--4.5], [Check for plagiarism], [Responsible supervisor],
+    [Green-light assessment], [Student, supervisors and
     delegate],
-    [], [], [Submit result and feedback in MyCase], [Responsible
+    [Submit result and feedback in MyCase], [Responsible
     supervisor],
-    [*Finalisation*], [4.10--5.1], [Upload finalisation presentation
+    table.cell(x: 0, y: 19, rowspan: 3)[*Finalisation*],
+    [4.10--5.1], [Upload finalisation presentation
     and submit 'Ready for finalisation' task in MyCase, upload
     graduation report and finalisation presentation in repository], [Student],
-    [], [5.1], [Finalisation assessment], [Student, supervisors,
+    table.cell(x: 1, y: 20, rowspan: 2)[5.1], [Finalisation assessment], [Student, supervisors,
     co-reader and delegate],
-    [], [], [Upload final grade], [Responsible supervisor],
+    [Upload final grade], [Responsible supervisor],
   )
   
 
