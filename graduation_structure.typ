@@ -43,7 +43,6 @@ Please be aware that there are deadlines for the registration for each assessmen
 For the academic year 2026--2027, this implies the following weeks and deadlines, as registered in the Geomatics graduation calendar:
 
 #figure(image("figs/calendar.svg"))
-#todo[Update calendar once it's final.]
 
 == Retakes <retakes>
 All assessments are offered in every quarter.

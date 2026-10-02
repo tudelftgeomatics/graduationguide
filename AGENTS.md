@@ -19,7 +19,7 @@ Releases are tagged `YYYY.YYYY` (e.g. `2025.2026`) and the compiled PDF is attac
 - `*.typ` (root) — main-matter chapters, included in order: `graduation_structure`, `supervisory_team`, `scientific_approach`, `feedback_assessment`.
 - `appendices/*.typ` — back-matter appendices, included in order from `main.typ`.
 - `past years/` — PDFs of previous editions (e.g. `GraduationManualGeomatics2024-2025.pdf`, `gm_gg_2526.pdf`), kept for reference; not part of the build.
-- `figs/` — images referenced by `#figure(image("figs/..."))`. `gm_structure.afdesign` is the editable source for `gm_structure.pdf` (Affinity Designer, not build-tooling). `calendar.svg` is a draft render of the BK academic graduation calendar.
+- `figs/` — images referenced by `#figure(image("figs/..."))`. `gm_structure.afdesign` is the editable source for `gm_structure.pdf` (Affinity Designer, not build-tooling). `calendar.svg` is the 2026-2027 Geomatics graduation calendar.
 
 ## Cross-references
 
@@ -48,4 +48,3 @@ Standardize on the hyphenated form "Green-light" (not "Green light"). The renami
 - UK English spelling (TU Delft convention).
 - `#todo[...]` markers (from `dashy-todo`) are rendered inline in the PDF — do not leave them in committed content.
 - `figs/gm_structure.pdf` was exported from the editable `gm_structure.afdesign`. If the diagram changes, edit `gm_structure.afdesign` and re-export the PDF; do not hand-edit the existing PDF.
-- `figs/calendar.svg` is currently a draft render of the 2026-2027 BK academic graduation calendar. Replace it with the final calendar (rendered from the BK PDF) once available; `graduation_structure.typ` carries a `#todo` for this.
