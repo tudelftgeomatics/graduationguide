@@ -28,7 +28,7 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Done by the responsible supervisor in SuperSaaS #todo[Do we use SuperSaaS?]. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
+    [Planning], [Done by the responsible supervisor in the GEO2022 website],
     [Location], [Room booked by responsible supervisor],
     [Deliverables], [Graduation plan],
     [Assessment method], [Rubric],
@@ -55,7 +55,7 @@
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Go_: the student proceeds towards the Midterm
-      - _No-go_: the student agrees a new Kick-off date for the next Kick-off period with the supervisors; the responsible supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]
+      - _No-go_: the student agrees a new Kick-off date for the next Kick-off period with the supervisors; registration is done by the responsible supervisor in the GEO2022 website
       - _Withdrawal_: same as for no-go. 
     ],
     [Assessment registration], [The feedback and assessment ('Go' or 'No-go') is registered in MyCase by the responsible supervisor], 
@@ -108,7 +108,7 @@
     //--
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
-    [Planning], [Day and time slot reservation (see @app:time-slots) made by responsible supervisor after the Midterm #todo[is there a deadline?]],
+    [Planning], [Day and time slot reservation (see @app:time-slots) is done by the responsible supervisor in the GEO2022 website],
     [Location], [Room booked by scheduling department],
     [Deliverables], [A complete draft thesis and a presentation],
     [Assessment method], [Rubric],
@@ -139,7 +139,7 @@
     table.cell([], fill: green.lighten(80%)),
     [Assessment result], [
       - _Go_: the student proceeds towards the Finalisation
-      - _No-go_: the student agrees a new Green-light date for the next Green-light period with the supervisors; the responsible supervisor makes a reservation in the SuperSaaS registration programme. If not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
+      - _No-go_: the student agrees a new Green-light date for the next Green-light period with the supervisors; registration is done by the responsible supervisor in the GEO2022 website
       - _Withdrawal_: same as for no-go.  
     ],
     [Assessment registration], [The feedback and assessment ('go' or 'no-go') is registered in MyCase by the responsible supervisor],
@@ -156,7 +156,7 @@
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Planning], [Day and time slot reservation (see @app:time-slots) made by responsible supervisor after the Midterm#todo[or after Green-light?]],
-    [Location], [Room booked by scheduling department#todo[we need to know how!]],
+    [Location], [Room booked by the responsible supervisor in SuperSaaS; if not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
     [Deliverables], [Presentation],
     [Assessment method], [Rubric],
     [Actions student], [

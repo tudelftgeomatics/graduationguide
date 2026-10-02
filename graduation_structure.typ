@@ -54,10 +54,11 @@ If a 'no-go' is given, the Kick-off can be done again in the next quarter.
 The same applies to the Green-light, where the supervisors give a 'go' to proceed to the public Finalisation at least 4 weeks later; if the requirements are not met, the consequent 'no-go' results in a retake of the Green-light in the next quarter.
 
 == Preparation <preparation>
-For planning purposes, the faculty uses the #emph[SuperSaaS] tool, which can be accessed by the student's supervisors. #todo[Do we use SuperSaaS?]
-It is the responsibility of the responsible supervisor to schedule the student's Kick-off, Green-light, and Finalisation assessments, in the standard time slots (see @app:time-slots), before the deadlines in the Geomatics graduation calendar. 
-This makes it possible to have a room for the assessment, as well as for your supervisors, co-reader and delegate to record a timely reservation in their agenda. 
-If dates need to be changed, or if dates in SuperSaaS are not available for the quarter, this should be resolved within the supervisory team and communicated to the coordinator of the Geomatics Graduation Studio.
+The Kick-off and Green-light assessments are scheduled by the responsible supervisor in the GEO2022 website.
+The Finalisation is scheduled by the responsible supervisor via the #emph[SuperSaaS] tool; if not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
+All assessments are scheduled in the standard time slots (see @app:time-slots), before the deadlines in the Geomatics graduation calendar. 
+This makes it possible to have a room for the assessment, as well as for the student, supervisors, co-reader and delegate to record a timely reservation in their agenda. 
+If the reserved time slot needs to be changed, this should be done by communicating with the coordinator of the Geomatics Graduation Studio (for the Kick-off and Green-light) and by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl] (for the Finalisation).
 
 For registering the graduation process, the faculty uses the #emph[MyCase] registration tool (see @app:mycase). 
 It is the student's task to start their own 'graduation case'. 
