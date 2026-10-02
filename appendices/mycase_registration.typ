@@ -28,9 +28,9 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     [], [2.9--2.10], [Kick-off assessment], [Student, supervisors and
     delegate],
     [], [], [Submit result and feedback in MyCase], [Responsible supervisor],
-    [*Midterm*], [3.8--3.9], [Upload midterm materials, and
+    [*Midterm*], [3.9--4.0], [Midterm assessment], [Student and supervisors],
+    [], [], [Upload midterm materials, and
     submit 'Ready for Midterm' task in MyCase], [Student],
-    [], [3.9--4.0], [Midterm assessment], [Student and supervisors],
     [], [], [Submit result and feedback in MyCase], [Responsible
     supervisor],
     [], [4.2], [Register the Green-light date via the registration page on the GEO2022 website and the Finalisation date in SuperSaaS\*], [Responsible supervisor],
