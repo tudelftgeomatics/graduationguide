@@ -2,7 +2,7 @@
 
 = Time slots <app:time-slots>
 
-The Kick-off, Green-light, and Finalisation assessments are scheduled in the standard time slots below, so that a room can be booked and the members of the thesis committee can reserve the time in their agendas.
+The Kick-off, Green-light, and Finalisation assessments are scheduled in the standard time slots below, so that a room can be booked and the student, the supervisory team and the delegate can reserve the time in their agendas.
 
 #table(
   columns: (1fr, 1fr, 1fr),

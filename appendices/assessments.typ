@@ -179,8 +179,8 @@
     [Schedule], [
       - 20 min: presentation by student
       - 25 min: questions by co-reader, second supervisor, and responsible supervisor (in that order)
-      - 10 min: deliberation by thesis committee feedback 
-      - 10 min: private session with student where committee members explain the final grade
+      - 10 min: deliberation
+      - 10 min: private session with the student where the supervisory team explains the final grade
       - 10 min: laudation of the candidate and signing of the diploma
     ],
     [Assessors], [Responsible supervisor, second supervisor, and co-reader],

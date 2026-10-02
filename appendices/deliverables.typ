@@ -41,7 +41,7 @@ The goal of this presentation is to demonstrate that the thesis work is complete
 
 == Finalisation presentation <finalisation-presentation>
 
-The Finalisation presentation is a formal assessment where the student presents the complete findings of their MSc thesis to the thesis committee and fellow Geomatics students. 
+The Finalisation presentation is a formal assessment where the student presents the complete findings of their MSc thesis to the supervisory team and fellow Geomatics students.
 The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 
 The presentation can be based on the Green-light presentation, but adapted to an audience of fellow Geomatics students who are technically proficient but have not read the thesis. 
