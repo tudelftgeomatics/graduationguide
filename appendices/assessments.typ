@@ -29,7 +29,7 @@
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Planning], [Done by the responsible supervisor in the GEO2022 website before the deadline in the Geomatics graduation calendar],
-    [Location], [Room booked by graduation coordinator],
+    [Location], [Room booked by the responsible supervisor],
     [Deliverables], [Graduation plan],
     [Assessment method], [Rubric],
     [Actions student], [
@@ -109,7 +109,7 @@
     table.cell([*Preparation*], fill: green.lighten(80%)),
     table.cell([], fill: green.lighten(80%)),
     [Planning], [Day and time slot reservation (see @app:time-slots) is done by the responsible supervisor in the GEO2022 website before the deadline in the Geomatics graduation calendar],
-    [Location], [Room booked by graduation coordinator],
+    [Location], [Room booked by the responsible supervisor],
     [Deliverables], [A draft thesis and a presentation],
     [Assessment method], [Rubric],
     [Actions student], [
