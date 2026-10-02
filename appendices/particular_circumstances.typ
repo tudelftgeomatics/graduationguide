@@ -39,17 +39,14 @@ If unexpectedly this does not succeed, the member of the Board of Examiners will
 
 The plagiarism scan on graduation documents is implemented for all graduating students, to guarantee the authenticity of the graduation work. 
 For this, the *Turnitin* tool in Brightspace is used. 
-The tool will make it easier for the student and supervisors to check the work of a student on originality and plagiarism. 
-The supervisors and delegates will be enrolled by Education and Student Affairs in the Plagiarism Brightspace course. 
-The student has the possibility to upload provisional versions of their document as often as desired for plagiarism feedback, only meant for the student. 
-The draft version of the MSc thesis for the Green-light will be submitted in the final version folder of the plagiarism scan, at the latest one week before the Green-light. 
-The final submission folder will only allow one submission for each student and the plagiarism feedback will only be visible for the supervisors. 
-It is the responsibility of the responsible supervisor to determine whether the results of the plagiarism scan in the final folder are an indication of actual plagiarism. 
-In all cases, suspicion of plagiarism or not, the responsible supervisor should share the findings with the student and the second supervisor at the Green-light. 
+The student can upload provisional versions of their document as often as desired to check them for originality. 
+One week before the Green-light and Finalisation presentations, the draft and final versions of the MSc thesis must be uploaded by the student in order for them to be scanned.
+It is the responsibility of the responsible supervisor to determine whether the results of the plagiarism scan are an indication of actual plagiarism. 
+If there is a suspicion of plagiarism, the responsible supervisor should share the findings with the student, the second supervisor and co-reader at the Green-light and Finalisation. 
 If there is a suspicion of intentional plagiarism, the responsible supervisor should discuss this with the student and notify the Board of Examiners afterwards.
 
 In addition to the plagiarism scan, the coordinator of the Geomatics Graduation Studio performs a check for fake/hallucinated references on all graduation reports. 
 The student does not need to take any extra action: the check runs on the deliverables that are already submitted to MyCase. 
-It is then the responsibility of the responsible supervisor to review the findings and discuss them with the student if needed, following the same procedure as for the plagiarism scan.
+It is then the responsibility of the responsible supervisor to review the findings and discuss them with the student, the second supervisor and co-reader if needed, following the same procedure as for the plagiarism scan.
 
 Remember that all use of LLMs/AI tools must be clearly documented in the student's thesis, see @use-of-ai-llm.

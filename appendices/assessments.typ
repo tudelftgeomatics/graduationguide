@@ -1,5 +1,8 @@
 #import "../template/bubble.typ": *
 
+// keep the label/value rows of the assessment tables whole across page breaks
+#show table.cell: set block(breakable: false)
+
 = Assessments <app:assessments>
 
 == Preparation
@@ -22,7 +25,7 @@
 #table(
     columns: 2,
     align: (left,left),
-    [Admission requirements], [The student must have obtained 45 ECTS from 9 out of the 10 mandatory courses of the first year of the programme, and have obtained 15 out of the 25 ECTS from the electives by the time of the Kick-off.],
+    [Admission requirements], [The student must have obtained 45 ECTS from 9 out of the 10 mandatory courses, and have obtained 15 out of the 25 ECTS from the electives by the time of the Kick-off.],
     table.hline(),
     [Period], [In fixed weeks, once per quarter],
     //--
@@ -159,14 +162,14 @@
     table.cell([], fill: green.lighten(80%)),
     [Planning], [Day and time slot reservation (see @app:time-slots) made by responsible supervisor in SuperSaaS before the deadline in the Geomatics graduation calendar; if SuperSaaS is not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl]],
     [Location], [Room booked by the scheduling department],
-    [Deliverables], [Presentation],
+    [Deliverables], [Final thesis and presentation],
     [Assessment method], [Rubric],
     [Actions student], [
       - Revise the thesis based on the feedback received at the Green-light
       - Upload final thesis to MyCase (1 week before the presentation;
         unless the responsible supervisor agrees otherwise)
       - Perform the plagiarism scan in Brightspace
-      - Upload final thesis to the TU Delft repository (1 day before the presentation)
+      - Upload final thesis and finalisation presentation to the TU Delft repository (1 day before the presentation)
       - Prepare presentation
     ],
     [Actions supervisors and co-reader], [Send their tentative marks to the delegate before the session],

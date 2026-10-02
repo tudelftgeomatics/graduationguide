@@ -71,4 +71,3 @@
 #include "appendices/ethics_checklist.typ"
 #pagebreak()
 #include "appendices/final_attainment.typ"
-#pagebreak()

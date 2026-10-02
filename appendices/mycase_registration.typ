@@ -34,10 +34,10 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     [], [], [Submit result and feedback in MyCase], [Responsible
     supervisor],
     [], [4.2], [Register the Green-light date via the registration page on the GEO2022 website and the Finalisation date in SuperSaaS\*], [Responsible supervisor],
-    [*Green-light*], [4.3--4.4], [Check study progress, upload
-    graduation report, submit diploma application (with final title!)
+    [*Green-light*], [4.3--4.4], [Check study progress, upload draft
+    graduation report, submit diploma application with final title
     and submit 'Ready for Green-light' task in MyCase, and upload
-    graduation report in plagiarism scan in Brightspace], [Student],
+    draft graduation report in plagiarism scan in Brightspace], [Student],
     [], [], [Check graduation requirements], [Student programme
     administration],
     [], [4.4--4.5], [Check for plagiarism], [Responsible supervisor],
