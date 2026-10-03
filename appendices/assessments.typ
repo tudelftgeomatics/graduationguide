@@ -42,7 +42,11 @@
         responsible supervisor agrees otherwise)
       - Prepare presentation
     ],
-    [Actions supervisors], [Read Graduation Plan before the start of Kick-off],
+    [Actions supervisors], [
+      - Book a room
+      - Make a calendar invite where the student, supervisors, and delegate are informed of time/room.
+      - Read Graduation Plan before the start of Kick-off
+    ],
     //--
     table.header(repeat: false,
       table.cell([*At the session*], fill: green.lighten(80%)),
@@ -135,6 +139,8 @@
       - Prepare presentation 
     ],
     [Actions supervisors], [
+      - Book a room
+      - Make a calendar invite where the student, supervisors, and delegate are informed of time/room.
       - Read the draft MSc thesis,
       - Check if and how student implemented advice/feedback from the Midterm.
     ],
