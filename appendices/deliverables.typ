@@ -21,7 +21,7 @@ The student can assume that the audience (the supervisory team) has read the gra
 The goal of this presentation is to demonstrate that the plan is well-founded and feasible, so that the supervisory team can take the 'go' or 'no-go' decision on proceeding to the Midterm.
 
 
-== Final thesis template (Green-light + finalisation)
+== Final thesis template (Green-light + Finalisation)
 
 There is no official template and you are allowed to use the software and structure that you want (after approval of your supervisor).
 
