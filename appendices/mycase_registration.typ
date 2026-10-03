@@ -34,9 +34,9 @@ If a student starts their thesis in Q3, +1 should be added to the weeks mentione
     delegate],
     [Submit result and feedback in MyCase], [Responsible supervisor],
     table.cell(x: 0, y: 10, rowspan: 4)[*Midterm*],
-    table.cell(x: 1, y: 10, rowspan: 3)[3.8--3.9], [Midterm assessment], [Student and supervisors],
-    [Upload midterm materials, and
+    table.cell(x: 1, y: 10, rowspan: 3)[3.8--3.9], [Upload midterm materials, and
     submit 'Ready for Midterm' task in MyCase], [Student],
+    [Midterm assessment], [Student and supervisors],
     [Submit result and feedback in MyCase], [Responsible
     supervisor],
     [4.2], [Schedule the Green-light and register it in the GEO2022 website and register a date/time slot for the Finalisation date in SuperSaaS\*], [Responsible supervisor],
@@ -64,5 +64,5 @@ If a student starts their thesis in Q3, +1 should be added to the weeks mentione
 
 #clue(title: "Information", header-color: yellow.lighten(80%))[
   \*If a student does not follow the standard on-time path (Q2-Q4), the #emph[SuperSaaS] tool might not be available.
-  In such cases, Kick-off/Green-light/Finalisation should be planned by sending an email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
+  In such cases, the Finalisation should be planned by sending an email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
 ]

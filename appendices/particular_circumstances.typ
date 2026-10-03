@@ -3,7 +3,7 @@
 == Quorum at formal assessments
 <quorum-at-formal-assessments>
 
-A quorum is required for each assessment to be valid, it is as follows:
+A quorum is required for each assessment to be valid; it is as follows:
 
 #table(
   columns: (3cm, 27mm, 27mm, 27mm, 27mm),

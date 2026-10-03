@@ -5,7 +5,7 @@
 #show: bubble.with(
   title: "Graduation Guide",
   subtitle: "MSc Geomatics for the Built Environment",
-  year: [v2026--2027],
+  year: [v2026--2027 (draft)],
   logo: image("figs/tudlogo.svg"),
   main-color: "#1a5518",
   faculty: "Faculty of Architecture and the Built Environment",
