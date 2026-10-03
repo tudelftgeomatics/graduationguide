@@ -8,7 +8,7 @@ The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesi
 
 It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started at the beginning of any quarter.
 
-Note, however, that the thesis topic selection already takes place in Q1 (to ensure that the work starts on the first day of Q2), and the Finalisation presentation might take place in week 5.1, the first week of the summer period (see the standard planning in @app:mycase).
+Note, however, that the thesis topic selection already takes place in Q5 (to ensure that the work starts on the first day of Q6), and the Finalisation presentation might take place in week 5.1, the first week of the summer period after Q8 (see the standard planning in @app:mycase).
 
 #figure(image("figs/gm_structure.pdf"))
 
@@ -67,18 +67,19 @@ MyCase is used for the registration of assessment dates, submission of the deliv
 Moreover, the names of the supervisors, co-reader and delegate, and the progress and assessment results are registered in this application. After each assessment, the responsible supervisor completes the assessment (see @chap:feedback and @app:rubrics).
 
 
-== Final marks and cum laude <final-marks>
-The marks for the graduation project (GEO2022) are decided at the Finalisation milestone, and are decided by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
+== Final grades and cum laude <final-marks>
+The grades for the graduation project (GEO2022) are decided at the Finalisation milestone, and are decided by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
 
 Based on the results gained for the courses in the Master's Programme and the final thesis, the student can be awarded a cum laude distinction. 
 A student will receive this if all of the following requirements are met:
 
-+ The weighted average of the grades of the courses, not including the graduation project, must be at least 8.0 (exemptions ("VR" in OSIRIS) will not be taken into consideration; no more than 20 ECTS may be completed with an exemption);
++ The weighted average of the grades of the courses, not including the graduation project, must be at least 8.0; only the 120 ECTS of the programme are used in the calculation, and passes ("V" in OSIRIS) and exemptions ("VR" in OSIRIS) are not taken into consideration;
++ No more than 20 ECTS in total may be completed with a pass ("V" in OSIRIS) or an exemption ("VR" in OSIRIS); courses taken during an exchange semester and assessed as pass/fail are not counted towards this maximum;
 + No courses may be completed after a repair resulting in a 'pass';
 + The final grade of the graduation project must be at least 8.5;
-+ The study duration cannot exceed the nominal study duration plus one semester.
++ The study duration cannot exceed the nominal study duration plus one semester, taking into account study delays covered by the TU Delft Student Support Fund Scheme.
 
-For students who do not meet all criteria above, especially the fourth, for instance because they were enrolled as a student in a specific semester but did not participate in any course or examination in that semester, an exemption may apply. 
+For students who do not meet all criteria above, especially the fifth, for instance because they were enrolled as a student in a specific semester but did not participate in any course or examination in that semester, an exemption may apply. 
 This should be arranged before the Green-light application date (by sending a request by email to the Board of Examiners: #link("mailto:BoardofExaminers-BK@tudelft.nl")[BoardofExaminers-BK\@tudelft.nl]).
 
 == Ethics <ethics>

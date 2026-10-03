@@ -125,6 +125,7 @@ If you have answered 'no' to all questions 4 to 13, your project is likely to be
 
 If you have answered 'yes' to one or more of the questions 4 to 13, your research likely involves extended or high risks to participants, according to the #link("https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/AVG-Principes.aspx")[General Data Protection Regulation] (GDPR) and TU Delft’s privacy and ethical policies: for information regarding such projects, see the paragraph 'Projects with extended or high-risk' on the next pages.
 
+#block(breakable: false)[
 *Projects with minimal or low-risk*
 
 If you have answered 'no' to questions 4 to 13, your project is likely
@@ -134,6 +135,7 @@ by the student and supervisor in the application to the
 #link("https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application")[Human Research Ethics Committee]
 (HREC) within the timeline for a graduation project and without need for
 additional support.
+]
 
 Compiling the HREC application: \
 An application to the HREC generally involves a Data Management Plan
@@ -225,7 +227,6 @@ other necessary support staff will need to be contacted. Crucially, if
 the project involves one or multiple ways of personal data processing
 that could result in high-risk to the participants according to the
 GDPR, the TU Delft Privacy Team must
-
 be consulted to establish whether or not a
 #link("https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/DPIA.aspx?web=1")[Data Protection Impact Assessment]
 (DPIA) is required.

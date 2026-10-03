@@ -1,13 +1,16 @@
 #import "../template/bubble.typ": *
 
+// keep the rows of the schedule table whole across page breaks
+#show table.cell: set block(breakable: false)
+
 = MyCase registration <app:mycase>
 
 As explained in @chap:graduation-structure, _MyCase_ is used as the system to track the graduation progress of each student. 
 All information about the graduation (general information and planning, stakeholders, documentation and assessment) is collected in this system. 
 
-The table below serves as a chronological overview of all tasks and responsibilities for students who start their thesis in Q1 (which is the standard/default case).
+The table below serves as a chronological overview of all tasks and responsibilities for students who start their thesis in Q2 (which is the standard/default case).
 
-If a student starts their thesis in Q2, +1 should be added to the weeks mentioned in the table; as an example the submission of the topic should be done before week 2.3 and the MyCase registration should be done weeks 2.8--3.2.
+If a student starts their thesis in Q3, +1 should be added to the weeks mentioned in the table; as an example the submission of the topic should be done before week 2.3 and the MyCase registration should be done weeks 2.8--3.2.
 
   #table(
     columns: 4,
@@ -31,7 +34,7 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     delegate],
     [Submit result and feedback in MyCase], [Responsible supervisor],
     table.cell(x: 0, y: 10, rowspan: 4)[*Midterm*],
-    table.cell(x: 1, y: 10, rowspan: 3)[3.9--4.0], [Midterm assessment], [Student and supervisors],
+    table.cell(x: 1, y: 10, rowspan: 3)[3.8--3.9], [Midterm assessment], [Student and supervisors],
     [Upload midterm materials, and
     submit 'Ready for Midterm' task in MyCase], [Student],
     [Submit result and feedback in MyCase], [Responsible
