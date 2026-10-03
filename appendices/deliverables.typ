@@ -10,7 +10,7 @@ The graduation plan template (Kick-off) is available in two formats:
 / Typst: #link("https://typst.app/project/rxxc6SF4azqbGIOgdoRANf").
 / LaTeX: #link("https://gist.github.com/hugoledoux/d16d5a4d397858ac745e38f9e8561657").
 
-But you are allowed to use other formats like Word or InDesign if you want. 
+Other formats such as Word or InDesign are also allowed.
 
 
 == Kick-off presentation <kick-off-presentation>
@@ -23,9 +23,9 @@ The goal of this presentation is to demonstrate that the plan is well-founded an
 
 == Final thesis template (Green-light + Finalisation)
 
-There is no official template and you are allowed to use the software and structure that you want (after approval of your supervisor).
+There is no official template, and students are allowed to use the software and structure of their choice (after approval of their supervisor).
 
-We recommend using the following templates, but you are free to use other formats like Word or InDesign if you prefer.
+We recommend the following templates, but other formats such as Word or InDesign are also acceptable.
 
 / Typst: #link("https://github.com/tudelft3d/msc_geomatics_thesis_typst").
 / LaTeX: #link("https://github.com/tudelft3d/msc_geomatics_thesis_template").
@@ -33,15 +33,15 @@ We recommend using the following templates, but you are free to use other format
 
 == Green-light presentation <green-light-presentation>
 
-The Green-light presentation is a technical 20-minute presentation of the main findings of the draft MSc thesis, it contains a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
+The Green-light presentation is a technical 20-minute presentation of the main findings of the draft MSc thesis. It contains a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 The student can assume that the audience has read the draft MSc thesis and is familiar with the research questions and methodology.
 
-The goal of this presentation is to demonstrate that the thesis work is complete and of sufficient quality to proceed to the final public defense (the Finalisation).
+The goal of this presentation is to demonstrate that the thesis work is complete and of sufficient quality to proceed to the final public defence (the Finalisation).
 
 
 == Finalisation presentation <finalisation-presentation>
 
-The Finalisation presentation is a formal assessment where the student presents the complete findings of their MSc thesis to the supervisory team and fellow Geomatics students.
+In the Finalisation presentation, the student formally presents the complete findings of their MSc thesis to the supervisory team and fellow Geomatics students.
 The content is a technical summary of the entire graduation report, covering the research questions, methodology, results, and conclusions.
 
 The presentation can be based on the Green-light presentation, but adapted to an audience of fellow Geomatics students who are technically proficient but have not read the thesis. 

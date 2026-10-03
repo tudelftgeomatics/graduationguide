@@ -58,7 +58,7 @@ The same applies to the Green-light, where the supervisors give a 'go' to procee
 The Kick-off and Green-light assessments are scheduled by the responsible supervisor in the GEO2022 website.
 The Finalisation is scheduled by the responsible supervisor via the #emph[SuperSaaS] tool; if not available, by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl].
 All assessments are scheduled in the standard time slots (see @app:time-slots), before the deadlines in the Geomatics graduation calendar. 
-This makes it possible to have a room for the assessment, as well as for the student, supervisors, co-reader and delegate to record a timely reservation in their agenda. 
+This makes it possible to reserve a room for the assessment, and gives the student, supervisors, co-reader and delegate time to record the appointment in their agendas.
 If the reserved time slot needs to be changed, this should be done by communicating with the coordinator of the Geomatics Graduation Studio (for the Kick-off and Green-light) and by email to #link("mailto:graduation-bk@tudelft.nl")[graduation-bk\@tudelft.nl] (for the Finalisation).
 
 For registering the graduation process, the faculty uses the #emph[MyCase] registration tool (see @app:mycase). 
@@ -68,7 +68,7 @@ Moreover, the names of the supervisors, co-reader and delegate, and the progress
 
 
 == Final grades and cum laude <final-marks>
-The grades for the graduation project (GEO2022) are decided at the Finalisation milestone, and are decided by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
+The grades for the graduation project (GEO2022) are decided at the Finalisation milestone by the two supervisors and the co-reader: the supervisors assess the research, process, and communication criteria of the rubric, while the co-reader assesses the research and communication criteria only (see @app:rubrics and @chap:supervision).
 
 Based on the results gained for the courses in the Master's Programme and the final thesis, the student can be awarded a cum laude distinction. 
 A student will receive this if all of the following requirements are met:

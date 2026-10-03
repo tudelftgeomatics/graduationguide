@@ -23,9 +23,9 @@ The graduation report and all presentations must be in English.
 
 == Use of AI and LLMs in the graduation project <use-of-ai-llm>
 
-The use of AI tools and large language models (LLMs) is generally allowed in the graduation project as a learning and research aid, for example for brainstorming, explaining concepts, checking grammar and style, reviewing the literature, or supporting data analysis and programming. However, AI should not replace learning or critical thinking: AI-generated output can be plausible-sounding but incorrect, biased or fabricated, so you should always critically evaluate it. You remain personally and fully responsible for all the work you submit, including anything produced with the help of AI, and you must be able to explain, defend and reproduce the substance of your work — and, for the thesis in particular, to independently defend all scientific content and contributions.
+The use of AI tools and large language models (LLMs) is generally allowed in the graduation project as a learning and research aid, for example for brainstorming, explaining concepts, checking grammar and style, reviewing the literature, or supporting data analysis and programming. However, AI should not replace learning or critical thinking: AI-generated output can be plausible-sounding but incorrect, biased or fabricated, so the student should always critically evaluate it. The student remains personally and fully responsible for all the work they submit, including anything produced with the help of AI, and must be able to explain, defend and reproduce the substance of their work — and, for the thesis in particular, to independently defend all scientific content and contributions.
 
-If AI has been used in any part of the project, the graduation plan and/or the graduation report must include an AI disclosure statement describing what tools were used, how they were used, and to what extent, along with a short reflection. The detailed requirements are set out in the #link("https://geomatics.bk.tudelft.nl/ai/")[Geomatics Policy for the use of AI/LLM], and the MSc Geomatics thesis template provides an appendix to help you write the statement. Failure to disclose the use of AI is itself treated as a violation of the policy and may be regarded as fraud.
+If AI has been used in any part of the project, the graduation plan and/or the graduation report must include an AI disclosure statement describing what tools were used, how they were used, and to what extent, along with a short reflection. The detailed requirements are set out in the #link("https://geomatics.bk.tudelft.nl/ai/")[Geomatics Policy for the use of AI/LLM], and the MSc Geomatics thesis template provides an appendix to help the student write the statement. Failure to disclose the use of AI is itself treated as a violation of the policy and may be regarded as fraud.
 
 == Graduation plan (Kick-off) structure
 <graduation-plan-structure>
@@ -45,12 +45,12 @@ The graduation plan is a project proposal that must contain the following elemen
 + #strong[Research questions] that are clearly defined, along with the
   scope (i.e. what the student will and will not be doing);
 + Overview of the proposed #strong[methodology] to be used;
-+ Overview of #strong[preliminary results] (if applicable, discuss with
-  your supervisors);
-+ #strong[Time planning]—having a Gantt chart is probably a better idea
-  than just a list;
-+ Since specific #strong[data and tools] have to be used, it's good to
-  present these concretely, so that the supervisors know that you have a
++ Overview of #strong[preliminary results] (if applicable, to be discussed with
+  the supervisors);
++ #strong[Time planning] — a Gantt chart is generally preferable to a
+  simple list;
++ Since specific #strong[data and tools] have to be used, these should be
+  presented concretely, so that the supervisors can see that the student has a
   grasp of all aspects of the project;
 + The #strong[references]. Every reference must include a clickable DOI or URL, so that sources can be accessed directly from the document.
 
@@ -63,7 +63,7 @@ If AI tools or large language models (LLMs) have been used for any part of the w
 == Graduation report (Green-light and Finalisation) structure
 <graduation-report-structure>
 
-The exact structure of the thesis, or graduation report, will depend on the type of work that is involved and should be discussed with your responsible supervisor.
+The exact structure of the thesis, or graduation report, will depend on the type of work that is involved and should be discussed with the student's responsible supervisor.
 
 We describe potential structures and provide templates at #link("https://geomatics.bk.tudelft.nl/geo2022/templates/").
 

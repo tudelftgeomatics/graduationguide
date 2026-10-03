@@ -158,8 +158,8 @@ Additional support \
 For low-risk student graduation projects, compiling of the HREC
 application documents should be done by the student in consultation with
 the supervisor. The Faculty Data Steward can be contacted for individual
-questions #link("mailto:datasteward-BK%40tudelft.nl?subject=")[at]
-#link("mailto:datasteward-BK%40tudelft.nl?subject=")[datasteward-BK\@tudelft.nl]
+questions at
+#link("mailto:datasteward-BK%40tudelft.nl?subject=")[datasteward-BK\@tudelft.nl]\;
 however, the Data Steward does not provide detailed feedback on student
 DMPs for low-risk HREC applications.
 
