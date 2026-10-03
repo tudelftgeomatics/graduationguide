@@ -11,11 +11,11 @@
 #table(
   columns: (25%, 75%),
   align: (left, left),
-  [Period], [Every quarter this can be done, ask the coordinator of GEO2022],
+  [Period], [In fixed weeks, once per quarter],
   [Actions student], [
-    - Find and agree on a topic with an MSc Geomatics staff member
-    - Write a short summary
-    - Upload the required information to the GEO2022 website
+    - Find and agree on a topic with an MSc Geomatics staff member, who will act as supervisor
+    - Register the student details, topic and supervisor in the GEO2022 website
+    - Create case in MyCase
   ],
 )
 
@@ -33,7 +33,7 @@
       table.cell([*Preparation*], fill: green.lighten(80%)),
       table.cell([], fill: green.lighten(80%)),
     ),
-    [Planning], [Done by the responsible supervisor in the GEO2022 website before the deadline in the Geomatics graduation calendar],
+    [Planning], [Done by the responsible supervisor and registered in the GEO2022 website before the deadline in the Geomatics graduation calendar],
     [Location], [Room booked by the responsible supervisor],
     [Deliverables], [Graduation plan],
     [Assessment method], [Rubric],
@@ -44,7 +44,7 @@
     ],
     [Actions supervisors], [
       - Book a room
-      - Make a calendar invite where the student, supervisors, and delegate are informed of time/room.
+      - Register planning in the GEO2022 website (date, time, room, student details, supervisors and delegate)
       - Read Graduation Plan before the start of Kick-off
     ],
     //--
@@ -89,13 +89,12 @@
     ),
     [Planning], [Done by responsible supervisor],
     [Location], [Room booked by the responsible supervisor],
-    [Deliverables], [A document must be uploaded before the meeting to
+    [Deliverables], [A document must be uploaded to
     MyCase. The form/content of this document is decided by the
     supervisors.],
     [Assessment method], [(none)],
-    [Actions student], [Upload the required document to MyCase (at least 24h before the Midterm)],
     [Actions supervisors], [Responsible supervisor books the room and invites the second supervisor],
-    //--
+    [Actions student], [Upload the required document to MyCase],
     table.header(repeat: false,
       table.cell([*At the session*], fill: green.lighten(80%)),
       table.cell([], fill: green.lighten(80%)),
@@ -129,7 +128,7 @@
       table.cell([*Preparation*], fill: green.lighten(80%)),
       table.cell([], fill: green.lighten(80%)),
     ),
-    [Planning], [Day and time slot reservation (see @app:time-slots) is done by the responsible supervisor in the GEO2022 website before the deadline in the Geomatics graduation calendar],
+    [Planning], [Done by the responsible supervisor and registered in the GEO2022 website before the deadline in the Geomatics graduation calendar],
     [Location], [Room booked by the responsible supervisor],
     [Deliverables], [A draft thesis and a presentation],
     [Assessment method], [Rubric],
@@ -140,8 +139,9 @@
     ],
     [Actions supervisors], [
       - Book a room
-      - Make a calendar invite where the student, supervisors, and delegate are informed of time/room.
-      - Read the draft MSc thesis,
+      - Register planning in the GEO2022 website (date, time, room, student details, supervisors and delegate)
+      - Read the draft MSc thesis
+      - Check results of plagiarism check
       - Check if and how student implemented advice/feedback from the Midterm.
     ],
     //--
@@ -198,7 +198,13 @@
       - Upload final thesis and finalisation presentation to the TU Delft repository (1 day before the presentation)
       - Prepare presentation
     ],
-    [Actions supervisors and co-reader], [Send their tentative marks to the delegate before the session],
+    [Actions supervisors and co-reader], [
+      - Book a date/time slot
+      - Read the final MSc thesis
+      - Check results of plagiarism check
+      - Check if and how student implemented advice/feedback from the Green-light.
+      - Send their tentative marks to the delegate before the session
+    ],
     //--
     table.header(repeat: false,
       table.cell([*At the session*], fill: green.lighten(80%)),

@@ -22,7 +22,7 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     [Check entry requirements], [Faculty administration],
     [2.5], [Approve supervision team], [Responsible supervisor],
     [2.6], [Register delegate by BoE], [MyCase faculty administration],
-    [2.7], [Schedule Kick-off via the registration page on the GEO2022 website\*], [Responsible supervisor],
+    [2.7], [Schedule the Kick-off and register it in the GEO2022 website], [Responsible supervisor],
     table.cell(x: 0, y: 7, rowspan: 3)[*Kick-off*],
     [2.8--2.9], [Upload graduation plan, human
     participation (see @app:ethics), external party and confidentiality
@@ -36,7 +36,7 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     submit 'Ready for Midterm' task in MyCase], [Student],
     [Submit result and feedback in MyCase], [Responsible
     supervisor],
-    [4.2], [Register the Green-light date via the registration page on the GEO2022 website and the Finalisation date in SuperSaaS\*], [Responsible supervisor],
+    [4.2], [Schedule the Green-light and register it in the GEO2022 website and register a date/time slot for the Finalisation date in SuperSaaS\*], [Responsible supervisor],
     table.cell(x: 0, y: 14, rowspan: 5)[*Green-light*],
     table.cell(x: 1, y: 14, rowspan: 2)[4.3--4.4], [Check study progress, upload draft
     graduation report, submit diploma application with final title

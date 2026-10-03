@@ -56,6 +56,7 @@ The rubric below lists the aspects against which the draft report and its presen
 The categories are weighted: Research (50%), Process (20%), Communication (30%) of which Report (18%) and Presentation (12%).
 The supervisors assess all categories, while the co-reader assesses the Research and Communication categories only (see @chap:supervision).
 One grade is given per category; the aspects serve as a checklist to support the judgment.
+Half-point grades may be given; the descriptors are formulated at whole grades, and a half-point grade is judged between the two neighbouring descriptors.
 Grades of 5.75 and higher round up to 6 and count as a pass.
 _(Digital version in PDF and XLSX is available at
 #link("https://geomatics.bk.tudelft.nl/geo2022/rubric/");)_
