@@ -8,7 +8,7 @@ The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesi
 
 It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started at the beginning of any quarter.
 
-Note, however, that the thesis topic selection already takes place in Q1, and the Finalisation presentation might only take place in week 5.1, the first week of the summer period (see the standard planning in @app:mycase).
+Note, however, that the thesis topic selection already takes place in Q1 (to ensure that the work starts on the first day of Q2), and the Finalisation presentation might take place in week 5.1, the first week of the summer period (see the standard planning in @app:mycase).
 
 #figure(image("figs/gm_structure.pdf"))
 
