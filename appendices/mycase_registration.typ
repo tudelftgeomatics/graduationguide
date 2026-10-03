@@ -50,10 +50,10 @@ If a student starts their thesis in Q2, +1 should be added to the weeks mentione
     [Submit result and feedback in MyCase], [Responsible
     supervisor],
     table.cell(x: 0, y: 19, rowspan: 3)[*Finalisation*],
-    [4.10--5.1], [Upload finalisation presentation
+    [4.8--4.10], [Upload finalisation presentation
     and submit 'Ready for finalisation' task in MyCase, upload
     graduation report and finalisation presentation in repository], [Student],
-    table.cell(x: 1, y: 20, rowspan: 2)[5.1], [Finalisation assessment], [Student, supervisors,
+    table.cell(x: 1, y: 20, rowspan: 2)[4.9--5.1], [Finalisation assessment], [Student, supervisors,
     co-reader and delegate],
     [Upload final grade], [Responsible supervisor],
   )
