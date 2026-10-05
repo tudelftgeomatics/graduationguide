@@ -8,14 +8,14 @@ The #emph[Geomatics Graduation Studio] (the graduation phase where the MSc thesi
 
 It normally takes place during the last three quarters of the second Master's year (quarters Q6+Q7+Q8), but it can be started at the beginning of any quarter.
 
-Note, however, that the thesis topic selection already takes place in Q5 (to ensure that the work starts on the first day of Q6), and the Finalisation presentation might take place in week 5.1, the first week of the summer period after Q8 (see the standard planning in @app:mycase).
+Note, however, that the thesis topic selection already takes place in Q5 (to ensure that the work starts on the first day of Q6), and the Finalisation presentation might take place in week 5.1, the first week of the summer period after Q8 (the week numbering follows the calendar in @calendar; see the standard planning in @app:mycase).
 
 #figure(image("figs/gm_structure.pdf"))
 
 
 
 == Admission and milestones <admission-and-milestones>
-To register for the Kick-off, the student must have obtained 45 ECTS from 9 out of the 10 mandatory courses, and have obtained 15 out of the 25 ECTS from the electives by the time of the Kick-off.
+To be admitted to GEO2022, students have to register for the Kick-off. To register for the Kick-off, the student must have obtained 45 ECTS from 9 out of the 10 mandatory courses, and have obtained 15 out of the 25 ECTS from the electives by the time of the Kick-off.
 
 The graduation phase is divided into the following milestones:
 

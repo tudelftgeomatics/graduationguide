@@ -42,10 +42,12 @@
         responsible supervisor agrees otherwise)
       - Prepare presentation
     ],
-    [Actions supervisors], [
+    [Actions responsible supervisor], [
       - Book a room
       - Register planning in the GEO2022 website (date, time, room, student details, supervisors and delegate)
-      - Read Graduation Plan before the start of Kick-off
+    ],
+    [Actions supervisors], [
+      - Read the Graduation Plan before the start of the Kick-off
     ],
     //--
     table.header(repeat: false,
@@ -93,7 +95,7 @@
     MyCase. The form/content of this document is decided by the
     supervisors.],
     [Assessment method], [(none)],
-    [Actions supervisors], [Responsible supervisor books the room and invites the second supervisor],
+    [Actions responsible supervisor], [Book the room and invite the second supervisor],
     [Actions student], [Upload the required document to MyCase],
     table.header(repeat: false,
       table.cell([*At the session*], fill: green.lighten(80%)),
@@ -137,11 +139,13 @@
       - Perform the plagiarism scan in Brightspace
       - Prepare presentation 
     ],
-    [Actions supervisors], [
+    [Actions responsible supervisor], [
       - Book a room
       - Register planning in the GEO2022 website (date, time, room, student details, supervisors and delegate)
-      - Read the draft MSc thesis
       - Check results of plagiarism check
+    ],
+    [Actions supervisors], [
+      - Read the draft MSc thesis
       - Check if and how student implemented advice/feedback from the Midterm.
     ],
     //--
@@ -159,7 +163,7 @@
     [Assessors], [Responsible and second supervisors], 
     [Quorum],  [Both supervisors and delegate], 
     [Actions student], [Give presentation and answer questions], 
-    [Actions supervisors], [Fill in the feedback form, upload it in MyCase and give feedback],
+    [Actions responsible supervisor], [Fill in the feedback form, upload it in MyCase and give feedback],
     [Actions delegate], [Chair the assessment and the deliberation],
     //--
     table.header(repeat: false,
@@ -198,10 +202,12 @@
       - Upload final thesis and finalisation presentation to the TU Delft repository (1 day before the presentation)
       - Prepare presentation
     ],
-    [Actions supervisors and co-reader], [
+    [Actions responsible supervisor], [
       - Book a date/time slot
-      - Read the final MSc thesis
       - Check results of plagiarism check
+    ],
+    [Actions supervisory team], [
+      - Read the final MSc thesis
       - Check if and how student implemented advice/feedback from the Green-light.
       - Send their tentative marks to the delegate before the session
     ],
@@ -223,8 +229,8 @@
       - Give presentation and answer questions
       - Sign the diploma on both sides
     ],
+    [Actions supervisory team], [Fill in the final grade list],
     [Actions supervisors], [
-      - Fill in the final grade list
       - Hand over the diploma and the grade list (the latter in a closed
         envelope)
       - Give the laudation (without announcing the final grade to the public)

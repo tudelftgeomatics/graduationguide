@@ -16,7 +16,7 @@ If a student starts their thesis in Q3, +1 should be added to the weeks mentione
     columns: 4,
     align: left + horizon,
     fill: (_, y) => if y == 0 { green.lighten(80%) },
-    table.header([*Phase*], [*When*], [*What*], [*Who*],),
+    table.header([*Phase*], [*When* \ #text(size: 0.8em)[(TU Delft week)]], [*What*], [*Who*],),
     table.hline(),
     table.cell(x: 0, y: 1, rowspan: 6)[*Preparation*],
     [1.3], [Submit thesis topic form in GEO2022 website], [Student],
