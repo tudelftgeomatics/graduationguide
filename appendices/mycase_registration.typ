@@ -10,7 +10,7 @@ All information about the graduation (general information and planning, stakehol
 
 The table below serves as a chronological overview of all tasks and responsibilities for students who start their thesis in Q2 (which is the standard/default case).
 
-If a student starts their thesis in Q3, +1 should be added to the weeks mentioned in the table; as an example the submission of the topic should be done before week 2.3 and the MyCase registration should be done weeks 2.8--3.2.
+For example, if a student starts their thesis in Q3, adding +1 to the weeks mentioned in the table will produce the approximate timeline for the student. The submission of the topic should therefore be done before week 2.3 and the MyCase registration should be done weeks 2.8--3.2.
 
   #table(
     columns: 4,
@@ -32,7 +32,7 @@ If a student starts their thesis in Q3, +1 should be added to the weeks mentione
     agreement, and submit 'Ready for Kick-off' task in MyCase], [Student],
     table.cell(x: 1, y: 8, rowspan: 2)[2.9--2.10], [Kick-off assessment], [Student, supervisors and
     delegate],
-    [Submit result and feedback in MyCase], [Responsible supervisor],
+    [Submit result and feedback form in MyCase], [Responsible supervisor],
     table.cell(x: 0, y: 10, rowspan: 4)[*Midterm*],
     table.cell(x: 1, y: 10, rowspan: 3)[3.8--3.9], [Upload midterm materials, and
     submit 'Ready for Midterm' task in MyCase], [Student],
