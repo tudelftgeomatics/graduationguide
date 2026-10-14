@@ -58,7 +58,7 @@ The supervisors assess all categories, while the co-reader assesses the Research
 One grade is given per category; the aspects serve as a checklist to support the judgement.
 Half-point grades may be given; the descriptors are formulated at whole grades, and a half-point grade is judged between the two neighbouring descriptors.
 Grades of 5.75 and higher round up to 6 and count as a pass.
-_(Digital version in PDF and XLSX is available at
+_(Digital versions available at
 #link("https://geomatics.bk.tudelft.nl/geo2022/rubric/")\;)_
 
 #page(
